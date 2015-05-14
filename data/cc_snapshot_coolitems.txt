@@ -1,0 +1,179 @@
+1	sealskin drum	sealdrum
+2	washboard shield	washboard
+3	spaghetti-box banjo	spagbanjo
+4	marinara jug	jug
+5	makeshift castanets	castanets
+6	left-handed melodica	melodica
+7	monstrous monocle	futureeye
+8	brazen bracelet	futurebracelet
+9	molten medallion	futuremedal
+10	bewitching boots	futureboots
+11	bitter bowtie	futurebowtie
+12	musty moccasins	futureshoes
+13	Staff of the Short Order Cook	chefstaff3
+14	Staff of the Midnight Snack	chefstaff6
+15	Staff of Blood and Pudding	chefstaff7
+16	Staff of the Teapot Tempest	chefstaff18
+17	Staff of the Greasefire	chefstaff1
+18	Staff of the Black Kettle	chefstaff19
+19	Staff of the Soupbone	chefstaff21
+20	Staff of the Well-Tempered Cauldron	chefstaff20
+21	Staff of the Walk-In Freezer	chefstaff2
+22	Staff of the Grand Flamb&eacute;	chefstaff8
+23	Staff of the Kitchen Floor	chefstaff5
+24	Staff of the Grease Trap	chefstaff4
+25	Staff of the Deepest Freeze	chefstaff9
+26	crumpled felt fedora	hobofedora
+27	battered old top-hat	hobotophat
+28	shapeless wide-brimmed hat	hobowidehat
+29	mostly rat-hide leggings	yakpants
+30	hobo dungarees	dungarees
+31	old patched suit-pants	mailpants
+32	old soft shoes	softshoes
+33	hobo stogie	cigarbutt
+34	rope with some soap on it	ropesoap
+35	Underworld truncheon	ut_club
+36	Staff of the Woodfire	ut_staff
+37	Underworld flail	ut_flail
+38	17-ball	17ball
+39	Counterclockwise watch	backwatch
+40	crazy bastard sword	bsword
+41	Dallas Dynasty Falcon Crest shield	falconcrest
+42	hockey stick of furious angry rage	hockstick
+43	hypnodisk	hypnodisk
+44	incredibly dense meat gem	meatgem
+45	Platinum Yendorian Express Card	pyec
+46	Talisman of Baio	baiotal
+47	Talisman of Bakula	bakutal
+48	consolation ribbon	ribbon
+49	Staff of the November Jack-O-Lantern
+50	The Necbromancer's Hat	necrocap	none	none	none	none	none
+51	The Necbromancer's Stein	necrostein	none	none	none	none	none
+52	The Necbromancer's Shorts	necroshorts	none	none	none	none	none
+53	The Necbromancer's Wizard Staff	necrostaff	none	none	none	none	none
+54	Thwaitgold bee statuette	thwaitbee
+55	Thwaitgold grasshopper statuette	thwaitgrass
+56	Thwaitgold butterfly statuette	thwaitbutt
+57	Thwaitgold stag beetle statuette	thwaitbeetle
+58	Staff of The Scummy Sink	scumsinkstaff
+59	Staff of Holiday Sensations	pepperstaff
+60	Thwaitgold woollybear statuette	thwaitwooly
+61	Thwaitgold maggot statuette	thwaitmaggot
+62	Thwaitgold praying mantis statuette	thwaitmantis
+63	Lens of Violence	vio_lens
+64	Pigsticker of Violence	vio_knife
+65	Brand of Violence	vio_brand
+66	Jodhpurs of Violence	vio_pants
+67	Ass-Stompers of Violence	vio_boots
+68	Novelty Belt Buckle of Violence	vio_buckle
+69	Lens of Hatred	hate_lens
+70	Staff of Simmering Hatred	hate_staff
+71	Cold Stone of Hatred	hate_stone
+72	Pantaloons of Hatred	hate_pants
+73	Fuzzy Slippers of Hatred	hate_slippers
+74	Girdle of Hatred	hate_girdle
+75	Goggles of Loathing	loathe_goggles
+76	Stick-Knife of Loathing	loathe_snife
+77	Scepter of Loathing	loathe_scepter
+78	Jeans of Loathing	loathe_jeans
+79	Treads of Loathing	loathe_boots
+80	Belt of Loathing	loathe_belt
+81	Pocket Square of Loathing	loathe_square
+82	Thwaitgold firefly statuette	thwaitfirefly
+83	Thwaitgold Goliath beetle statuette	thwaitgoliath
+84	Great Wolf's headband	ww_headband
+85	Great Wolf's right paw	ww_rightclaw
+86	Great Wolf's left paw	ww_leftclaw
+87	Great Wolf's lice	ww_lice
+88	Great Wolf's rocket launcher	ww_bazooka
+89	Great Wolf's beastly trousers	ww_pants
+90	Drapes-You-Regally	bb_cloak
+91	Warms-Your-Tush	bb_pants
+92	Covers-Your-Head	bb_hat
+93	Protects-Your-Junk	bb_speedo
+94	Quiets-Your-Steps	bb_shoes
+95	Helps-You-Sleep	bb_mask
+96	Mayor Ghost's cloak	mg_cape
+97	Mayor Ghost's khakis	mg_pants
+98	Mayor Ghost's toupee	mg_hat
+99	Mayor Ghost's scissors	mg_scissors
+100	Mayor Ghost's sash	mg_sash
+101	Mayor Ghost's gavel	mg_gavel
+102	zombie mariachi hat	zh_hat
+103	zombie accordion	zh_accordion
+104	zombie mariachi pants	zh_pants
+105	HOA regulation book	book4
+106	HOA zombie eyes	zh_eyes
+107	HOA citation pad	zh_pad
+108	Unkillable Skeleton's skullcap	sk_hat
+109	Unkillable Skeleton's shinguards	sk_pants
+110	Unkillable Skeleton's breastplate	sk_chest
+111	Unkillable Skeleton's shield	sk_shield
+112	Unkillable Skeleton's sawsword	sk_sword
+113	Unkillable Skeleton's restless leg	sk_leg
+114	Thunkula's drinking cap	dr_hat
+115	Drunkula's silky pants	dr_pants
+116	Drunkula's cape	dr_cape
+117	Drunkula's ring of haze	dr_ring
+118	Drunkula's wineglass	dr_wineglass
+119	Drunkula's bell	dr_bell
+120	Helm of the Scream Emperor	wtbhelmet
+121	Cloak of Dire Shadows	wtbcloak
+122	Sword of Dark Omens	wtbsword
+123	Shield of Icy Fate	wtbshield
+124	Greaves of the Murk Lord	wtbgreaves
+125	Boots of Twilight Whispers	wtbboots
+126	Belt of Howling Anger	wtbbelt
+127	Gauntlets of the Blood Moon	wtbgauntlets
+128	Truthsayer	truthseeker
+129	Byte	byte
+130	Sword of Procedural Generation	pcgsword
+131	Meatcleaver	meatcleaver
+132	Bloodbath	bloodbath
+133	Ginsu&trade;	ginsu
+134	White Dragon Fang	whitefang
+135	Thwaitgold bookworm statuette	thwaitbookworm
+136	Thwaitgold ant statuette	thwaitant
+137	optimal spreadsheet	spreadsheet
+138	warbear warscarf	wbscarf1
+139	warbear laser bowtie	wbbowtie1
+140	warbear goggles	wbgoggles1
+141	warbear fleece-lined warscarf	wbscarf2
+142	warbear plasma bowtie	wbbowtie2
+143	warbear snowblindness goggles	wbgoggles2
+144	warbear electric warscarf	wbscarf3
+145	warbear nuclear bowtie	wbbowtie3
+146	warbear polarized goggles	wbgoggles3
+147	warbear plain ushanka	wbhat7
+148	warbear plain helm	wbhat4
+149	warbear plain fedora	wbhat1
+150	warbear lined ushanka	wbhat8
+151	warbear spiked helm	wbhat5
+152	warbear feathered fedora	wbhat2
+153	warbear heated ushanka	wbhat9
+154	warbear electro-spiked helm	wbhat6
+155	warbear fancy fedora	wbhat3
+156	warbear long johns	wbpants7
+157	warbear battle greaves	wbpants4
+158	warbear party pants	wbpants1
+159	warbear fleece-lined long johns	wbpants8
+160	warbear officer greaves	wbpants5
+161	warbear ceremonial party pants	wbpants2
+162	warbear electric long johns	wbpants9
+163	warbear bearserker greaves	wbpants6
+164	warbear high festival pants	wbpants3
+165	warbear breakfast machine	wbbbox2
+166	warbear soda machine	wbsoda2
+167	silver cow creamer	cowcreamer
+168	wolf whistle	wolfwhistle
+169	witch's bra	bra
+170	spinning wheel	spinningwheel
+171	hare pin	harepin
+172	Staff of the Roaring Hearth	sk_staff
+173	Thwaitgold dragonfly statuette	thwaitdragon
+174	Thwaitgold wheel bug statuette	thwaitwheelbug
+175	Thwaitgold spider statuette	thwaitspider
+176	Thwaitgold nit statuette	thwaitnit
+177	Thwaitgold scarab beetle statuette	thwaitscarab
+
+

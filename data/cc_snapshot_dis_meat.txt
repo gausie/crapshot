@@ -1,0 +1,180 @@
+1	4-d camera	none	none	none	none	none	none	none
+2	Bonerdagon necklace	none	none	none	none	none	none	none
+3	Gnollish autoplunger	none	none	none	none	none	none	none
+4	Harold's hammer	none	none	none	none	none	none	none
+5	Meat maid	none	none	none	none	none	none	none
+6	Meat maid body	none	none	none	none	none	none	none
+7	ND	none	none	none	none	none	none	none
+8	NG	none	none	none	none	none	none	none
+9	Staff of Ed (eye)	Staff of Ed</b> <font size=1><br/>Eye of Ed (0) + Staff of Ed, almost (0)	none	none	none	none	none	none
+10	Staff of Ed, almost	none	none	none	none	none	none	none
+11	Talisman o' Nam	none	none	none	none	none	none	none
+12	WA	none	none	none	none	none	none	none
+13	Wand of Nagamar	none	none	none	none	none	none	none
+14	abridged dictionary	none	none	none	none	none	none	none
+15	aerated diving helmet	none	none	none	none	none	none	none
+16	asshat	none	none	none	none	none	none	none
+17	badass belt	none	none	none	none	none	none	none
+18	barskin tent	none	none	none	none	none	none	none
+19	bartender skull	none	none	none	none	none	none	none
+20	bartender-in-the-box	none	none	none	none	none	none	none
+21	boxing-glove-in-a-box	none	none	none	none	none	none	none
+22	beach glass necklace	none	none	none	none	none	none	none
+23	beanbag chair	none	none	none	none	none	none	none
+24	beer goggles	none	none	none	none	none	none	none
+25	bitchin' meatcar	none	none	none	none	none	none	none
+26	bone rattle	none	none	none	none	none	none	none
+27	box-in-the-box	none	none	none	none	none	none	none
+28	box-in-the-box-in-the-box	none	none	none	none	none	none	none
+29	boxing glove on a spring	none	none	none	none	none	none	none
+30	brainy skull	none	none	none	none	none	none	none
+31	burrowgrub hive	none	none	none	none	none	none	none
+32	charged magnet	none	none	none	none	none	none	none
+33	chef skull	none	none	none	none	none	none	none
+34	chef-in-the-box	none	none	none	none	none	none	none
+35	creepy voodoo doll	none	none	none	none	none	none	none
+36	chitinous pod	none	none	none	none	none	none	none
+37	clockwork bartender head	none	none	none	none	none	none	none
+38	clockwork bartender-in-the-box	none	none	none	none	none	none	none
+39	clockwork chef-in-the-box	none	none	none	none	none	none	none
+40	clockwork chef head	none	none	none	none	none	none	none
+41	holiday log	none	none	none	none	none	none	none
+42	innuendo	none	none	none	none	none	none	none
+43	clockwork detective skull	none	none	none	none	none	none	none
+44	clockwork maid	none	none	none	none	none	none	none
+45	clockwork maid head	none	none	none	none	none	none	none
+46	clockwork pirate skull	none	none	none	none	none	none	none
+47	club of corruption	none	none	none	none	none	none	none
+48	cog and sprocket assembly	none	none	none	none	none	none	none
+49	corrupt club of corrupt corruption	none	none	none	none	none	none	none
+50	corrupt club of corruption	none	none	none	none	none	none	none
+51	cottage	none	none	none	none	none	none	none
+52	decaying wooden oar	none	none	none	none	none	none	none
+53	detective skull	none	none	none	none	none	none	none
+54	disembodied smile	none	none	none	none	none	none	none
+55	dope wheels	none	none	none	none	none	none	none
+56	dusty animal skull	none	none	none	none	none	none	none
+57	eXtreme nose ring	none	none	none	none	none	none	none
+58	enchanted eyepatch	none	none	none	none	none	none	none
+59	evil golden arches	none	none	none	none	none	none	none
+60	fertilized ghuol egg	none	none	none	none	none	none	none
+61	full meat tank	none	none	none	none	none	none	none
+62	giant fishhook	none	none	none	none	none	none	none
+63	gnashing teeth	none	none	none	none	none	none	none
+64	gnatwing earring	none	none	none	none	none	none	none
+65	gnoll-tooth necklace	none	none	none	none	none	none	none
+66	goat	none	none	none	none	none	none	none
+67	grass whistle	none	none	none	none	none	none	none
+68	headpiece of the Staff of Ed	none	none	none	none	none	none	none
+69	heavy metal sonata	none	none	none	none	none	none	none
+70	heavy metal thunderrr guitarrr	none	none	none	none	none	none	none
+71	hosed fishbowl	none	none	none	none	none	none	none
+72	hosed tank	none	none	none	none	none	none	none
+73	hovering sombrero	none	none	none	none	none	none	none
+74	ice skate decoy	none	none	none	none	none	none	none
+75	ice skate doll	none	none	none	none	none	none	none
+76	imbued seal-blubber candle	none	none	none	none	none	none	none
+77	intragalactic rowboat	none	none	none	none	none	none	none
+78	leaf	none	none	none	none	none	none	none
+79	lifeless meat doll	none	none	none	none	none	none	none
+80	maid head	none	none	none	none	none	none	none
+81	makeshift SCUBA gear (hosed fishbowl)	makeshift SCUBA gear</b> <font size=1><br/>fishtank (0) + hosed fishbowl (0)	none	none	none	none	none	none
+82	maple leaf	none	none	none	none	none	none	none
+83	mass of wriggling tentacles	none	none	none	none	none	none	none
+84	meat engine	none	none	none	none	none	none	none
+85	meat face	none	none	none	none	none	none	none
+86	meat golem	none	none	none	none	none	none	none
+87	meat stack	none	none	none	none	none	none	none
+88	memory of a CA base pair	none	none	none	none	none	none	none
+89	memory of a CG base pair	none	none	none	none	none	none	none
+90	memory of a CT base pair	none	none	none	none	none	none	none
+91	memory of a GT base pair	none	none	none	none	none	none	none
+92	memory of an AG base pair	none	none	none	none	none	none	none
+93	memory of an AT base pair	none	none	none	none	none	none	none
+94	ninja pirate zombie robot head	none	none	none	none	none	none	none
+95	nothing-in-the-box	none	none	none	none	none	none	none
+96	nothing-in-the-box-in-the-box	none	none	none	none	none	none	none
+97	office-supply crossbow	none	none	none	none	none	none	none
+98	one-winged stab bat	none	none	none	none	none	none	none
+99	oyster basket	none	none	none	none	none	none	none
+100	pair of ragged claws	none	none	none	none	none	none	none
+101	pair of twitching claws	none	none	none	none	none	none	none
+102	parasitic claw	none	none	none	none	none	none	none
+103	parasitic headgnawer	none	none	none	none	none	none	none
+104	parasitic strangleworm	none	none	none	none	none	none	none
+105	parasitic tentacles	none	none	none	none	none	none	none
+106	peace-sign necklace	none	none	none	none	none	none	none
+107	phat turquoise bracelet	none	none	none	none	none	none	none
+108	pirate skull	none	none	none	none	none	none	none
+109	pirate zombie head	none	none	none	none	none	none	none
+110	pirate zombie robot head	none	none	none	none	none	none	none
+111	present	none	none	none	none	none	none	none
+112	pretty bouquet	none	none	none	none	none	none	none
+113	rainbow bomb	none	none	none	none	none	none	none
+114	really really sticky spider web	none	none	none	none	none	none	none
+115	really sticky spider web	none	none	none	none	none	none	none
+116	reassembled blackbird	none	none	none	none	none	none	none
+117	rewinged stab bat	none	none	none	none	none	none	none
+118	roller skate decoy	none	none	none	none	none	none	none
+119	roller skate doll	none	none	none	none	none	none	none
+120	rusty metal key	none	none	none	none	none	none	none
+121	rusty old lantern	none	none	none	none	none	none	none
+122	sabre-toothed lime cub	none	none	none	none	none	none	none
+123	scary death orb	none	none	none	none	none	none	none
+124	skeleton key	none	none	none	none	none	none	none
+125	spooky scarecrow	none	none	none	none	none	none	none
+126	spooky staff	none	none	none	none	none	none	none
+127	sprocket assembly	none	none	none	none	none	none	none
+128	tambourine	none	none	none	none	none	none	none
+129	wang	none	none	none	none	none	none	none
+130	wholeberd	none	none	none	none	none	none	none
+131	wriggling tentacle	none	none	none	none	none	none	none
+132	Staff of Ed (headpiece)	Staff of Ed</b> <font size=1><br/>Staff of Fats (0) + headpiece of the Staff of Ed (0)	none	none	none	none	none	none
+133	makeshift SCUBA gear (hosed tank)	makeshift SCUBA gear</b> <font size=1><br/>fishbowl (0) + hosed tank (0)	none	none	none	none	none	none
+134	smoked potsherd	none	none	none	none	none	none	none
+135	pumpkin carriage	none	none	none	none	none	none	none
+136	pumpkin bomb	none	none	none	none	none	none	none
+137	mysterious present	none	none	none	none	none	none	none
+138	popcorn	none	none	none	none	none	none	none
+139	s'more gun	none	none	none	none	none	none	none
+140	the finger	none	none	none	none	none	none	none
+141	tiny black hole	none	none	none	none	none	none	none
+142	chaos popcorn	none	none	none	none	none	none	none
+143	reconstituted crow	none	none	none	none	none	none	none
+144	The Necbronomicon (used)	none	none	none	none	none	none	none
+145	A Crimbo Carol, Ch. 1 (used)	none	none	none	none	none	none	none
+146	A Crimbo Carol, Ch. 2 (used)	none	none	none	none	none	none	none
+147	A Crimbo Carol, Ch. 3 (used)	none	none	none	none	none	none	none
+148	A Crimbo Carol, Ch. 4 (used)	none	none	none	none	none	none	none
+149	A Crimbo Carol, Ch. 5 (used)	none	none	none	none	none	none	none
+150	A Crimbo Carol, Ch. 6 (used)	none	none	none	none	none	none	none
+151	The Art of Slapfighting (used)	none	none	none	none	none	none	none
+152	Uncle Romulus (used)	none	none	none	none	none	none	none
+153	A Beginner's Guide to Charming Snakes (used)	none	none	none	none	none	none	none
+154	Zu Mannk&auml;se Dienen (used)	none	none	none	none	none	none	none
+155	Autobiography Of Dynamite Superman Jones (used)	none	none	none	none	none	none	none
+156	Inigo's Incantation of Inspiration (crumpled)	none	none	none	none	none	none	none
+157	Tales of a Kansas Toymaker (used)	none	none	none	none	none	none	none
+158	The Joy of Wassailing (used)	none	none	none	none	none	none	none
+159	CRIMBCO Employee Handbook (chapter 1) (used)	none	none	none	none	none	none	none
+160	CRIMBCO Employee Handbook (chapter 2) (used)	none	none	none	none	none	none	none
+161	CRIMBCO Employee Handbook (chapter 3) (used)	none	none	none	none	none	none	none
+162	CRIMBCO Employee Handbook (chapter 4) (used)	none	none	none	none	none	none	none
+163	CRIMBCO Employee Handbook (chapter 5) (used)	none	none	none	none	none	none	none
+164	Field Guide to Skeletal Anatomy (shredded)	none	none	none	none	none	none	none
+165	Ellsbury's journal (used)	none	none	none	none	none	none	none
+166	sandpaper	none	none	none	none	none	none	none
+167	scrap of sticky paper	none	none	none	none	none	none	none							
+168	peppermint parasol	none	none	none	none	none	none	none			
+169	candy cane candygram	none	none	none	none	none	none	none			
+170	banana supersucker	none	none	none	none	none	none	none			
+171	pear supersucker	none	none	none	none	none	none	none			
+172	lime supersucker	none	none	none	none	none	none	none			
+173	kumquat supersucker	none	none	none	none	none	none	none			
+174	strawberry supersucker	none	none	none	none	none	none	none			
+175	blank fudge mold	none	none	none	none	none	none	none			
+176	ammonite candy mold	none	none	none	none	none	none	none			
+177	belemnite candy mold	none	none	none	none	none	none	none			
+178	trilobite candy mold	none	none	none	none	none	none	none
+179	hot daub	none	none	none	none	none	none	none
+180	wings of fire	none	none	none	none	none	none	none

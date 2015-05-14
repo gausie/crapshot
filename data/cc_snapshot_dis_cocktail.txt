@@ -1,0 +1,153 @@
+1	Divine	none	none	none	none	none	none	none
+2	Gordon Bennett	none	none	none	none	none	none	none
+3	Mae West	none	none	none	none	none	none	none
+4	Mae West with a fly in it	none	none	none	none	none	none	none
+5	Mon Tiki	none	none	none	none	none	none	none
+6	Neuromancer	none	none	none	none	none	none	none
+7	White Hyborian	none	none	none	none	none	none	none
+8	a little sump'm sump'm	none	none	none	none	none	none	none
+9	an evil little sump'm sump'm	none	none	none	none	none	none	none
+10	banana daiquiri	none	none	none	none	none	none	none
+11	berry-infused sake	none	none	none	none	none	none	none
+12	blended frozen swill	none	none	none	none	none	none	none
+13	blended frozen swill with a fly in it	none	none	none	none	none	none	none
+14	bloody beer (Sir S)	bloody beer</b> <font size=1><br/>ice-cold Sir Schlitz (0) + tomato (0)	none	none	none	none	none	none
+15	bloody mary	none	none	none	none	none	none	none
+16	bodyslam	none	none	none	none	none	none	none
+17	boilermaker	none	none	none	none	none	none	none
+18	bungle in the jungle	none	none	none	none	none	none	none
+19	caipifruta	none	none	none	none	none	none	none
+20	calle de miel	none	none	none	none	none	none	none
+21	calle de miel with a fly in it	none	none	none	none	none	none	none
+22	cherry bomb	none	none	none	none	none	none	none
+23	citrus-infused sake	none	none	none	none	none	none	none
+24	cool mushroom wine	none	none	none	none	none	none	none
+25	dew yoana lei	none	none	none	none	none	none	none
+26	dew yoana salacious lei	none	none	none	none	none	none	none
+27	dirty martini	none	none	none	none	none	none	none
+28	dry martini	none	none	none	none	none	none	none
+29	dry vodka martini	none	none	none	none	none	none	none
+30	ducha de oro	none	none	none	none	none	none	none
+31	eggnog	none	none	none	none	none	none	none
+32	especially salty dog	none	none	none	none	none	none	none
+33	evil ducha de oro	none	none	none	none	none	none	none
+34	evil horizontal tango	none	none	none	none	none	none	none
+35	evil roll in the hay	none	none	none	none	none	none	none
+36	extra-spicy bloody mary	none	none	none	none	none	none	none
+37	fine wine	none	none	none	none	none	none	none
+38	flaming mushroom wine	none	none	none	none	none	none	none
+39	pebblebr&auml;u (Willer)	pebblebr&auml;u</b> <font size=1><br/>ice-cold Willer (0) + floaty pebbles (0)	none	none	none	none	none	none
+40	flat mushroom wine	none	none	none	none	none	none	none
+41	fruity girl swill	none	none	none	none	none	none	none
+42	fuzzbump	none	none	none	none	none	none	none
+43	gibson	none	none	none	none	none	none	none
+44	gimlet	none	none	none	none	none	none	none
+45	gin and tonic	none	none	none	none	none	none	none
+46	gloomy mushroom wine	none	none	none	none	none	none	none
+47	green beer (Sir S)	green beer</b> <font size=1><br/>ten-leaf clover (0) + ice-cold Sir Schlitz (0)	none	none	none	none	none	none
+48	grog	none	none	none	none	none	none	none
+49	grogtini	none	none	none	none	none	none	none
+50	horizontal tango	none	none	none	none	none	none	none
+51	icy mushroom wine	none	none	none	none	none	none	none
+52	knob mushroom wine	none	none	none	none	none	none	none
+53	knoll mushroom wine	none	none	none	none	none	none	none
+54	lumbering jack	none	none	none	none	none	none	none
+55	lychee chuhai	none	none	none	none	none	none	none
+56	mandarina colada	none	none	none	none	none	none	none
+57	mandarina colada with a fly in it	none	none	none	none	none	none	none
+58	margarita	none	none	none	none	none	none	none
+59	martini	none	none	none	none	none	none	none
+60	melon-infused sake	none	none	none	none	none	none	none
+61	mimosette	none	none	none	none	none	none	none
+62	monkey wrench	none	none	none	none	none	none	none
+63	bottle of gin	none	none	none	none	none	none	none
+64	ocean motion	none	none	none	none	none	none	none
+65	oily mushroom wine	none	none	none	none	none	none	none
+66	old-fashioned	none	none	none	none	none	none	none
+67	papaya sling	none	none	none	none	none	none	none
+68	parisian cathouse	none	none	none	none	none	none	none
+69	pebblebr&auml;u (Sir S)	pebblebr&auml;u</b> <font size=1><br/>ice-cold Sir Schlitz (0) + floaty pebbles (0)	none	none	none	none	none	none
+70	perpendicular hula	none	none	none	none	none	none	none
+71	perpendicular hula with a fly in it	none	none	none	none	none	none	none
+72	pink pony	none	none	none	none	none	none	none
+73	plum wine	none	none	none	none	none	none	none
+74	pointy mushroom wine	none	none	none	none	none	none	none
+75	prussian cathouse	none	none	none	none	none	none	none
+76	prussian cathouse with a fly in it	none	none	none	none	none	none	none
+77	rabbit punch	none	none	none	none	none	none	none
+78	redrum	none	none	none	none	none	none	none
+79	rockin' wagon	none	none	none	none	none	none	none
+80	rockin' wagon with a fly in it	none	none	none	none	none	none	none
+81	roll in the hay	none	none	none	none	none	none	none
+82	rum and cola (dyspepsi)	rum and cola</b> <font size=1><br/>Dyspepsi-Cola (0) + bottle of rum (0)	none	none	none	none	none	none
+83	salacious lychee chuhai	none	none	none	none	none	none	none
+84	salacious screwdiver	none	none	none	none	none	none	none
+85	salty dog	none	none	none	none	none	none	none
+86	sangria	none	none	none	none	none	none	none
+87	sangria del diablo	none	none	none	none	none	none	none
+88	screwdiver	none	none	none	none	none	none	none
+89	screwdriver	none	none	none	none	none	none	none
+90	shot of blackberry schnapps	none	none	none	none	none	none	none
+91	shot of flower schnapps	none	none	none	none	none	none	none
+92	shot of grapefruit schnapps	none	none	none	none	none	none	none
+93	shot of orange schnapps	none	none	none	none	none	none	none
+94	shot of peach schnapps	none	none	none	none	none	none	none
+95	shot of pear schnapps	none	none	none	none	none	none	none
+96	shot of tomato schnapps	none	none	none	none	none	none	none
+97	skewered cherry	none	none	none	none	none	none	none
+98	skewered jumbo olive	none	none	none	none	none	none	none
+99	skewered lime	none	none	none	none	none	none	none
+100	slap and tickle	none	none	none	none	none	none	none
+101	slap and tickle with a fly in it	none	none	none	none	none	none	none
+102	slip 'n' slide	none	none	none	none	none	none	none
+103	spiced rum	none	none	none	none	none	none	none
+104	spooky mushroom wine	none	none	none	none	none	none	none
+105	stinky mushroom wine	none	none	none	none	none	none	none
+106	strawberry daiquiri	none	none	none	none	none	none	none
+107	strawberry wine	none	none	none	none	none	none	none
+108	tangarita	none	none	none	none	none	none	none
+109	tangarita with a fly in it	none	none	none	none	none	none	none
+110	teqiwila	none	none	none	none	none	none	none
+111	teqiwila slammer	none	none	none	none	none	none	none
+112	tequila sunrise	none	none	none	none	none	none	none
+113	tequila sunset	none	none	none	none	none	none	none
+114	tequila with training wheels	none	none	none	none	none	none	none
+115	tropical swill	none	none	none	none	none	none	none
+116	vesper	none	none	none	none	none	none	none
+117	vodka and cranberry	none	none	none	none	none	none	none
+118	vodka and tonic	none	none	none	none	none	none	none
+119	vodka gibson	none	none	none	none	none	none	none
+120	vodka martini	none	none	none	none	none	none	none
+121	vodka stratocaster	none	none	none	none	none	none	none
+122	whiskey and cola (dyspepsi)	whiskey and cola</b> <font size=1><br/>bottle of whiskey (0) + Dyspepsi-Cola (0)	none	none	none	none	none	none
+123	whiskey and soda	none	none	none	none	none	none	none
+124	whiskey bittersweet	none	none	none	none	none	none	none
+125	whiskey sour	none	none	none	none	none	none	none
+126	white Canadian	none	none	none	none	none	none	none
+127	wine spritzer	none	none	none	none	none	none	none
+128	yellow brick road	none	none	none	none	none	none	none
+129	zmobie	none	none	none	none	none	none	none
+130	bottle of rum	none	none	none	none	none	none	none
+131	bottle of tequila	none	none	none	none	none	none	none
+132	bottle of vodka	none	none	none	none	none	none	none
+133	bottle of whiskey	none	none	none	none	none	none	none
+134	boxed wine	none	none	none	none	none	none	none
+135	bloody beer (Willer)	bloody beer</b> <font size=1><br/>ice-cold Willer (0) + tomato (0)	none	none	none	none	none	none
+136	green beer (Willer)	green beer</b> <font size=1><br/>ten-leaf clover (0) + ice-cold Willer (0)	none	none	none	none	none	none
+137	bottle of sake	none	none	none	none	none	none	none
+138	rum and cola (cloaca)	rum and cola</b> <font size=1><br/>bottle of rum (0) + Cloaca-Cola (0)	none	none	none	none	none	none
+139	whiskey and cola (cloaca)	whiskey and cola</b> <font size=1><br/>bottle of whiskey (0) + Cloaca-Cola (0)	none	none	none	none	none	none
+140	world's most unappetizing beverage	none	none	none	none	none	none	none
+141	pumpkin beer	none	none	none	none	none	none	none
+142	Russian Ice	none	none	none	none	none	none	none
+143	Crimbojito	none	none	none	none	none	none	none
+144	Feliz Navidad	none	none	none	none	none	none	none
+145	Gin Mint	none	none	none	none	none	none	none
+146	Mint Yulep	none	none	none	none	none	none	none
+147	Sangria de Menthe	none	none	none	none	none	none	none
+148	Vodka Matryoshka	none	none	none	none	none	none	none
+149	red drunki-bear	none	none	none	none	none	none	none
+150	green drunki-bear	none	none	none	none	none	none	none
+151	yellow drunki-bear	none	none	none	none	none	none	none
+152	slap and slap again	none	none	none	none	none	none	none
+153	soft green echo eyedrop antidote martini	none	none	none	none	none	none	none

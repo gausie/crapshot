@@ -1,0 +1,85 @@
+1	balloon helmet	none	none	none	none	none	none	none
+2	balloon monkey	none	none	none	none	none	none	none
+3	balloon shield	none	none	none	none	none	none	none
+4	balloon sword	none	none	none	none	none	none	none
+5	BRICKO bat	none	none	none	none	none	none	none
+6	BRICKO elephant	none	none	none	none	none	none	none
+7	BRICKO octopus	none	none	none	none	none	none	none
+8	BRICKO ooze	none	none	none	none	none	none	none
+9	BRICKO oyster	none	none	none	none	none	none	none
+10	BRICKO python	none	none	none	none	none	none	none
+11	BRICKO turtle	none	none	none	none	none	none	none
+12	BRICKO hat	none	none	none	none	none	none	none
+13	BRICKO pants	none	none	none	none	none	none	none
+14	BRICKO sword	none	none	none	none	none	none	none
+15	clingfilm cap	none	none	none	none	none	none	none
+16	clingfilm slippers	none	none	none	none	none	none	none
+17	clingfilm tangle	none	none	none	none	none	none	none
+18	clingfilm trousers	none	none	none	none	none	none	none
+19	duct tape buckler	none	none	none	none	none	none	none
+20	duct tape dockers	none	none	none	none	none	none	none
+21	duct tape fedora	none	none	none	none	none	none	none
+22	duct tape shirt	none	none	none	none	none	none	none
+23	duct tape sword	none	none	none	none	none	none	none
+24	duct tape wallet	none	none	none	none	none	none	none
+25	gauze hammock	none	none	none	none	none	none	none
+26	gauze shorts	none	none	none	none	none	none	none
+27	mummy mask	none	none	none	none	none	none	none
+28	really thick bandage	none	none	none	none	none	none	none
+29	extra-large palm-frond toupee	none	none	none	none	none	none	none
+30	palm-frond capris	none	none	none	none	none	none	none
+31	palm-frond cloak	none	none	none	none	none	none	none
+32	palm-frond fan	none	none	none	none	none	none	none
+33	palm-frond net	none	none	none	none	none	none	none
+34	palm-frond whip	none	none	none	none	none	none	none
+35	bark beret	none	none	none	none	none	none	none
+36	bark boxers	none	none	none	none	none	none	none
+37	bark bracelet	none	none	none	none	none	none	none
+38	turtlemail breeches	none	none	none	none	none	none	none
+39	turtlemail coif	none	none	none	none	none	none	none
+40	turtlemail hauberk	none	none	none	none	none	none	none
+41	wumpus-hair bolo	none	none	none	none	none	none	none
+42	wumpus-hair loincloth	none	none	none	none	none	none	none
+43	wumpus-hair net	none	none	none	none	none	none	none
+44	wumpus-hair sweater	none	none	none	none	none	none	none
+45	wumpus-hair whip	none	none	none	none	none	none	none
+46	wumpus-hair wig	none	none	none	none	none	none	none
+47	BRICKO pyramid	none	none	none	none	none	none	none
+48	BRICKO vacuum cleaner	none	none	none	none	none	none	none
+49	BRICKO airship	none	none	none	none	none	none	none
+50	BRICKO cathedral	none	none	none	none	none	none	none
+51	BRICKO gargantuchicken	none	none	none	none	none	none	none
+52	snailmail breeches	none	none	none	none	none	none	none
+53	snailmail coif	none	none	none	none	none	none	none
+54	snailmail hauberk	none	none	none	none	none	none	none
+55	pottery club	none	none	none	none	none	none	none
+56	pottery hat	none	none	none	none	none	none	none
+57	pottery shield	none	none	none	none	none	none	none
+58	pottery training pants	none	none	none	none	none	none	none
+59	pottery yo-yo	none	none	none	none	none	none	none
+60	paperclip pants	none	none	none	none	none	none	none
+61	paperclip cape	none	none	none	none	none	none	none
+62	paperclip-on tie	none	none	none	none	none	none	none
+63	paperclip sproinger	none	none	none	none	none	none	none
+64	paperclip turban	none	none	none	none	none	none	none
+65	double-ice cap	none	none	none	none	none	none	none
+66	double-ice box	none	none	none	none	none	none	none
+67	double-ice britches	none	none	none	none	none	none	none
+68	honey dipper	none	none	none	none	none	none	none
+69	honey mead	none	none	none	none	none	none	none
+70	honeybritches	none	none	none	none	none	none	none
+71	honeycap	none	none	none	none	none	none	none
+72	honeypot	none	none	none	none	none	none	none
+73	wild honey pie	none	none	none	none	none	none	none
+74	peppermint twist	none	none	none	none	none	none	none
+75	peppermint patty	none	none	none	none	none	none	none
+76	peppermint crook	none	none	none	none	none	none	none
+77	cane-mail pants	none	none	none	none	none	none	none
+78	peppermint rhino baby	none	none	none	none	none	none	none
+79	cane-mail shirt	none	none	none	none	none	none	none
+80	ballpark hot daub	none	none	none	none	none	none	none
+81	foot-long hot daub	none	none	none	none	none	none	none
+82	hot daub bun	none	none	none	none	none	none	none
+83	hot daub stand	none	none	none	none	none	none	none
+84	wax hat	none	none	none	none	none	none	none
+85	wax pants	none	none	none	none	none	none	none

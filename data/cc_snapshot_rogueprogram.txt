@@ -1,0 +1,5 @@
+1	space trip safety headphones	headphones
+2	sinister demon mask	sinimask
+3	dungeon fist gauntlet	dungeonfist
+4	streetfighting champion's belt	champbelt
+5	meteoid ice beam	armcannon

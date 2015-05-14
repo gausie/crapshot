@@ -1,0 +1,18 @@
+1	stainless steel shillelagh	ssshil	none	none	none	none	none
+2	stainless steel skullcap	sscap	none	none	none	none	none
+3	stainless steel solitaire	ssnecklace	none	none	none	none	none
+4	stainless steel scarf	ssscarf	none	none	none	none	none
+5	stainless steel slacks	ssslacks	none	none	none	none	none
+6	stainless steel suspenders	sssus	none	none	none	none	none
+7	plexiglass pikestaff	plexpike	none	none	none	none	none
+8	plexiglass pith helmet	plexpith	none	none	none	none	none
+9	plexiglass pocketwatch	plexpock	none	none	none	none	none
+10	plexiglass pinky ring	plexpink	none	none	none	none	none
+11	plexiglass pants	plexpant	none	none	none	none	none
+12	plexiglass pendant	plexpend	none	none	none	none	none
+13	Brimstone Bludgeon	brimbludgeon	none	none	none	none	none
+14	Brimstone Bunker	brimbunker	none	none	none	none	none
+15	Brimstone Brooch	brimbrooch	none	none	none	none	none
+16	Brimstone Bracelet	brimbracelet	none	none	none	none	none
+17	Brimstone Boxers	brimboxers	none	none	none	none	none
+18	Brimstone Beret	brimberet	none	none	none	none	none

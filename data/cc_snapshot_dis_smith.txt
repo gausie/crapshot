@@ -1,0 +1,265 @@
+1	17-alarm Saucepan	none	none	none	none	none	none	none
+2	5-Alarm Saucepan	none	none	none	none	none	none	none
+3	7-inch discus	none	none	none	none	none	none	none
+4	Bjorn's Hammer	none	none	none	none	none	none	none
+5	Chelonian Morningstar	none	none	none	none	none	none	none
+6	Crimbo hat	none	none	none	none	none	none	none
+7	Crimbo pants	none	none	none	none	none	none	none
+8	Crimbo sword	none	none	none	none	none	none	none
+9	Disco Banjo	none	none	none	none	none	none	none
+10	Frost&trade; brand sword	none	none	none	none	none	none	none
+11	Greek Pasta of Peril	none	none	none	none	none	none	none
+12	Hammer of Smiting	none	none	none	none	none	none	none
+13	Kentucky-fried meat crossbow	none	none	none	none	none	none	none
+14	Kentucky-fried meat staff	none	none	none	none	none	none	none
+15	Kentucky-fried meat sword	none	none	none	none	none	none	none
+16	Mace of the Tortoise	none	none	none	none	none	none	none
+17	PVC staff	none	none	none	none	none	none	none
+18	Pasta of Peril	none	none	none	none	none	none	none
+19	Rock and Roll Legend	none	none	none	none	none	none	none
+20	Shagadelic Disco Banjo	none	none	none	none	none	none	none
+21	Spirit Precipice	none	none	none	none	none	none	none
+22	Squeezebox of the Ages	none	none	none	none	none	none	none
+23	Super Magic Power Sword X	none	none	none	none	none	none	none
+24	Tropical Crimbo Hat	none	none	none	none	none	none	none
+25	Tropical Crimbo Shorts	none	none	none	none	none	none	none
+26	Tropical Crimbo Sword	none	none	none	none	none	none	none
+27	ancient turtle shell helmet	none	none	none	none	none	none	none
+28	asbestos crossbow	none	none	none	none	none	none	none
+29	asbestos helmet turtle	none	none	none	none	none	none	none
+30	asbestos meat stack	none	none	none	none	none	none	none
+31	asbestos staff	none	none	none	none	none	none	none
+32	asbestos sword	none	none	none	none	none	none	none
+33	baneful bandolier	none	none	none	none	none	none	none
+34	bar whip	none	none	none	none	none	none	none
+35	barskin buckler	none	none	none	none	none	none	none
+36	barskin cloak	none	none	none	none	none	none	none
+37	barskin hat	none	none	none	none	none	none	none
+38	barskin loincloth	none	none	none	none	none	none	none
+39	basic meat crossbow	none	none	none	none	none	none	none
+40	basic meat fez	none	none	none	none	none	none	none
+41	basic meat foon	none	none	none	none	none	none	none
+42	basic meat helmet	none	none	none	none	none	none	none
+43	basic meat kilt	none	none	none	none	none	none	none
+44	basic meat pants	none	none	none	none	none	none	none
+45	basic meat skirt	none	none	none	none	none	none	none
+46	basic meat spork	none	none	none	none	none	none	none
+47	basic meat staff	none	none	none	none	none	none	none
+48	basic meat sword	none	none	none	none	none	none	none
+49	bat hat	none	none	none	none	none	none	none
+50	bat whip	none	none	none	none	none	none	none
+51	bat-ass leather jacket	none	none	none	none	none	none	none
+52	black belt	none	none	none	none	none	none	none
+53	black cowboy hat	none	none	none	none	none	none	none
+54	bow staff	none	none	none	none	none	none	none
+55	bowlegged pants	none	none	none	none	none	none	none
+56	bowler	none	none	none	none	none	none	none
+57	bubble bauble bow	none	none	none	none	none	none	none
+58	bubblewrap bottlecap turtleban	none	none	none	none	none	none	none
+59	bubblewrap crossbow	none	none	none	none	none	none	none
+60	bubblewrap staff	none	none	none	none	none	none	none
+61	bubblewrap sword	none	none	none	none	none	none	none
+62	buffalo blade	none	none	none	none	none	none	none
+63	can cannon	none	none	none	none	none	none	none
+64	cardboard box turtle	none	none	none	none	none	none	none
+65	cardboard crossbow	none	none	none	none	none	none	none
+66	cardboard staff	none	none	none	none	none	none	none
+67	cardboard sword	none	none	none	none	none	none	none
+68	carob cannon	none	none	none	none	none	none	none
+69	catskin buckler	none	none	none	none	none	none	none
+70	catskin cap	none	none	none	none	none	none	none
+71	chrome crossbow	none	none	none	none	none	none	none
+72	chrome helmet turtle	none	none	none	none	none	none	none
+73	chrome meat stack	none	none	none	none	none	none	none
+74	chrome staff	none	none	none	none	none	none	none
+75	chrome sword	none	none	none	none	none	none	none
+76	clown whip	none	none	none	none	none	none	none
+77	clown wig	none	none	none	none	none	none	none
+78	clownskin belt	none	none	none	none	none	none	none
+79	clownskin buckler	none	none	none	none	none	none	none
+80	clownskin harness	none	none	none	none	none	none	none
+81	club of the five seasons	none	none	none	none	none	none	none
+82	corroded breeches	none	none	none	none	none	none	none
+83	corrosive cowl	none	none	none	none	none	none	none
+84	creepy-ass club	none	none	none	none	none	none	none
+85	curdflinger	none	none	none	none	none	none	none
+86	demon buckler	none	none	none	none	none	none	none
+87	demon whip	none	none	none	none	none	none	none
+88	demon-horned hat	none	none	none	none	none	none	none
+89	demonskin jacket	none	none	none	none	none	none	none
+90	demonskin trousers	none	none	none	none	none	none	none
+91	dense meat crossbow	none	none	none	none	none	none	none
+92	dense meat staff	none	none	none	none	none	none	none
+93	dense meat sword	none	none	none	none	none	none	none
+94	depleted Grimacite astrolabe	none	none	none	none	none	none	none
+95	depleted Grimacite grappling hook	none	none	none	none	none	none	none
+96	depleted Grimacite gravy boat	none	none	none	none	none	none	none
+97	depleted Grimacite hammer	none	none	none	none	none	none	none
+98	depleted Grimacite ninja mask	none	none	none	none	none	none	none
+99	depleted Grimacite shinguards	none	none	none	none	none	none	none
+100	depleted Grimacite weightlifting belt	none	none	none	none	none	none	none
+101	diabolical crossbow	none	none	none	none	none	none	none
+102	dripping meat crossbow (catsup)	dripping meat crossbow</b> <font size=1><br/>catsup (0) + basic meat crossbow (0)	none	none	none	none	none	none
+103	dripping meat staff (catsup)	dripping meat staff</b> <font size=1><br/>catsup (0) + basic meat staff (0)	none	none	none	none	none	none
+104	dripping meat sword (catsup)	dripping meat sword</b> <font size=1><br/>basic meat sword (0) + catsup (0)	none	none	none	none	none	none
+105	dueling banjo	none	none	none	none	none	none	none
+106	eXtreme meat crossbow	none	none	none	none	none	none	none
+107	eXtreme meat staff	none	none	none	none	none	none	none
+108	eXtreme meat sword	none	none	none	none	none	none	none
+109	eelskin hat	none	none	none	none	none	none	none
+110	eelskin pants	none	none	none	none	none	none	none
+111	eelskin shield	none	none	none	none	none	none	none
+112	enchantlers	none	none	none	none	none	none	none
+113	evil-ass club	none	none	none	none	none	none	none
+114	fez of etymology	none	none	none	none	none	none	none
+115	flaming cardboard sword	none	none	none	none	none	none	none
+116	floaty rock helmet	none	none	none	none	none	none	none
+117	floaty rock pants	none	none	none	none	none	none	none
+118	flypaper staff	none	none	none	none	none	none	none
+119	foon of fearfulness	none	none	none	none	none	none	none
+120	foon of fleshiness	none	none	none	none	none	none	none
+121	foon of foulness	none	none	none	none	none	none	none
+122	foon of frigidity	none	none	none	none	none	none	none
+123	foon of fulmination	none	none	none	none	none	none	none
+124	frigid-ass club	none	none	none	none	none	none	none
+125	furry green earmuffs	none	none	none	none	none	none	none
+126	furry kilt	none	none	none	none	none	none	none
+127	furry pants	none	none	none	none	none	none	none
+128	furry skirt	none	none	none	none	none	none	none
+129	gatorskin umbrella (goatskin)	gatorskin umbrella</b> <font size=1><br/>goatskin umbrella (0) + gator skin (0)	none	none	none	none	none	none
+130	giant cheesestick	none	none	none	none	none	none	none
+131	glistening staff	none	none	none	none	none	none	none
+132	gnauga hide buckler	none	none	none	none	none	none	none
+133	gnauga hide chaps	none	none	none	none	none	none	none
+134	gnauga hide kilt	none	none	none	none	none	none	none
+135	gnauga hide skirt	none	none	none	none	none	none	none
+136	gnauga hide vest	none	none	none	none	none	none	none
+137	gnauga hide whip	none	none	none	none	none	none	none
+138	goulauncher	none	none	none	none	none	none	none
+139	grass blade	none	none	none	none	none	none	none
+140	grass hat	none	none	none	none	none	none	none
+141	grass skirt	none	none	none	none	none	none	none
+142	grease gun	none	none	none	none	none	none	none
+143	grisly shield	none	none	none	none	none	none	none
+144	hairy staff	none	none	none	none	none	none	none
+145	heart of rock and roll	none	none	none	none	none	none	none
+146	heavy hot sauce	none	none	none	none	none	none	none
+147	hippo skin buckler	none	none	none	none	none	none	none
+148	hippo whip	none	none	none	none	none	none	none
+149	hippopotamus kilt	none	none	none	none	none	none	none
+150	hippopotamus pants	none	none	none	none	none	none	none
+151	hippopotamus skirt	none	none	none	none	none	none	none
+152	hipposkin poncho	none	none	none	none	none	none	none
+153	hot cross bow	none	none	none	none	none	none	none
+154	hot-ass club	none	none	none	none	none	none	none
+155	icy-hot katana	none	none	none	none	none	none	none
+156	knobby kneepads	none	none	none	none	none	none	none
+157	linoleum crossbow	none	none	none	none	none	none	none
+158	linoleum helmet turtle	none	none	none	none	none	none	none
+159	linoleum meat stack	none	none	none	none	none	none	none
+160	linoleum staff	none	none	none	none	none	none	none
+161	linoleum sword	none	none	none	none	none	none	none
+162	malevolent medallion	none	none	none	none	none	none	none
+163	meat cowboy hat	none	none	none	none	none	none	none
+164	meat shield	none	none	none	none	none	none	none
+165	meatloaf helmet (catsup)	meatloaf helmet</b> <font size=1><br/>basic meat helmet (0) + catsup (0)	none	none	none	none	none	none
+166	meatspout staff	none	none	none	none	none	none	none
+167	meaty helmet turtle	none	none	none	none	none	none	none
+168	muculent machete	none	none	none	none	none	none	none
+169	nasty rat mask	none	none	none	none	none	none	none
+170	nasty-ass club	none	none	none	none	none	none	none
+171	non-stick pugil stick	none	none	none	none	none	none	none
+172	painted shield	none	none	none	none	none	none	none
+173	penguin shorts	none	none	none	none	none	none	none
+174	penguin skin buckler	none	none	none	none	none	none	none
+175	penguin whip	none	none	none	none	none	none	none
+176	penguinskin mini-kilt	none	none	none	none	none	none	none
+177	penguinskin mini-skirt	none	none	none	none	none	none	none
+178	pernicious cudgel	none	none	none	none	none	none	none
+179	pestoblade	none	none	none	none	none	none	none
+180	pimpin' meat hat	none	none	none	none	none	none	none
+181	pink pinkslip slip	none	none	none	none	none	none	none
+182	potato pistol	none	none	none	none	none	none	none
+183	poutine pole	none	none	none	none	none	none	none
+184	projectile icemaker	none	none	none	none	none	none	none
+185	rainbow crossbow	none	none	none	none	none	none	none
+186	ram-battering staff	none	none	none	none	none	none	none
+187	raspberry beret	none	none	none	none	none	none	none
+188	ratskin belt	none	none	none	none	none	none	none
+189	rattail whip	none	none	none	none	none	none	none
+190	reinforced furry underpants	none	none	none	none	none	none	none
+191	repeating crossbow	none	none	none	none	none	none	none
+192	samurai turtle helmet	none	none	none	none	none	none	none
+193	savory crossbow	none	none	none	none	none	none	none
+194	savory staff	none	none	none	none	none	none	none
+195	savory sword	none	none	none	none	none	none	none
+196	seal-toothed rock	none	none	none	none	none	none	none
+197	sebaceous shield	none	none	none	none	none	none	none
+198	sequined fez	none	none	none	none	none	none	none
+199	shuddersword	none	none	none	none	none	none	none
+200	six-rainbow shield	none	none	none	none	none	none	none
+201	smoldering staff	none	none	none	none	none	none	none
+202	soup-chucks	none	none	none	none	none	none	none
+203	soylent staff	none	none	none	none	none	none	none
+204	spaghetti with rock-balls	none	none	none	none	none	none	none
+205	spiky turtle helmet	none	none	none	none	none	none	none
+206	spiky turtle shield	none	none	none	none	none	none	none
+207	spiky turtle shoulderpads	none	none	none	none	none	none	none
+208	sponge helmet	none	none	none	none	none	none	none
+209	spongy shield	none	none	none	none	none	none	none
+210	square sponge pants	none	none	none	none	none	none	none
+211	squeaky staff	none	none	none	none	none	none	none
+212	starchy crossbow	none	none	none	none	none	none	none
+213	starchy staff	none	none	none	none	none	none	none
+214	starchy sword	none	none	none	none	none	none	none
+215	sticky meat skirt	none	none	none	none	none	none	none
+216	sticky meat pants	none	none	none	none	none	none	none
+217	sticky meat skirt	none	none	none	none	none	none	none
+218	stone banjo	none	none	none	none	none	none	none
+219	stone turtle	none	none	none	none	none	none	none
+220	styrofoam crossbow	none	none	none	none	none	none	none
+221	styrofoam staff	none	none	none	none	none	none	none
+222	styrofoam sword	none	none	none	none	none	none	none
+223	sword behind inappropriate prepositions	none	none	none	none	none	none	none
+224	sword of static	none	none	none	none	none	none	none
+225	tail o' nine cats	none	none	none	none	none	none	none
+226	teflon shield	none	none	none	none	none	none	none
+227	teflon spatula	none	none	none	none	none	none	none
+228	teflon swim fins	none	none	none	none	none	none	none
+229	tighty whiteys	none	none	none	none	none	none	none
+230	time helmet	none	none	none	none	none	none	none
+231	time sword	none	none	none	none	none	none	none
+232	time trousers	none	none	none	none	none	none	none
+233	tortoboggan shield	none	none	none	none	none	none	none
+234	tuxedo shirt	none	none	none	none	none	none	none
+235	velcro boots	none	none	none	none	none	none	none
+236	velcro broadsword	none	none	none	none	none	none	none
+237	velcro paddle ball	none	none	none	none	none	none	none
+238	velcro shield	none	none	none	none	none	none	none
+239	villainous scythe	none	none	none	none	none	none	none
+240	vinyl boots	none	none	none	none	none	none	none
+241	vinyl shield	none	none	none	none	none	none	none
+242	white snakeskin duster	none	none	none	none	none	none	none
+243	white whip	none	none	none	none	none	none	none
+244	wiffle-flail	none	none	none	none	none	none	none
+245	yak anorak	none	none	none	none	none	none	none
+246	yak toupee	none	none	none	none	none	none	none
+247	yak whip	none	none	none	none	none	none	none
+248	yakskin buckler	none	none	none	none	none	none	none
+249	yakskin kilt	none	none	none	none	none	none	none
+250	yakskin pants	none	none	none	none	none	none	none
+251	yakskin skirt	none	none	none	none	none	none	none
+252	dripping meat crossbow (ketchup)	dripping meat crossbow</b> <font size=1><br/>ketchup (0) + basic meat crossbow (0)	none	none	none	none	none	none
+253	dripping meat staff (ketchup)	dripping meat staff</b> <font size=1><br/>ketchup (0) + basic meat staff (0)	none	none	none	none	none	none
+254	dripping meat sword (ketchup)	dripping meat sword</b> <font size=1><br/>basic meat sword (0) + ketchup (0)	none	none	none	none	none	none
+255	meatloaf helmet (ketchup)	meatloaf helmet</b> <font size=1><br/>basic meat helmet (0) + ketchup (0)	none	none	none	none	none	none
+256	gatorskin umbrella (titanium)	gatorskin umbrella</b> <font size=1><br/>titanium assault umbrella (0) + gator skin (0)	none	none	none	none	none	none
+257	sticky meat kilt	none	none	none	none	none	none
+258	white belt	none	none	none	none	none	none	none
+259	shin gourds	none	none	none	none	none	none	none
+260	Staff of the November Jack-O-Lantern	none	none	none	none	none	none	none
+261	giant red gummi ingot	none	none	none	none	none	none	none
+262	giant green gummi ingot	none	none	none	none	none	none	none
+263	giant yellow gummi ingot	none	none	none	none	none	none	none
+264	staph of homophones	none	none	none	none	none	none	none
+265	rusty staff	none	none	none	none	none	none	none

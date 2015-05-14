@@ -1,0 +1,230 @@
+1	3vi1 pr0n m4nic0tti	none	none	none	none	none	none	none
+2	Boris's key lime	none	none	none	none	none	none	none
+3	Boris's key lime pie	none	none	none	none	none	none	none
+4	Connery's Elixir of Audacity	none	none	none	none	none	none	none
+5	Crimbo pie	none	none	none	none	none	none	none
+6	Ferrigno's Elixir of Power	none	none	none	none	none	none	none
+7	Frogade	none	none	none	none	none	none	none
+8	Hawking's Elixir of Brilliance	none	none	none	none	none	none	none
+9	Hell broth	none	none	none	none	none	none	none
+10	Hell ramen	none	none	none	none	none	none	none
+11	Himalayan Hidalgo sauce	none	none	none	none	none	none	none
+12	Jarlsberg's key lime	none	none	none	none	none	none	none
+13	Jarlsberg's key lime pie	none	none	none	none	none	none	none
+14	Knob lo mein	none	none	none	none	none	none	none
+16	Knob sausage stir-fry	none	none	none	none	none	none	none
+17	Knob shroomkabob	none	none	none	none	none	none	none
+18	Knob stir-fry	none	none	none	none	none	none	none
+19	Knoll lo mein	none	none	none	none	none	none	none
+20	Knoll shroomkabob	none	none	none	none	none	none	none
+21	Knoll stir-fry	none	none	none	none	none	none	none
+22	Lucky Surprise Egg	none	none	none	none	none	none	none
+23	Sneaky Pete's key lime	none	none	none	none	none	none	none
+24	Sneaky Pete's key lime pie	none	none	none	none	none	none	none
+25	Spooky Surprise Egg	none	none	none	none	none	none	none
+26	asparagus lo mein	none	none	none	none	none	none	none
+27	asparagus stir-fry	none	none	none	none	none	none	none
+28	banana cream pie	none	none	none	none	none	none	none
+29	banana milkshake	none	none	none	none	none	none	none
+30	banana smoothie	none	none	none	none	none	none	none
+31	banana spritzer	none	none	none	none	none	none	none
+32	bat haggis	none	none	none	none	none	none	none
+34	bat wing kabob	none	none	none	none	none	none	none
+35	bat wing stir-fry	none	none	none	none	none	none	none
+36	bean burrito	none	none	none	none	none	none	none
+37	beer basted brat	none	none	none	none	none	none	none
+38	bitter pill	none	none	none	none	none	none	none
+39	blackberry polite	none	none	none	none	none	none	none
+40	boring spaghetti	none	none	none	none	none	none	none
+41	brains casserole	none	none	none	none	none	none	none
+42	briny vinegar	none	none	none	none	none	none	none
+43	carob brownies	none	none	none	none	none	none	none
+44	carob chunk cookies	none	none	none	none	none	none	none
+45	catgut taco	none	none	none	none	none	none	none
+46	cherry pie	none	none	none	none	none	none	none
+47	chorizo taco	none	none	none	none	none	none	none
+48	cocoa egg	none	none	none	none	none	none	none
+49	cold and sour sauce	none	none	none	none	none	none	none
+51	cold wad	none	none	none	none	none	none	none
+52	cologne of contempt	none	none	none	none	none	none	none
+53	concentrated cordial of concentration	none	none	none	none	none	none	none
+54	concoction of clumsiness	none	none	none	none	none	none	none
+55	cool mushroom casserole	none	none	none	none	none	none	none
+56	cordial of concentration	none	none	none	none	none	none	none
+57	cranberry cordial	none	none	none	none	none	none	none
+58	cream of pointy mushroom soup	none	none	none	none	none	none	none
+59	cream pie	none	none	none	none	none	none	none
+60	delicious noodles	none	none	none	none	none	none	none
+61	delicious spicy noodles	none	none	none	none	none	none	none
+62	digital key lime	none	none	none	none	none	none	none
+63	digital key lime pie	none	none	none	none	none	none	none
+64	enchanted bean burrito	none	none	none	none	none	none	none
+65	evil boring spaghetti	none	none	none	none	none	none	none
+66	evil delicious noodles	none	none	none	none	none	none	none
+67	evil delicious spicy noodles	none	none	none	none	none	none	none
+68	evil eyedrops of the ermine	none	none	none	none	none	none	none
+69	evil libation of liveliness	none	none	none	none	none	none	none
+70	evil ointment of the occult	none	none	none	none	none	none	none
+71	evil painful penne pasta	none	none	none	none	none	none	none
+72	evil philter of phorce	none	none	none	none	none	none	none
+73	evil potion of potency	none	none	none	none	none	none	none
+74	evil ravioli della hippy	none	none	none	none	none	none	none
+75	evil serum of sarcasm	none	none	none	none	none	none	none
+76	evil spicy noodles	none	none	none	none	none	none	none
+77	evil tomato juice of powerful power	none	none	none	none	none	none	none
+78	eyedrops of newt	none	none	none	none	none	none	none
+79	eyedrops of the ermine	none	none	none	none	none	none	none
+80	eyedrops of the ocelot	none	none	none	none	none	none	none
+81	fancy schmancy cheese sauce	none	none	none	none	none	none	none
+82	fettucini Inconnu	none	none	none	none	none	none	none
+83	fishy fish	none	none	none	none	none	none	none
+84	fishy fish casserole	none	none	none	none	none	none	none
+86	flask of baconstone juice	none	none	none	none	none	none	none
+87	flask of hamethyst juice	none	none	none	none	none	none	none
+88	flask of porquoise juice	none	none	none	none	none	none	none
+89	flower petal pie	none	none	none	none	none	none	none
+90	ghost pickle on a stick	none	none	none	none	none	none	none
+91	ghostly pickling solution	none	none	none	none	none	none	none
+92	ghuol egg quiche	none	none	none	none	none	none	none
+93	ghuol-ear kabob	none	none	none	none	none	none	none
+95	gnatloaf	none	none	none	none	none	none	none
+96	gnatloaf casserole	none	none	none	none	none	none	none
+97	gnocchetti di Nietzsche	none	none	none	none	none	none	none
+98	goat cheese pizza	none	none	none	none	none	none	none
+99	goat cheese taco	none	none	none	none	none	none	none
+100	grue egg omelette	none	none	none	none	none	none	none
+101	herb brownies	none	none	none	none	none	none	none
+102	hippy herbal tea	none	none	none	none	none	none	none
+103	hot and sour sauce	none	none	none	none	none	none	none
+105	hot stuffing	none	none	none	none	none	none	none
+106	hot wad	none	none	none	none	none	none	none
+107	insanely spicy bean burrito	none	none	none	none	none	none	none
+108	insanely spicy enchanted bean burrito	none	none	none	none	none	none	none
+109	insanely spicy jumping bean burrito	none	none	none	none	none	none	none
+110	jug of baconstone juice	none	none	none	none	none	none	none
+111	jug of hamethyst juice	none	none	none	none	none	none	none
+112	jug of porquoise juice	none	none	none	none	none	none	none
+113	jumping bean burrito	none	none	none	none	none	none	none
+114	jumping bean taco	none	none	none	none	none	none	none
+115	large cocoa eggshell fragment	none	none	none	none	none	none	none
+116	lemon meringue pie	none	none	none	none	none	none	none
+117	libation of liveliness	none	none	none	none	none	none	none
+118	lihc eye pie	none	none	none	none	none	none	none
+119	long pork casserole	none	none	none	none	none	none	none
+120	long pork chop sandwiches	none	none	none	none	none	none	none
+122	menudo	none	none	none	none	none	none	none
+123	milk of magnesium	none	none	none	none	none	none	none
+124	mushroom pizza	none	none	none	none	none	none	none
+125	nutty organic salad	none	none	none	none	none	none	none
+126	oil of expertise	none	none	none	none	none	none	none
+127	oil of oiliness	none	none	none	none	none	none	none
+128	oil of slipperiness	none	none	none	none	none	none	none
+129	oil of stability	none	none	none	none	none	none	none
+130	ointment of the occult	none	none	none	none	none	none	none
+131	olive lo mein	none	none	none	none	none	none	none
+132	olive stir-fry	none	none	none	none	none	none	none
+133	painful penne pasta	none	none	none	none	none	none	none
+134	papaya taco	none	none	none	none	none	none	none
+135	papotion of papower	none	none	none	none	none	none	none
+136	peach lozenge	none	none	none	none	none	none	none
+137	peach pie	none	none	none	none	none	none	none
+138	pear lozenge	none	none	none	none	none	none	none
+139	pear tart	none	none	none	none	none	none	none
+140	perfume of prejudice	none	none	none	none	none	none	none
+141	phial of coldness	none	none	none	none	none	none	none
+142	phial of hotness	none	none	none	none	none	none	none
+143	phial of sleaziness	none	none	none	none	none	none	none
+144	phial of spookiness	none	none	none	none	none	none	none
+145	phial of stench	none	none	none	none	none	none	none
+146	philter of phorce	none	none	none	none	none	none	none
+147	pie crust	none	none	none	none	none	none	none
+148	plain pizza (flat dough)	plain pizza</b> <font size=1><br/>tomato (0) + flat dough (0)	none	none	none	none	none	none
+149	plum lozenge	none	none	none	none	none	none	none
+150	potent potion of potency	none	none	none	none	none	none	none
+151	potion of potency	none	none	none	none	none	none	none
+152	potion of temporary gr8tness	none	none	none	none	none	none	none
+154	pr0n cocktail (catsup)	pr0n cocktail</b> <font size=1><br/>catsup (0) + pr0n legs (0)	none	none	none	none	none	none
+155	pr0n m4nic0tti	none	none	none	none	none	none	none
+156	pr0n stir-fry	none	none	none	none	none	none	none
+157	pr0n taco	none	none	none	none	none	none	none
+158	pregnant gloomy black mushroom	none	none	none	none	none	none	none
+159	pregnant mushroom	none	none	none	none	none	none	none
+160	pregnant oily golden mushroom	none	none	none	none	none	none	none
+161	pressurized potion of perception	none	none	none	none	none	none	none
+162	pressurized potion of perspicacity	none	none	none	none	none	none	none
+163	pressurized potion of pneumaticity	none	none	none	none	none	none	none
+164	pressurized potion of proficiency	none	none	none	none	none	none	none
+165	pressurized potion of puissance	none	none	none	none	none	none	none
+166	pressurized potion of pulchritude	none	none	none	none	none	none	none
+168	rat appendix kabob	none	none	none	none	none	none	none
+169	rat appendix stir-fry	none	none	none	none	none	none	none
+170	rat scrapple	none	none	none	none	none	none	none
+171	ravioli della hippy	none	none	none	none	none	none	none
+172	rocky road ice cream (baboon)	rocky road ice cream</b> <font size=1><br/>glass of baboon milk (0) + floaty gravel (0)	none	none	none	none	none	none
+173	royal jelly taco	none	none	none	none	none	none	none
+174	salamander slurry	none	none	none	none	none	none	none
+175	sauce of the ages	none	none	none	none	none	none	none
+176	sausage pizza	none	none	none	none	none	none	none
+178	secret blend of herbs and spices	none	none	none	none	none	none	none
+179	serum of sarcasm	none	none	none	none	none	none	none
+180	skewered cat appendix	none	none	none	none	none	none	none
+181	sleaze wad	none	none	none	none	none	none	none
+182	sleazy and sour sauce	none	none	none	none	none	none	none
+183	sleazy fairy gravy	none	none	none	none	none	none	none
+185	spaghetti with Skullheads	none	none	none	none	none	none	none
+186	spectral pickle	none	none	none	none	none	none	none
+187	spicy bean burrito	none	none	none	none	none	none	none
+188	spicy enchanted bean burrito	none	none	none	none	none	none	none
+189	spicy jumping bean burrito	none	none	none	none	none	none	none
+190	spicy mushroom quesadilla	none	none	none	none	none	none	none
+191	spicy noodles	none	none	none	none	none	none	none
+192	spooky and sour sauce	none	none	none	none	none	none	none
+193	spooky glove	none	none	none	none	none	none	none
+195	spooky lo mein	none	none	none	none	none	none	none
+196	spooky shroomkabob	none	none	none	none	none	none	none
+197	spooky stir-fry	none	none	none	none	none	none	none
+198	spooky wad	none	none	none	none	none	none	none
+199	star key lime	none	none	none	none	none	none	none
+200	star key lime pie	none	none	none	none	none	none	none
+201	stench and sour sauce	none	none	none	none	none	none	none
+202	stench wad	none	none	none	none	none	none	none
+204	strawberry pie	none	none	none	none	none	none	none
+205	stuffed spooky mushroom	none	none	none	none	none	none	none
+206	super ka-bob	none	none	none	none	none	none	none
+207	super salad	none	none	none	none	none	none	none
+208	tempura air	none	none	none	none	none	none	none
+209	tempura avocado	none	none	none	none	none	none	none
+210	tempura broccoli	none	none	none	none	none	none	none
+211	tempura carrot	none	none	none	none	none	none	none
+212	tempura cauliflower	none	none	none	none	none	none	none
+213	tempura cucumber	none	none	none	none	none	none	none
+214	tempura radish	none	none	none	none	none	none	none
+215	tofu casserole	none	none	none	none	none	none	none
+217	tofu stir-fry	none	none	none	none	none	none	none
+218	tofu taco	none	none	none	none	none	none	none
+220	tomato juice of powerful power	none	none	none	none	none	none	none
+222	unwound clockwork grapefruit	none	none	none	none	none	none	none
+223	vial of baconstone juice	none	none	none	none	none	none	none
+224	vial of hamethyst juice	none	none	none	none	none	none	none
+225	vial of porquoise juice	none	none	none	none	none	none	none
+226	wet stew	none	none	none	none	none	none	none
+227	wet stunt nut stew	none	none	none	none	none	none	none
+228	white chocolate chip brownies	none	none	none	none	none	none	none
+229	white chocolate chip cookies	none	none	none	none	none	none	none
+230	pr0n cocktail (ketchup)	pr0n cocktail</b> <font size=1><br/>ketchup (0) + pr0n legs (0)	none	none	none	none	none	none
+231	plain pizza (wad of dough)	plain pizza</b> <font size=1><br/>wad of dough (0) + tomato (0)	none	none	none	none	none	none
+232	rocky road ice cream (goat)	rocky road ice cream</b> <font size=1><br/>glass of goat's milk (0) + floaty gravel (0)	none	none	none	none	none	none
+233	Humpty Dumplings	none	none	none	none	none	none	none
+234	squirmy violent party snack	none	none	none	none	none	none	none
+235	pumpkin pie	none	none	none	none	none	none	none
+236	lemon popsicle	none	none	none	none	none	none	none
+237	orange popsicle	none	none	none	none	none	none	none
+238	strawberry popsicle	none	none	none	none	none	none	none
+239	liver popsicle	none	none	none	none	none	none	none
+240	unfrosted Knob cake	none	none	none	none	none	none	none
+241	Knob cake	none	none	none	none	none	none	none
+242	Salsa de las Epocas	none	none	none	none	none	none	none
+243	spaghetti con calaveras	none	none	none	none	none	none	none
+244	fluid of fudge-finding	none	none	none	none	none	none	none
+245	fudgesicle	none	none	none	none	none	none	none
+246	Fettucini %C3%A9pines Inconnu	none	none	none	none	none	none	none

@@ -1,0 +1,334 @@
+1	Seal Clubbing Frenzy	+2 Mus<br />(5 adv @ 1MP)	none	none	none	none	none	none
+2	Patience of the Tortoise	+1 Mus, +3 MaxHP<br />(5 adv @ 1MP)	none	none	none	none	none	none
+3	Manicotti Meditation	+2 Mys<br />(5 adv @ 1MP)	none	none	none	none	none	none
+4	Sauce Contemplation	+1 Mys, +3 MaxHP<br />(5 adv @ 1MP)	none	none	none	none	none	none
+5	Disco Aerobics	+2 Mox<br />(5 adv @ 1MP)	none	none	none	none	none	none
+6	Moxie of the Mariachi	1+ Mox, +3 MaxHP<br />(5 adv @ 1MP)	none	none	none	none	none	none
+7	Clobber	Attack<br />1MP	none	none	none	none	none	none
+8	Toss	Attack<br />1MP	none	none	none	none	none	none
+9	Spaghetti Spear	2-3 Phys. Damage<br />1MP	none	none	none	none	none	none
+10	Salsaball	2-3 Hot Damage<br />1MP	none	none	none	none	none	none
+11	Suckerpunch	1 Damage, 1 Delevel<br />1MP	none	none	none	none	none	none
+12	Sing	2-3 Damage, 2-3 for 2 More Rounds<br />1MP	none	none	none	none	none	none
+13	Lunge Smack	+5 Damage Attack	none	none	none	none	none	none
+14	Headbutt	Combat Skill<br />3MP	none	none	none	none	none	none
+15	Ravioli Shurikens	Combat Skill<br />4MP	none	none	none	none	none	none
+16	Stream of Sauce	Combat Skill<br />3MP	none	none	none	none	none	none
+17	Disco Eye-Poke	1-3 Damage, 3 Delevel<br />3MP	none	none	none	none	none	none
+18	The Moxious Madrigal	+10 Mox<br />(Buff @ 2MP)	none	none	none	none	none	none
+19	Audacity of the Otter	Crits do 3x Damage	none	none	none	none	none	none
+20	Skin of the Leatherback	(level/2 - 2)DR	none	none	none	none	none	none
+21	Entangling Noodles	Combat Skill<br />3MP	none	none	none	none	none	none
+22	Saucy Salve	Combat Skill - Heal 10-15HP<br />4MP	none	none	none	none	none	none
+23	Overdeveloped Sense of Self Preservation	+20% Init	none	none	none	none	none	none
+24	The Magical Mojomuscular Melody	+10Mys, +20MaxMP<br />(Buff @ 3MP)	none	none	none	none	none	none
+25	Blubber Up	+5Mox for 10adv<br />7MP	none	none	none	none	none	none
+26	Amphibian Sympathy	+5 Fam Weight	none	none	none	none	none	none
+27	Lasagna Bandages	Heals 10-30HP<br />6MP	none	none	none	none	none	none
+28	Expert Panhandling	+10% Meat	none	none	none	none	none	none
+29	Disco Nap	Heals 20HP, removes some status effects<br />8MP	none	none	none	none	none	none
+30	Cletus's Canticle of Celerity	+20% Init<br />(Buff @ 4MP)	none	none	none	none	none	none
+31	Thrust-Smack	Double Damage Combat Skill<br />4MP	none	none	none	none	none	none
+32	Ghostly Shell	+80DA<br />(Buff @ 6MP)	none	none	none	none	none	none
+33	Cannelloni Cannon	Combat Spell<br />6MP	none	none	none	none	none	none
+34	Elemental Saucesphere	So-so Resist. to all Elem.<br />(Buff @ 10MP)	none	none	none	none	none	none
+35	Disco Dance II: Electric Boogaloo	9-11 Damage, 5 Delevel	none	none	none	none	none	none
+36	The Power Ballad of the Arrowsmith	+10Mus, +20MaxHP<br />(Buff @ 5MP)	none	none	none	none	none	none
+37	Super-Advanced Meatsmithing	Create Weapons	none	none	none	none	none	none
+38	Armorcraftiness	Create Armor	none	none	none	none	none	none
+39	Pastamastery	Summon Dry Noodles<br />10MP	none	none	none	none	none	none
+40	Advanced Saucecrafting	Summon Reagents<br />10MP	none	none	none	none	none	none
+41	Advanced Cocktailcrafting	Summon Cocktail Ingredients<br />10MP	none	none	none	none	none	none
+42	The Polka of Plenty	+50% Meat<br />(Buff @ 7MP)	none	none	none	none	none	none
+43	Batter Up!	Increase Hit Chance	none	none	none	none	none	none
+44	Tenacity of the Snapper	+8 Melee Damage<br />(Buff @ 8MP)	none	none	none	none	none	none
+45	Springy Fusilli	+40% Init<br />(10adv @ 10MP)	none	none	none	none	none	none
+46	Saucestorm	Combat Spell<br />10MP	none	none	none	none	none	none
+47	Nimble Fingers	+20% Meat	none	none	none	none	none	none
+48	Jackasses' Symphony of Destruction	+12 Damage<br />(Buff @ 9MP)	none	none	none	none	none	none
+49	Hide of the Walrus	+50DA	none	none	none	none	none	none
+50	Kneebutt	Combat Attack<br />4MP	none	none	none	none	none	none
+51	Spirit of Rigatoni	Equip Chefstaffs	none	none	none	none	none	none
+52	Jalape&ntilde;o Saucesphere	+3DR, Damage Attacker<br />(Buff @ 5MP)	none	none	none	none	none	none
+53	Tricky Knifework	Become better at knives	none	none	none	none	none	none
+54	Fat Leon's Phat Loot Lyric	+20% Items<br />(Buff @ 11MP)	none	none	none	none	none	none
+55	Claws of the Walrus	+7 Melee Damage	none	none	none	none	none	none
+56	Empathy of the Newt	+5 Fam. Weight<br />(Buff @ 15MP)	none	none	none	none	none	none
+57	Stuffed Mortar Shell	Combat Spell<br />13MP	none	none	none	none	none	none
+58	Wave of Sauce	Combat Spell<br />16MP	none	none	none	none	none	none
+59	Mad Looting Skillz	+20% Items	none	none	none	none	none	none
+60	Brawnee's Anthem of Absorption	level DR<br />(Buff @ 13MP)	none	none	none	none	none	none
+61	Tongue of the Walrus	Heals 30-40HP<br />10MP	none	none	none	none	none	none
+62	Reptilian Fortitude	+30MaxHP<br />(Buff @ 10MP)	none	none	none	none	none	none
+63	Spirit of Ravioli	+25% MaxHP	none	none	none	none	none	none
+64	Intrinsic Spiciness	+level Spell Damage	none	none	none	none	none	none
+65	Disco Greed	Momentum is +Item	none	none	none	none	none	none
+66	The Psalm of Pointiness	Attack + Delevel when Taking Damage<br />(Buff @ 15MP)	none	none	none	none	none	none
+67	Lunging Thrust-Smack	Triple Damage Combat Skill<br />8MP	none	none	none	none	none	none
+68	Shieldbutt	Auto-Hit Attack<br />5MP	none	none	none	none	none	none
+69	Weapon of the Pastalord	Combat Spell<br />24MP	none	none	none	none	none	none
+70	Antibiotic Saucesphere	4-5 HP Regen (Buff @ 15MP)	none	none	none	none	none	none
+71	Disco Bravado	Disco Momentum increases stat points	none	none	none	none	none	none
+72	Stevedave's Shanty of Superiority	+10% All Attributes<br />(Buff @ 30MP)	none	none	none	none	none	none
+73	Rage of the Reindeer	+10%Mus, +10Melee<br />(10adv @ 10MP)	none	none	none	none	none	none
+74	Wisdom of the Elder Tortoises	+50% MaxMP	none	none	none	none	none	none
+75	Leash of Linguini	+5 Fam. Weight<br />(10adv @ 12MP)	none	none	none	none	none	none
+76	Saucegeyser	Combat Spell<br />28MP	none	none	none	none	none	none
+77	Adventurer of Leisure	Sleep soundly	none	none	none	none	none	none
+78	Aloysius' Antiphon of Aptitude	+3 Stats per Fight<br />(Buff @ 40MP)	none	none	none	none	none	none
+79	Double-Fisted Skull Smashing	Dual-Wield	none	none	none	none	none	none
+80	Astral Shell	+80DA, Slight Elem. Resist<br />(Buff @ 10MP)	none	none	none	none	none	none
+81	Cannelloni Cocoon	Heal All HP<br />20MP	none	none	none	none	none	none
+82	Impetuous Sauciness	+5 Adv. for Reagent Potions	none	none	none	none	none	none
+83	Ambidextrous Funkslinging	Use 2 items per combat round	none	none	none	none	none	none
+84	The Ode to Booze	More Adv from Booze<br />(Buff @ 50MP)	none	none	none	none	none	none
+85	Northern Exposure	So-So Cold Resist	none	none	none	none	none	none
+86	Cold-Blooded Fearlessness	So-So Spooky Resist	none	none	none	none	none	none
+87	Tolerance of the Kitchen	So-So Hot Resist	none	none	none	none	none	none
+88	Diminished Gag Reflex	So-So Stench Resist	none	none	none	none	none	none
+89	Heart of Polyester	So-So Sleaze Resist	none	none	none	none	none	none
+90	The Sonata of Sneakiness	-5% Combat<br />(Buff @ 20MP)	none	none	none	none	none	none
+91	Musk of the Moose	+5% Combat<br />(10adv @ 10MP)	none	none	none	none	none	none
+92	Hero of the Half-Shell	Musc determines damage taken if Shield equipped	none	none	none	none	none	none
+93	Flavour of Magic	Choose Elem. of Pasta Spells<br />(40adv @ 10MP)	none	none	none	none	none	none
+94	Irrepressible Spunk	+5% HP/MP	none	none	none	none	none	none
+95	Smooth Movement	-5% Combat<br />(10adv @ 10MP)	none	none	none	none	none	none
+96	Carlweather's Cantata of Confrontation	+5% Combat<br />(Buff @ 20MP)	none	none	none	none	none	none
+97	Pulverize	Smash Stuff!	none	none	none	none	none	none
+98	Tao of the Terrapin	Double DR of Hat/Pants	none	none	none	none	none	none
+99	Transcendental Noodlecraft	+2 Dry Noodles, Wok Access	none	none	none	none	none	none
+100	The Way of Sauce	+2 Reagents, use Scrum. Solutions	none	none	none	none	none	none
+101	Superhuman Cocktailcrafting	+2 Ingredients, Still Access	none	none	none	none	none	none
+102	Ur-Kel's Aria of Annoyance	+(level*2)ML<br />(Buff @ 30MP	none	none	none	none	none	none
+103	Snarl of the Timberwolf	+10 Spooky Damage<br />(10adv @ 10MP)	none	none	none	none	none	none
+104	Spectral Snapper	Combat Attack<br />20MP	none	none	none	none	none	none
+105	Fearful Fettucini	Combat Spell<br />24MP	none	none	none	none	none	none
+106	Scarysauce	So-So Sleaze/Cold Resist<br />(Buff @ 10MP)	none	none	none	none	none	none
+107	Tango of Terror	15-18 Spooky Damage, 8 Delevel<br />8MP	none	none	none	none	none	none
+108	Dirge of Dreadfulness	+12 Spooky Damage<br />(Buff @ 12MP)	none	none	none	none	none	none
+109	Harpoon!	Combat Skill<br />30MP	none	none	none	none	none	none
+110	Summon Leviatuga	301-350 Damage<br />40MP	none	none	none	none	none	none
+111	Tempuramancy	Create Tempura Dishes	none	none	none	none	none	none
+112	Deep Saucery	Create Potions with Globes of Deep Sauce	none	none	none	none	none	none
+113	Salacious Cocktailcrafting	Use Seaodes in Cocktailcrafting	none	none	none	none	none	none
+114	Donho's Bubbly Ballad	-20% Underwater Penalty<br />(Buff @ 75MP)	none	none	none	none	none	none
+115	Conjure Relaxing Campfire	none	none	none	none	none	none	none
+116	Maximum Chill	none	none	none	none	none	none	none
+117	Mudbath	none	none	none	none	none	none	none
+118	Inappropriate Backrub	none	none	none	none	none	none	none
+119	Creepy Lullaby	none	none	none	none	none	none	none
+120	Awesome Balls of Fire	none	none	none	none	none	none	none
+121	Snowclone	none	none	none	none	none	none	none
+122	Eggsplosion	none	none	none	none	none	none	none
+123	Grease Lightning	none	none	none	none	none	none	none
+124	Raise Backup Dancer	none	none	none	none	none	none	none
+125	Natural Born Scrabbler	+5% Items	none	none	none	none	none	none
+126	Thrift and Grift	+10% Meat	none	none	none	none	none	none
+127	Abs of Tin	+10% MaxHP	none	none	none	none	none	none
+128	Marginally Insane	+10% MaxMP	none	none	none	none	none	none
+129	The Ballad of Richie Thingfinder	+50% Meat, +20% Items<br />(Buff @ 50MP)	none	none	none	none	none	none
+130	Benetton's Medley of Diversity	+15 Prism. Damage<br />(Buff @ 50MP)	none	none	none	none	none	none
+131	Elron's Explosive Etude	+50% Spell Damage<br />(Buff @ 50MP)	none	none	none	none	none	none
+132	Chorale of Companionship	+10 Fam Weight<br />(Buff @ 50MP)	none	none	none	none	none	none
+133	Prelude of Precision	+2% Crit Chance<br />(Buff @ 50MP)	none	none	none	none	none	none
+134	Torso Awaregness	Wear Shirts	none	none	none	none	none	none
+135	Gnomish Hardigness	+5% MaxHP	none	none	none	none	none	none
+136	Cosmic Ugnderstanding	+5% MaxMP	none	none	none	none	none	none
+137	Powers of Observatiogn	+10% Items	none	none	none	none	none	none
+138	Gnefarious Pickpocketing	+10% Meat	none	none	none	none	none	none
+139	Slimy Sinews	+20 MaxHP	none	none	none	none	none	none
+140	Slimy Synapses	+10 MaxMP	none	none	none	none	none	none
+141	Slimy Shoulders	+20% Init	none	none	none	none	none	none
+142	Chronic Indigestion	none	none	none	none	none	none	none
+143	CLEESH	none	none	none	none	none	none	none
+144	Rainbow Gravitation	none	none	none	none	none	none	none
+145	Really Expensive Jewelrycrafting	none	none	none	none	none	none	none
+146	Transcendent Olfaction	none	none	none	none	none	none	none
+147	Vent Rage Gland	none	none	none	none	none	none	none
+148	Holiday Weight Gain	+MaxHP Buff	none	none	none	none	none	none
+149	Jingle Bells	Familiar Acts More	none	none	none	none	none	none
+150	Candyblast	Damage and Candy!	none	none	none	none	none	none
+151	Surge of Icing	Damage Spell	none	none	none	none	none	none
+152	Stealth Mistletoe	Delevels more with DB Attacks	none	none	none	none	none	none
+153	Cringle's Curative Carol	Restore 5-10HP/Adv	none	none	none	none	none	none
+154	Summon Snowcones	none	Tome of Snow	none	none	none	none	none
+155	Summon Stickers	none	Tome of Stick	none	none	none	none	none
+156	Summon Sugar Sheets	none	Tome of Sug	none	none	none	none	none
+157	Summon Party Favor	none	Libram of Div	none	none	none	none	none
+158	Summon Candy Heart	none	Libram of Can	none	none	none	none	none
+159	Summon Love Song	none	Libram of Love	none	none	none	none	none
+160	Summon Hilarious Objects	none	Grimoire of Hilarious	none	none	none	none	none
+161	Summon Tasteful Items	none	Tasteful	none	none	none	none	none
+162	Summon Crimbo Candy	none	none	none	none	none	none	none
+163	Pride of the Puffin	+10ML<br>(30MP)	none	none	none	none	none	none
+164	K&auml;seso&szlig;esturm	Stench Saucestorm	none	none	none	none	none	none
+165	Summon BRICKOs	none	Libram of BRI	none	none	none	none	none
+166	Inigo's Incantation of Inspiration	Free Crafting	none	none	none	none	none	none
+167	Curiosity of Br'er Tarrypin	+1Fam Exp/Combat	none	none	none	none	none	none
+168	Stringozzi Serpent	Attack and Poison	none	none	none	none	none	none
+169	Iron Palm Technique	Swords Become Clubs	none	none	none	none	none	none
+170	Unaccompanied Miner	none	none	none	none	none	none	none
+171	Volcanometeor Showeruption	none	none	none	none	none	none	none
+172	Fashionably Late	+1 Adventure Per Day	none	none	none	none	none	none
+173	Executive Narcolepsy	One Free Rest Per Day	none	none	none	none	none	none
+174	Lunch Break	Summon a Sack Lunch	none	none	none	none	none	none
+175	Offensive Joke	Sleaze Damage, 20 Delevel	none	none	none	none	none	none
+176	Managerial Manipulation	+10 All Stats (Others Only)	none	none	none	none	none	none
+177	Wassail	none	none	none	none	none	none	none
+178	Toynado	none	none	none	none	none	none	none
+179	Kung Fu Hustler	Power to the Fists!	none	none	none	none	none	none
+180	Summon Alice's Army Cards	none	Sorcerers of the Shore Grimoire	none	none	none	none	none
+181	Natural Born Skeleton Killer	+10% Skeleton Murder!	none	none	none	none	none
+182	Summon Clip Art	none	Tome of Clip	none	none	none	none
+183	Master of the Surprising Fist	+10 Dam and +20 to-hit with empty hands	none	none	none	none	none
+184	Summon Dice	none	Gygaxian Libram		none	none	none	none
+185	Summon &quot;Boner Battalion&quot;	Damage Each round of Combat		none	none	none	none
+186	Summon Resolutions	none	Resolution	none	none	none
+187	Torment Plant	none	none	none	none	none	none	none
+188	Pinch Ghost	none	none	none	none	none	none	none
+189	Tattle	none	none	none	none	none	none	none
+190	Thick-Skinned	none	none	none	none	none	none	none
+191	Chip on your Shoulder	none	none	none	none	none	none	none
+192	Request Sandwich	none	none	none	none	none	none	none
+193	Frigidalmatian	none	none	none	none	none	none	none
+194	Silent Slam	none	none	none	none	none	none	none
+195	Silent Squirt	none	none	none	none	none	none	none
+196	Silent Slice	none	none	none	none	none	none	none
+197	Singer's Faithful Ocelot	none	none	none	none	none	none	none
+198	Drescher's Annoying Noise	none	none	none	none	none	none	none
+199	Walberg's Dim Bulb	none	none	none	none	none	none	none
+200	Deep Dark Visions	none	none	none	none	none	none	none
+201	Summon Taffy	none	Taffy	none	none	none	none	none
+202	Club Earth	none	none	none	none	none	none	none
+203	Carbohydrate Cudgel	none	none	none	none	none	none	none
+204	Splattersmash	none	none	none	none	none	none	none
+205	Grab a Cold One	none	none	none	none	none	none	none
+206	Song of the North	none	none	none	none	none	none	none
+207	Turtleini	none	none	none	none	none	none	none
+208	Sauceshell	none	none	none	none	none	none	none
+209	Conspiratorial Whispers	none	none	none	none	none	none	none
+210	Song of Slowness	none	none	none	none	none	none	none
+211	Spaghetti Breakfast	none	none	none	none	none	none	none
+212	Shadow Noodles	none	none	none	none	none	none	none
+213	Song of Starch	none	none	none	none	none	none	none
+214	Splashdance	none	none	none	none	none	none	none
+215	Song of Sauce	none	none	none	none	none	none	none
+216	Song of Bravado	none	none	none	none	none	none	none
+217	Fortitude of the Muskox	Regen 1-2HP/adv	none	none	none	none	none	none
+218	Hibernate	Heal HP, +3 stats/fight (10adv)<br />(1 adv)	none	none	none	none	none	none
+219	Cold Shoulder	Smack skills do +5 cold damage	none	none	none	none	none	none
+220	Wrath of the Wolverine	Build Fury	none	none	none	none	none	none
+221	Buoyancy of the Beluga	Regen 1HP/adv for each Fury	none	none	none	none	none	none
+222	Scowl of the Auk	(+10 Weapon Damage)<br>(8MP)	none	none	none	none	none	none
+223	Furious Wallop	Guaranteed to Hit Attack (5MP & 1 Fury)	none	none	none	none	none	none
+224	Club Foot	Delevel Attack<br>(8MP)	none	none	none	none	none	none
+225	Seething of the Snow Leopard	Addnl. Bonus Damage from Fury	none	none	none	none	none	none
+226	Ire of the Orca	Fury Capacity increased to 5	none	none	none	none	none	none
+227	Thirst of the Weasel	Smacks restore 1-2HP/fury	none	none	none	none	none	none
+228	Cavalcade of Fury	Attack<br>(All Fury)	none	none	none	none	none	none
+229	Northern Explosion	Cold Attack<br>(16MP)	none	none	none	none	none	none
+230	Precision of the Penguin	+1Crit% per Fury	none	none	none	none	none	none
+231	Deft Hands	+25% Item Damage	none	none	none	none	none	none
+232	Summon Annoyance	none	none	none	none	none	none	none
+233	Disco State of Mind	Generate Momentum	none	none	none	none	none	none
+234	Frantic Gyrations	Momentum makes you harder to hit	none	none	none	none	none	none
+235	That's Not a Knife	THIS is a knife!	none	none	none	none	none	none
+236	Flashy Dancer	Momentum makes you dodge	none	none	none	none	none	none
+237	Disco Smirk	+10 Mox<br />(10 adv)	none	none	none	none	none	none
+238	Knife in the Dark	Attack with best Knife	none	none	none	none	none	none
+239	Disco Shank	none	Attack with best Knife. Again.	none	none	none	none	none
+240	Disco Dance 3: Back in the Habit	Attack. 14 Delevel	none	none	none	none	none	none
+241	Disco Inferno	Hot Damage	none	none	none	none	none	none
+242	Disco Fever	+10 Mox, +10 Ranged Dam<br />(10 Adv)	none	none	none	none	none	none
+243	Sensitive Fingers	+10% Pickpocket	none	none	none	none	none	none
+244	Disco Leer	+10% Meat<br>(10 Adv)	none	none	none	none	none	none
+245	Summon Geeky Gifts	none	Thinknerd	none	none	none	none	none
+246	Disco Face Stab	Attack with best Knife	none	none	none	none	none	none
+247	Disco Dance of Doom	6-8 Damage, 3 Delevel	none	none	none	none	none	none
+248	Dissonant Riff	Attach and Delevel	none	none	none	none	none	none
+249	Cadenza	Attack with Accordion	none	none	none	none	none	none
+250	Crab Claw Technique	Accordion +Accuracy	none	none	none	none	none	none
+251	Accordion Bash	Hit with Accordion (Stun)	none	none	none	none	none	none
+252	Accordion Appreciation	Accordion +Accuracy	none	none	none	none	none	none
+253	Concerto de los Muertos	Spooky Damage	none	none	none	none	none	none
+254	Five Finger Discount	5% Off!	none	none	none	none	none	none
+255	Suspicious Gaze	+20% Init<br>(10 adv @ 10MP)	none	none	none	none	none	none
+256	Bawdy Refrain	Sleaze Attack	none	none	none	none	none	none
+257	Thief Among the Honorable	+5% Items	none	none	none	none	none	none
+258	Sticky Fingers	Pickpocket Meat	none	none	none	none	none	none
+259	Master Accordion Master Thief	+10% Pickpocket Chance	none	none	none	none	none	none
+260	Knowing Smile	+1 Moxie Stat/fight<br>(10 adv @ 10MP)	none	none	none	none	none	none
+261	Mariachi Memory	+1 Song	none	none	none	none	none	none
+262	Cone of Zydeco	Attack	none	none	none	none	none	none
+263	Spirit Vacation	Restore all HP, MP Regen<br>(1 adv)	none	none	none	none	none	none
+264	Blessing of the War Snapper	(+5 Mus, +5 Weapon Dam)<br>(Inf @ 15MP)	none	none	none	none	none	none
+265	Stiff Upper Lip	(10 DR)	none	none	none	none	none	none
+266	Pizza Lover	Om nom nom pizza!	none	none	none	none	none	none
+267	Shell Up	Stun	none	none	none	none	none	none
+268	Spirit Snap	Various Attack	none	none	none	none	none	none
+269	Blessing of She-Who-Was	(+5Mys, +5 Spooky Dam)	none	none	none	none	none	none
+270	Butts of Steel	<3 Butts	none	none	none	none	none	none
+271	Spiky Shell	Damage Attacking Opponents	none	none	none	none	none	none
+272	Testudinal Teachings	Familiars Level Faster	none	none	none	none	none	none
+273	Blessing of the Storm Tortoise	+5% Init, MP+10	none	none	none	none	none	none
+274	The Long View	+3 Adv/Day	none	none	none	none	none	none
+275	Spirit Boon	Receive Boon	none	none	none	none	none	none
+276	Patient Smile	+1Mus Stat/Fight	none	none	none	none	none	none
+277	Turtle Power	Bring it on.	none	none	none	none	none	none
+278	Utensil Twist	Attack	none	none	none	none	none	none
+279	Transcendent Al Dente	+20 MaxMP, 19-20MP Regen<br>(1 adv)	none	none	none	none	none	none
+280	Bind Vampieroghi	Thrall: Vampieroghi	none	none	none	none	none	none
+281	Arched Eyebrow of the Archmage	+10 Spell Damage<br>(10adv @ 10MP)	none	none	none	none	none	none
+282	Bind Vermincelli	Thrall: Vermincelli	none	none	none	none	none	none
+283	Bringing Up the Rear	Power Up Spells!	none	none	none	none	none	none
+284	Bind Angel Hair Wisp	Thrall: Angel Hair Wisp	none	none	none	none	none	none
+285	Shield of the Pastalord	30% Dam Reduction<br>(10 adv @ 20MP)	none	none	none	none	none	none
+286	Bind Undead Elbow Macaroni	Thrall: Elbow Macaroni	none	none	none	none	none	none
+287	Thrall Unit Tactics	-MP Cost with Thrall	none	none	none	none	none	none
+288	Bind Penne Dreadful	Thrall: Penne Dreadful	none	none	none	none	none	none
+289	Subtle and Quick to Anger	+10% Spell Dam	none	none	none	none	none	none
+290	Bind Lasagmbie	Thrall: Lasagmbie	none	none	none	none	none	none
+291	Wizard Squint	+10% Spell Crit	none	none	none	none	none	none
+292	Bind Spice Ghost	Thrall: Spice Ghost	none	none	none	none	none	none
+293	Curse of Vichyssoise	Curse Cold	none	none	none	none	none	none
+294	Simmer	+100% Spell Dam, 8-10MP Regen<br>(10 adv @ 1 adv)	none	none	none	none	none	none
+295	Icy Glare	+10 Cold [Spell] Damage	none	none	none	none	none	none
+296	Inner Sauce	3-4MP Regen	none	none	none	none	none	none
+297	Soul Saucery	Gather Soulsauce	none	none	none	none	none	none
+298	Curse of Marinara	Curse Damage & Healing	none	none	none	none	none	none
+299	Itchy Curse Finger	Stagger when Cursing	none	none	none	none	none	none
+300	Curse of the Thousand Islands	Curse Stagger	none	none	none	none	none	none
+301	Saucecicle	Cold Damage	none	none	none	none	none	none
+302	Master Saucier	+10% Spell Damage	none	none	none	none	none	none
+303	Saucemaven	Om nom nom sauce!	none	none	none	none	none	none
+304	Curse of Weaksauce	Curse Weaken	none	none	none	none	none	none
+305	Wry Smile	+1 Mys per Fight	none	none	none	none	none	none
+306	Sauce Monocle	+15% Crit(10 adv @ 20MP)	none	none	none	none	none	none
+307	Blood Sugar Sauce Magic	MP at cost of HP	none	none	none	none	none	none
+308	Summon Rad Libs	none	Tome of Rad	none	none	none	none
+309	Bind Spaghetti Elemental	Bind Spaghetti Thrall	none	none	none	none	none
+310	Shrap	Non-Elemental Damage	none	none	none	none	none
+311	Psychokinetic Hug	+10 Stats	none	none	none	none	none
+312	Grease Up	+15 Sleaze Damage	none	none	none	none	none
+313	Sloppy Secrets	More Beach Bucks	none	none	none	none	none
+314	Alien Source Code	Max MP +5	none	none	none	none	none
+315	Belch The Rainbow	Burp!	none	none	none	none	none
+316	Pirate Bellow	Arrrr!	none	none	none	none	none
+317	Unoffendable	Serious Sleaze Resist (+3)	none	none	none	none	none
+318	Summon Confiscated Things	none	Confiscator's Grimoire	none	none	none
+319	Summon Smithsness	none	Smith	none	none	none
+320	Hypersane	Serious Spooky Resist (+3)	none	none	none	none	none
+321	Intimidating Mien	+15 Spooky Dam<br>(10 adv @ 15MP)	none	none	none	none	none
+322	Summon Holiday Fun!	Fun!	none	none	none	none	none
+323	Rapid Prototyping	Craft 5 Times a Day, Free	none	none	none	none	none
+324	Mathematical Precision	Combat Items 50% more Damage<br>(20 adv @ 10MP)	none	none	none	none	none
+325	Ruthless Efficiency	Deleveling 50% Better<br>(20 adv @ 10MP)	none	none	none	none	none
+326	Summon Carrot		none	none	none	none	none
+327	Speluck		none	none	none	none	none
+328	Summon Kokomo Resort Pass		none	none	none	none	none
+329	Bear Essence		none	none	none	none	none
+330	Olfactory Burnout	none	none	none	none	none
+331	Garbage Nova	none	none	none	none	none
+332	Dinsey Operations Expert	none	none	none	none	none
+333	Rotten Memories	none	none	none	none	none
+334	Mild Curse	none	none	none	none	none

@@ -1,0 +1,1306 @@
+1	Crimborg Collective Factory	
+2	Crimborg Collective Factory	
+3	Crimborg Collective Factory	
+4	Crimborg Collective Factory	
+5	Seaside Megalopolis	"Handyman" Jay Android
+6	Orc Chasm	1335 HaXx0r
+7	Mist-Covered Icy Peak	panicking Knott Yeti
+8	Itznotyerzitz Mine	7-Foot Dwarf Foreman
+9	Seaside Megalopolis	7-Foot Dwarf Replicant
+10	Post-War Junkyard	A.M.C. gremlin
+11	Dungeons of Doom	Acid Blob
+12	The Briniest Deepests	Acoustic Electric Eel
+13	Kegger in the Woods	Actual Orcish Frat Boy
+14	Bat Hole Entryway	Albino Bat
+15	The Barracks	Alert Mariachi
+16	The Domed City of Grimacia	Alielf
+17	Hamburglaris Shield Generator	Alien Hamsterpus
+18	Giant's Castle	Alphabet Giant
+19	Crimbo Town Toy Factory	
+20	Haiku Dungeon	Amateur Ninja
+21	The Jungles of Ancient Loathing	Ancient Guardian Statue
+22	Haiku Dungeon	Ancient Insane Monk
+23	Stately Pleasure Dome	Ancient Mariner
+24	Hidden City	Ancient Protector Spirit	He only kept the magic stone sphere in that potted plant because he was tired of tripping over it all the time.
+25	The Jungles of Ancient Loathing	Ancient Temple Guardian
+26	Bugbear Invasion	Ancient Unspeakable Bugbear
+27	Anemone Mine	Anemone combatant
+28	Bugbear Invasion	Anesthesiologist Bugbear
+29	Haunted Conservatory	Anglerbush
+30	Mini-Hipster	angry bassist
+31	Bugbear Pens	Angry Bugbear
+32	Bugbear Invasion	Angry Cavebugbear
+33	South of the Border	angry pi&ntilde;ata
+34	Stately Pleasure Dome	Angry Poet
+35	White Citadel	Angry Raccoon Puppet
+36	Haunted Bedroom	Animated Nightstand	The animated nightstand is made of teak, the most evil of woods.
+37	Haunted Bedroom	Animated Nightstand	This nightstand was assembled with a single allen wrench and two screwdrivers. And lots of swearing.
+38	Orc Chasm	Anime Smiley
+39	Bugbear Pens	Annoying Spooky Gravy Fairy
+40	A Pile of Old Servers	Antique Database Server
+41	Daily Dungeon	Apathetic Lizardman
+42	Mist-Covered Icy Peak	Groar
+43	Nemesis Assassins	Argarggagarg the Dire Hellseal
+44	Crimbo Town Toy Factory	
+45	Outskirts of Camp	Axe Handle
+46	Nemesis Assassins	béarnaise zombie
+47	Hidden Temple	Baa'baa'bu'ran
+48	Hidden Temple	Baa-relief Sheep
+49	Orc Chasm	Bad ASCII Art
+50	Battlefield (Frat Uniform)	Bailey's Beetle
+51	Hidden City	ancient protector spirit	I don't have a good explanation for what was up with that turtle.	
+52	Seaside Megalopolis	Bangyomaman Warrior
+53	Haunted Library	Banshee Librarian
+54	Spooky Forest	Bar
+55	Tavern Cellar	Baron von Ratsworth
+56	Guano Junction	Baseball Bat
+57	Menagerie 1	BASIC Elemental
+58	Bugbear Invasion	Batbugbear
+59	Batrat and Ratbat Burrow	Batrat
+60	Bugbear Invasion	Battlesuit Bugbear Type
+61	Post-War Junkyard	Batwinged Gremlin
+62	The Brinier Deepers	Bazookafish
+63	Beanbat Chamber	Beanbat
+64	Bees Hate You	Bee Swarm
+65	Bees Hate You	Bee Thoven
+66	Bees Hate You	Beebee Gunners
+67	Bees Hate You	Beebee King
+68	Bees Hate You	Beebee Queue
+69	Boss Bat's Lair	Beefy Bodyguard Bat
+70	The Red Queen's Garden	Beelephant
+71	The Naughty Sorceress's Tower	Beer Batter
+72	Battlefield (Hippy Uniform)	Beer Bongadier
+73	Mouldering Mansion	Bellhop
+74	The Naughty Sorceress's Tower	Best-Selling Novelist
+75	The Maelstrom of Lovers	Bettie Barulio
+76	Sleazy Back Alley	Big Creepy Spider
+77	The Naughty Sorceress's Tower	Big Meat Golem
+78	Defiled Cranny	Big Swarm of Ghuol Whelps
+79	El Vibrato Island	Bizarre Construct
+80	Belilafs Comedy Club	BL Imp
+81	Black Forest	Black Adder
+82	Mouldering Mansion	Black Cat
+83	Black Crayon Monsters	Black Crayon Beast
+84	Black Crayon Monsters	Black Crayon Beetle
+85	Black Crayon Monsters	Black Crayon Constellation
+86	Black Crayon Monsters	Black Crayon Crimbo Elf
+87	Black Crayon Monsters	Black Crayon Demon
+88	Black Crayon Monsters	Black Crayon Elemental
+89	Black Crayon Monsters	Black Crayon Fish
+90	Black Crayon Monsters	Black Crayon Flower
+91	Black Crayon Monsters	Black Crayon Frat Orc
+92	Black Crayon Monsters	Black Crayon Goblin
+93	Black Crayon Monsters	Black Crayon Golem
+94	Black Crayon Monsters	Black Crayon Hippy
+95	Black Crayon Monsters	Black Crayon Hobo
+96	Black Crayon Monsters	Black Crayon Man
+97	Black Crayon Monsters	Black Crayon Manloid
+98	Black Crayon Monsters	Black Crayon Mer-kin
+99	Black Crayon Monsters	Black Crayon Penguin
+100	Black Crayon Monsters	Black Crayon Pirate
+101	Black Crayon Monsters	Black Crayon Shambling Monstrosity
+102	Black Crayon Monsters	Black Crayon Slime
+103	Black Crayon Monsters	Black Crayon Spiraling Shape
+104	Black Crayon Monsters	Black Crayon Undead Thing
+105	Bugbear Invasion	Black Ops Bugbear
+106	Black Forest	Black Panther
+107	none	Black Pudding
+108	Black Forest	Black Widow
+109	The Don's Crimbo Compound	Black-and-White-Ops Penguin
+110	Black Forest	Blackberry Bush
+111	8-Bit Realm	Blooper
+112	Mini-Hipster	blue-haired girl
+113	Oasis in the Desert	Blur
+114	Hidden City (Park)	Boaraffe
+115	Palindome	Bob Racecar
+116	Crimbo Town Toy Factory	Bolt-Cuttin' Elf
+117	Haunted Library	Bookbat
+118	Convention Hall Lobby	Booth Slime
+119	Barrrney's Barrr	Booty Crab
+120	Menagerie 3	Booze Giant
+121	Spooky Fright Factory	
+122	The Naughty Sorceress's Tower	Bowling Cricket
+123	Fernswarthy's Ruins	Brainsweeper
+124	Fernswarthy's Ruins	Bread Golem
+125	Outside the Club	Breakdancing Raver
+126	BRICKO Monsters	BRICKO airship
+127	BRICKO Monsters	BRICKO bat
+128	BRICKO Monsters	BRICKO cathedral
+129	BRICKO Monsters	BRICKO elephant
+130	BRICKO Monsters	BRICKO gargantuchicken
+131	BRICKO Monsters	BRICKO octopus
+132	BRICKO Monsters	BRICKO ooze
+133	BRICKO Monsters	BRICKO oyster
+134	BRICKO Monsters	BRICKO python
+135	BRICKO Monsters	BRICKO turtle
+136	BRICKO Monsters	BRICKO vacuum cleaner
+137	Guano Junction	Briefcase Bat
+138	The Glacier of Jerks	Brock "Rocky" Flox
+139	The Naughty Sorceress's Tower	Bronze Chef
+140	Infernal Seals	broodling seal
+141	Battlefield (Heroes)	Brutus, the toga-clad lout
+142	Bugbear Invasion	Bugaboo
+143	Bugbear Invasion	Bugbear drone
+144	Bugbear Invasion	Bugbear mortician
+145	Bugbear Invasion	Bugbear Robo-surgeon
+146	Bugbear Invasion	Bugbear Scientist
+147	Fun House	Bugbear-In-The-Box
+148	Bugbear Pens	Bugged Bugbear
+149	8-Bit Realm	Bullet Bill
+150	Tavern Cellar	Bunch of Drunken Rats
+151	Fantasy Airship	Burly Sidekick
+152	White Citadel	Business Hippy
+153	Astral Mushroom (Great Trip)	Bustle in the Hedgerow
+154	Bees Hate You	Buzzerker
+155	8-Bit Realm	Buzzy Beetle
+156	A Maze of Sewer Tunnels	C. H. U. M.
+157	A Maze of Sewer Tunnels	C. H. U. M. chieftain
+158	Battlefield (Heroes)	C.A.R.N.I.V.O.R.E. Operative
+159	Desert (Ultrahydrated)	Cactuary
+160	Rogue Windmill	Can-can Dancer
+161	Feast of Boris	Candied Yam Golem
+162	Belilafs Comedy Club	Carbuncle Top
+163	The Wreck of the Edgar Fitzsimmons	Cargo Crab
+164	Spectral Pickle Factory	Carnivorous Dill Plant
+165	Menagerie 2	Carnivorous Moxie Weed
+166	Hidden City	ancient protector spirit	This is where I made a joke about the "corporate ladder" and how pygmies have little legs. It wasn't a very good joke.
+167	The Domed City of Grimacia	Cat-Alien
+168	Frat House (Stone Age)	Caveman Frat Boy
+169	Frat House (Stone Age)	Caveman Frat Pledge
+170	Hippy Camp (Stone Age)	Caveman Hippy
+171	Frat House (Stone Age)	Caveman Sorority Girl
+172	Hippy Camp (Stone Age)	Cavewomyn Hippy
+173	Hidden City	ancient protector spirit	The rumor about the eight-year-olds was kind of blown out of proportion. Still, the guy is a huge jerk.	
+174	The Don's Crimbo Compound	Cement Cobbler Penguin
+175	Infernal Seals	Centurion of Sparky
+176	Belilafs Comedy Club	CH Imp
+177	Haunted Billiards Room	Chalkdust Wraith
+178	CRIMBCO cubicles	Chatty Coworker
+179	F'c'le	Chatty Pirate
+180	Hobopolis	Chester
+181	Fernswarthy's Ruins	Chowder Golem
+182	Hidden Temple	Clan of Cave Bars
+183	Haunted Bathroom	Claw-foot Bathtub
+184	F'c'le	Cleanly Pirate
+185	F'c'le	Clingy Pirate
+186	Battlefield (Dyspepsi Uniform)	Cloaca-Cola Catapult Engineer
+187	Battlefield (Dyspepsi Uniform)	Cloaca-Cola Footsoldier
+188	Battlefield (Dyspepsi Uniform)	Cloaca-Cola Soldier
+189	Rock Event	clod hopper
+190	Outskirts of Camp	Cloud of Disembodied Whiskers
+191	The Brinier Deepers	Clubfish
+192	The Primordial Soup	Cluster of Angry Bacteria
+193	Cobb's Knob Kitchens	Cobb's Knob oven
+194	Hobopolis	Cold hobo
+195	The Naughty Sorceress's Tower	Collapsed Mineshaft Golem
+196	Sleazy Back Alley	Completely Different Spider
+197	The Naughty Sorceress's Tower	Concert Pianist
+198	Haunted Conservatory	Confused Goth Music Student
+199	Defiled Alcove	Conjoined Zmombie
+200	Spooky Fright Factory	
+201	Post-Cyrpt Cemetary	Corpulent Zobmie
+202	The Primordial Soup	Corrosive Algae
+203	Hidden City	ancient protector spirit	The ancient protector spirit used to be just a vaguely possessive regular guy, but death tends to amplify emotion.	
+204	Rogue Windmill	Courtesan
+205	Noob Cave	Crate
+206	Hidden Temple	Craven Carven Raven
+207	Nanite Monsters	little blob of gray goo	
+208	F'c'le	Creamy Pirate
+209	Fun House	Creepy Clown
+210	Bugbear Invasion	Creepy eye-stalk tentacle monster
+211	The Red Queen's Garden	Croqueteer
+212	Small-O-Fier	Cruel Dust Mote
+213	Hippy Camp	Crusty Hippy
+214	Hippy Camp	Crusty Hippy Jewelry Maker
+215	Hippy Camp	crusty hippy Vegan chef
+216	F'c'le	Crusty Pirate
+217	Nanite Monsters	enormous blob of gray goo
+218	Haunted Gallery	Cubist Bull
+219	F'c'le	Curmudgeonly Pirate
+220	Seaside Megalopolis	Cyborg Policeman
+221	none	
+222	The Nemesis' Lair	Daft punk
+223	Goatlet	Dairy Goat
+224	Daily Dungeon	Dairy Ooze
+225	Battlefield (Heroes)	Danglin' Chad
+226	Neckback Crick	Deadly Venomtrout
+227	Shivering Timbers	
+228	Nanite Monsters	largish blob of gray goo	
+229	Camp Logging Camp	Decent Lumberjack
+230	The Briniest Deepests	Decent White Shark
+231	Haunted Kitchen	Demonic Icebox
+232	Dark Elbow of the Woods	Demoninja
+233	Mt. Molehill	Digital Underground Dweller
+234	Hippy Camp	Dirty Hippy
+235	Hippy Camp	Dirty Hippy Jewelry Maker
+236	Hippy Camp	dirty hippy Vegan chef
+237	Defiled Niche	Dirty Old Lihc
+238	Themthar Hills	Dirty Thieving Brigand
+239	Fun House	Disease-In-The-Box
+240	CRIMBCO cubicles	Disorganized Files
+241	The Marinara Trench	Diving Belle
+242	Daily Dungeon	Dodecapede
+243	The Domed City of Grimacia	Dog-Alien
+244	The Domed City of Ronaldus	Dogcat
+245	The Glacier of Jerks	Dolores D. Smiley
+246	Bugbear Invasion	Bugbear Captain
+247	Itznotyerzitz Mine	dopey 7-Foot Dwarf
+248	Guano Junction	Doughbat
+249	Palindome	Dr. Awkward
+250	Palindome	Drab Bard
+251	The Wreck of the Edgar Fitzsimmons	Drowned Sailor
+252	McMillicancuddy's Farm	Drunk Duck
+253	Goatlet	Drunk Goat
+254	A Barroom Brawl	Drunken 7-foot Dwarf
+255	Sleazy Back Alley	Drunken Half-Orc Hobo
+256	Tavern Cellar	Drunken Rat
+257	Tavern Cellar	Drunken Rat King
+258	Mt. Molehill	Dwarvish Gnome
+259	Battlefield (Cloaca Uniform)	Dyspepsi-Cola General
+260	Battlefield (Cloaca Uniform)	Dyspepsi-Cola Knight
+261	Battlefield (Cloaca Uniform)	Dyspepsi-Cola Soldier
+262	Lower Chamber	Ed the Undying
+263	none	
+264	none	
+265	none	
+266	none	
+267	none	
+268	none	
+269	none	
+270	The Naughty Sorceress's Tower	El Diablo
+271	El Dia de Whatever	Novio Cadáver
+272	El Dia de Whatever	Padre Cadáver
+273	The Naughty Sorceress's Tower	Electron Submarine
+274	none
+275	Battlefield (Hippy Uniform)	Elite Beer Bongadier
+276	Haunted Gallery	Empty Suit of Armor
+277	The Naughty Sorceress's Tower	Endangered Inflatable White Tiger
+278	CRIMBCO cubicles	Endless Conference Call
+279	The Naughty Sorceress's Tower	Enraged Cow
+280	Post-War Junkyard	Erudite Gremlin
+281	Electric Lemonade Acid Parade	Essence of Interspecies Respect
+282	Electric Lemonade Acid Parade	Essence of Soy
+283	Electric Lemonade Acid Parade	Essence of Tofu
+284	The Jungles of Ancient Loathing	Evil Cultist
+285	Mini-Hipster	evil ex-girlfriend
+286	Palindome	Evil Olive
+287	Nemesis Assassins	Evil spaghetti cult assassin
+288	The Temple Portico	Evil spaghetti cult middle-manager
+289	The Temple Portico	Evil spaghetti cult neophyte
+290	Nemesis Cave	Evil Spaghetti Cult Priest
+291	The Temple Portico	Evil spaghetti cult technician
+292	The Nemesis' Lair	Evil spaghetti cult zealot
+293	Nemesis Cave	Evil Spaghetti Cultist
+294	Nemesis Cave	Evil Trumpet-playing Mariachi
+295	Nemesis Cave	Evil Vihuela-playing Mariachi
+296	eXtreme Slope	eXtreme cross-country hippy
+297	eXtreme Slope	eXtreme Orcish snowboarder
+298	White Citadel	eXtreme Sports Orcs
+299	Dark Heart of the Woods	Fallen Archfiend
+300	none	Family of Kobolds
+301	Convention Hall Lobby	Fan Slime
+302	The Naughty Sorceress's Tower	Fancy Bath Slug
+303	Huge-A-Ma-tron	Fearsome Wacken
+304	Astral Mushroom (Mediocre Trip)	Feeling That You're Being Watched
+305	Spooky Gravy Barrow	Felonia, Queen of the Spooky Gravy Fairies
+306	Haiku Dungeon	Ferocious Bugbear
+307	The Domed City of Ronaldus	Ferrelf
+308	Haunted Pantry	Fiendish Can of Asparagus
+309	McMillicancuddy's Farm	Figure-Skating Duck
+310	Feeding Chamber	Filthworm Drone
+311	Guards' Chamber	Filthworm Royal Guard
+312	Hippy Camp	Filthy Hippy
+313	Hippy Camp	Filthy Hippy Jewelry Maker
+314	Hippy Camp	filthy hippy Vegan chef
+315	McMillicancuddy's Farm	Fire-Breathing Duck
+316	The Marinara Trench	Fisherfish
+317	A Skeleton Invasion!	Five Skeleton Invaders
+318	Haunted Pantry	Flame-Broiled Meat Blob
+319	The Naughty Sorceress's Tower	Flaming Samurai
+320	Orc Chasm	Flaming Troll
+321	Foyer	Fleaman
+322	Simple Tool-Making Cave	Flint-Scraping Cave Elf
+323	Haunted Ballroom	Floating Platter of Hors D'Oeuvres
+324	Nemesis Assassins	Flock of seagulls
+325	Palindome	Flock of Stab-bats
+326	Dire Warren	Fluffy Bunny
+327	Outskirts of Camp	Forest Spirit
+328	A Skeleton Invasion!	
+329	April Fools 2012	Four-shadowed mime
+330	Wartime Frat House (Hippy Disguise)	Frat Warrior drill sergeant
+331	The Outer Compound	guard turtle
+332	CLEESH	Frog
+333	Hobopolis	Frosty
+334	McMillicancuddy's Farm	Frozen Duck
+335	Menagerie 1	Fruit Golem
+336	Fudge Mountain	
+337	Fudge Mountain	
+338	Fudge Mountain	Fudge poodle
+339	Fudge Mountain	
+340	Fudge Mountain	Fudge weasel
+341	Small-O-Fier	Funk Particle
+342	The Briny Deeps	Funk Sole Brother
+343	Shivering Timbers	
+344	Giant's Castle	Furry Giant
+345	Dark Heart of the Woods	G imp
+346	Hobopolis	Gang of Hobo Muggers
+347	The Briniest Deepests	Ganger
+348	Defiled Niche	Gargantulihc
+349	Astral Mushroom (Great Trip)	Gathering of Angels?
+350	Belowdecks	Gaudy Pirate
+351	Post-Cyrpt Cemetary	Gaunt Ghuol
+352	Haiku Dungeon	Gelatinous Cube
+353	Barn	Generic Duck
+354	Haunted Ballroom	Ghastly Organist
+355	Foyer	Ghost
+356	Knob Shaft	Ghost Miner
+357	Spectral Pickle Factory	Ghostly Pickle Factory Worker
+358	Pre-Cyrpt Cemetary	Ghuol
+359	The Naughty Sorceress's Tower	Giant Bee
+360	The Jungles of Ancient Loathing	Giant Bird-Creature
+361	The Naughty Sorceress's Tower	Giant Desktop Globe
+362	The Naughty Sorceress's Tower	Giant Fried Egg
+363	Desert (Ultrahydrated)	Giant Giant Giant Centipede
+364	Daily Dungeon	Giant Giant Moth
+365	The Jungles of Ancient Loathing	Giant Jungle Python
+366	The Jungles of Ancient Loathing	Giant Octopus
+367	none	
+368	none	Giant Sandworm
+369	Defiled Nook	Giant Skeelton
+370	The Jungles of Ancient Loathing 	Giant Spider
+371	The Marinara Trench	Giant Squid
+372	Defiled Cranny	Giant Swarm of Ghuol Whelps
+373	A Maze of Sewer Tunnels	Giant Zombie Goldfish
+374	Spooky Fright Factory	
+375	Battlefield (Heroes)	Glass of Orange Juice
+376	Post-Cyrpt Cemetary	Gluttonous Ghuol
+377	Thugnderdome	Gnarly Gnome
+378	Thugnderdome	Gnasty Gnome
+379	Thugnderdome	Gnefarious Gnome
+380	Degrassi Knoll Gym	Gnollish Bodybuilder	
+381	Degrassi Knoll Gym	Gnollish Crossdresser
+382	Degrassi Knoll Restroom	Gnollish Flyslayer
+383	Degrassi Knoll Garage	Gnollish Gearhead
+384	Degrassi Knoll Bakery	Gnollish Piebaker
+385	Degrassi Knoll Restroom	Gnollish Plungermaster
+386	none	
+387	Degrassi Knoll Garage	Gnollish Tirejuggler
+388	Degrassi Knoll Bakery	Gnollish War Chef
+389	Thugnderdome	Gnomester Blomester
+390	Thugnderdome	Gnu Jack Gnome
+391	8-Bit Realm	Goomba
+392	Nemesises	Gorgolok, the Demonic Hellseal
+393	Nemesises	Gorgolok, the Infernal Seal
+394	Giant's Castle	Goth Giant
+395	Menagerie 2	Grass Elemental
+396	Belowdecks	Grassy Pirate
+397	Pre-Cyrpt Cemetary	Grave Rober
+398	Post-Cyrpt Cemetary	Grave Rober Zmobie
+399	McMillicancuddy's Farm	Greasy Duck
+400	Battlefield (Frat Uniform)	Green Ops Soldier
+401	Belowdecks	Gritty Pirate
+402	The Domed City of Grimacia	Grizzled Survivor
+403	Belowdecks	Groovy Pirate
+404	Bugbear Invasion	Grouchy furry monster
+405	The Jungles of Ancient Loathing	Group of cultists
+406	The Skate Park	Grouper Groupie
+407	Itznotyerzitz Mine	grumpy 7-Foot Dwarf
+408	Belowdecks	Grungy Pirate
+409	Degrassi Knoll Garage	Guard Bugbear
+410	
+411	Haunted Gallery	Guy with a Pitchfork, and his Wife
+412	none	
+413	The Domed City of Ronaldus	Hamsterpus
+414	South of the Border	Handsome Mariachi
+415	Shivering Timbers	
+416	Nemesis Cave	Haunted Soup Tureen
+417	Infernal Seals	heat seal
+418	Battlefield (Hippy Uniform)	Heavy Kegtank
+419	Nemesis Assassins	Heimandatz, Nacho Golem
+420	Dark Neck of the Woods	Hellion
+421	The Nemesis' Lair	Hellseal guardian
+422	The Broodling Grounds	Hellseal pup
+423	Infernal Seals	hermetic seal
+424	CRIMBCO cubicles	Hideous Slide Show
+425	The Jungles of Ancient Loathing	high priest of Ki'rhuss
+426	Astral Mushroom (Great Trip)	Higher Plane Serpents
+427	Elf Alley	Hobelf	The job opportunities for elves are unfortunately scarce. After all, Crimbo only comes once a year, and only so many elves can be usefully employed in that cookie-baking tree.
+428	Elf Alley	Hobelf	The proper plural is Hobelfs, not Hobelves.
+429	Hobopolis	Hodgman, The Hoboverlord
+430	The Primordial Soup	Hostile Amoeba
+431	Hobopolis	Hot hobo
+432	none	
+433	Defiled Cranny	Huge Ghuol
+434	The Glacier of Jerks	Hugo Von Douchington
+435	El Vibrato Island	Hulking Construct
+436	Sleazy Back Alley	Hung-over Half-Orc Hobo
+437	Simple Tool-Making Cave	Hunter-Gatherer Cave Elf
+438	Nemesis Assassins	Hunting Seal
+439	Haunted Billiards Room	Hustled Spectre
+440	none	
+441	Bugbear Invasion	Hypodermic Bugbear
+442	The Naughty Sorceress's Tower	Ice Cube
+443	The Skate Park	Ice Skate
+444	The Middle Chamber	Iiti Kitty
+445	El Vibrato Island	Industrious Construct
+446	none	
+447	Nemesis Cave	Infernal Seal Larva
+448	Nemesis Cave	Infernal Seal Spawn
+449	none	
+450	Hey Deze Arena	Inkubus
+451	South of the Border	Irate Mariachi
+452	Fantasy Airship	Irritating Series of Random Encounters
+453	Kegger in the Woods	Jailbait Orquette
+454	Madness Reef	Jamfish
+455	none	
+456	Nemesis Assassins	Jocko Homo
+457	The Jungles of Ancient Loathing	Jungle Baboon
+458	Small-O-Fier	Jungle Scabie
+459	Kegger in the Woods	Juvenile Delinquent Orquette
+460	8-Bit Realm	Keese
+461	Anemone Mine	Killer Clownfish
+462	Haunted Gallery	knight	If it weren't for the knight's crippling addiction to dreams and lights potions, he would probably be a baron by now.
+463	Haunted Gallery	knight	From the symbol on his shield, it seems likely that this knight was from House Alethino, who were famous for their chivalry, and for swallowing their food whole.
+464	Whitey's Grove	Knight in White Satin
+465	Cobb's Knob Treasury	Knob Goblin Accountant
+466	Cobb's Knob Laboratory	Knob Goblin Alchemist
+467	Outskirts of The Knob	Knob Goblin Assistant Chef
+468	Outskirts of The Knob	Knob Goblin Barbecue Team
+469	Cobb's Knob Treasury	Knob Goblin Bean Counter
+470	Cobb's Knob Barracks	Knob Goblin Elite Guard
+471	Cobb's Knob Barracks	Knob Goblin Elite Guard Captain
+472	Cobb's Knob Treasury	Knob Goblin Embezzler
+473	Cobb's Knob Harem	Knob Goblin Harem Girl
+474	Cobb's Knob Harem	Knob Goblin Harem Guard
+475	Cobb's Knob Laboratory	Knob Goblin Mad Scientist
+476	Cobb's Knob Harem	Knob Goblin Madam
+477	Cobb's Knob Kitchens	Knob Goblin Master Chef
+478	Cobb's Knob Treasury	Knob Goblin MBA
+479	Menagerie 1	Knob Goblin Mutant
+480	Haiku Dungeon	Knob Goblin poseur
+481	Cobb's Knob Kitchens	Knob Goblin Sous Chef
+482	Cobb's Knob Laboratory	Knob Goblin Very Mad Scientist
+483	none	
+484	Icy Peak	Knott Yeti
+485	8-Bit Realm	Koopa Troopa
+486	Stately Pleasure Dome	Kubla Khan
+487	Dark Elbow of the Woods	L imp
+488	El Dia de Whatever	Novia Cadáver
+489	El Dia de Whatever	Persona Inocente Cadáver
+490	Orc Chasm	Lamz0r N00b
+491	Dungeons of Doom	Large Kobold
+492	Beliafs Comedy Club	Larry of the Field of Signs
+493	Hatching Chamber	Larval Filthworm
+494	Fun House	Lemon-In-The-Box
+495	Fernswarthy's Ruins	Lesser Fruit Golem
+496	Pre-Cyrpt Cemetary	Lihc
+497	Bugbear Invasion	Liquid metal bugbear
+498	Seaside Megalopolis	Liquid Metal Robot
+499	Post-War Sonofa Beach	Lobsterfrogman
+500	Lollipop Forest	Lollicat
+501	Lollipop Forest	Lolligator
+502	Lollipop Forest	Lollipede
+503	Lollipop Forest	Lolliphaunt
+504	Lollipop Forest	Lolrus
+505	El Vibrato Island	Lonely Construct
+506	Huge-A-Ma-tron	Loose Coalition of Yetis, Snowmen, and Goats
+507	Haunted Wine Cellar	Lord Spookyraven
+508	The Dive Bar	Lounge Lizardfish
+509	Greater-Than Sign	lowercase B
+510	Greater-Than Sign	lowercase H
+511	Greater-Than Sign	lowercase K
+512	Camp Logging Camp	Lumberjack Supervisor
+513	Camp Logging Camp	Lumberjill
+514	Camp Logging Camp	Lumberjuan
+515	Nemesises	Lumpy, the Demonic Sauceblob
+516	Nemesises	Lumpy, the Sinister Sauceblob
+517	Bugbear Pens	Mad Bugbears
+518	The Primordial Soup	Mad Flagellate
+519	Madness Reef	Magic Dragonfish
+520	Fantasy Airship	MagiMechTech MechaMech
+521	The Naughty Sorceress's Tower	Malevolent Crop Circle
+522	Haunted Bathroom	Malevolent Hair Clog
+523	Small-O-Fier	Malevolent Magnetic Field
+524	Feast of Boris	Malevolent Tofurkey
+525	The Glacier of Jerks	Mammon the Elephant
+526	Haunted Conservatory	Man-Eating Plant
+527	The Maelstrom of Lovers	Marcus Macurgeon
+528	Nemesis Assassins	Mariachi Bandolero
+529	The Nemesis' Lair	Mariachi Bruiser
+530	South of the Border	Mariachi Calavera
+531	The Maelstrom of Lovers	Marvin J. Sunny
+532	Daily Dungeon	Mayonnaise Wasp
+533	Orc Chasm	me4t begZ0r
+534	McMillicancuddy's Farm	Mean Drunk Duck
+535	Foyer	Medusa
+536	El Vibrato Island	Menacing Construct
+537	A Well-Groomed Lawn	Menacing Lawn Gnome
+538	Nemesis Assassins	Menacing Thug
+539	The Mer-Kin Outpost	Mer-kin burglar
+540	The Marinara Trench	Mer-kin diver
+541	The Mer-Kin Outpost	Mer-kin healer
+542	Anemone Mine	Mer-kin miner
+543	The Mer-Kin Outpost	Mer-kin raider
+544	The Wreck of the Edgar Fitzsimmons	Mer-kin scavenger
+545	The Dive Bar	Mer-kin tippler
+546	The Don's Crimbo Compound	Mesmerizing Penguin
+547	Dungeons of Doom	mimic	A mimic in its natural form kind of looks like an upside-down squirrel with tentacles.
+548	Barrel full of Barrels	mimic	The least pleasant part of being a barrel-mimicing mimic is when someone fills you full of wine.
+549	Crimborg Collective Factory	
+550	Crimborg Collective Factory	
+551	Dungeons of Doom	Mind Flayer
+552	The Wreck of the Edgar Fitzsimmons	Mine Crab
+553	The Don's Crimbo Compound	Mob Penguin Arsonist
+554	The Don's Crimbo Compound	
+555	The Don's Crimbo Compound	Mob Penguin Demolitionist
+556	Old Crimbo Town Toy Factory	Mob Penguin Enforcer
+557	The Don's Crimbo Compound	
+558	Nemesis Assassins	Mob Penguin hitman
+559	Old Crimbo Town Toy Factory	Mob Penguin Hitpenguin
+560	The Don's Crimbo Compound	
+561	Old Crimbo Town Toy Factory	Mob Penguin Psychopath
+562	Old Crimbo Town Toy Factory	Mob Penguin Racketeer
+563	Grim Grimacite Site	Mob Penguin Smasher
+564	Grim Grimacite Site	Mob Penguin Smith
+565	Grim Grimacite Site	Mob Penguin Supervisor
+566	Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge
+567	Defiled Alcove	Modern Zmobie
+568	Bees Hate You	Moneybee
+569	Crimbo Town Toy Factory	Monkey Wrenchin' Elf
+570	Battlefield (Heroes)	Monty Basingstoke-Pratt, IV
+571	The Maelstrom of Lovers	Mortimer Strauss
+572	The Broodling Grounds	Mother hellseal
+573	The Slime Tube	Mother Slime
+574	Avatar of Boris	Mountain Man
+575	A Well-Groomed Lawn	Mounted Lawn Gnome
+576	A Well-Groomed Lawn	Mowing Lawn Gnome
+577	none	
+578	none	
+579	Bees Hate You	Mumblebee
+580	Atomic Crimbo Toy Factory	Mutant Circuit-Soldering Elf
+581	Atomic Crimbo Toy Factory	Mutant Cookie-Baking Elf
+582	Atomic Crimbo Toy Factory	Mutant Doll-Dressing Elf
+583	Atomic Crimbo Toy Factory	Mutant Gift-Wrapping Elf
+584	Atomic Crimbo Toy Factory	Mutant Whistle-Carving Elf
+585	Hamburglaris Shield Generator	Mutated Alielephant
+586	Hamburglaris Shield Generator	Mutated Alielf
+587	Fernswarthy's Basement	X Bottles of Beer on a Golem
+588	Fernswarthy's Basement	X Stone Golem
+589	Fernswarthy's Basement	X-headed Hydra
+590	Fernswarthy's Basement	X-dimensional horror
+591	Bugbear Invasion	N-space Virtual Assistant
+592	Battlefield (Hippy Uniform)	Naughty Sorority Nurse
+593	Infernal Seals	navy seal
+594	Battlefield (Heroes)	Neil
+595	An Octopus's Garden	Neptune flytrap
+596	Electric Lemonade Acid Parade	Neptune, the Dog that Is a Respected Equal and Not a Pet
+597	Electric Lemonade Acid Parade	Neptune, the Dog that Is a Respected Equal and Not a Pet cast member
+598	CLEESH	Newt
+599	Battlefield (Heroes)	Next-generation Frat Boy
+600	Ninja Snowmen	Ninja Snowman	Ninja snowmen use carrots for noses, because they're easy to take off whenever it's necessary to wear the mask.
+601	Ninja Snowmen	Ninja Snowman	Most ninja snowmen practice a modified form of judo that compensates for the lack of strength in their twiggy little arms.
+602	Ninja Snowmen	Ninja Snowman Assassin
+603	Ninja Snowmen	Ninja Snowman Janitor
+604	Ninja Snowmen	Ninja Snowman Weaponmaster
+605	Hobopolis	Normal hobo
+606	The Dive Bar	Nurse Shark
+607	Oasis in the Desert	Oasis Monster
+608	Seaside Megalopolis	Obese Tourist
+609	An Octopus's Garden	Octopus Gardener
+610	8-Bit Realm	Octorok
+611	Cobb's Knob Barracks	off-duty Knob Goblin Elite Guard
+612	Hobopolis	Ol' Scratch
+613	Degrassi Knoll Gym	one-eyed Gnoll
+614	Hole in the Sky	One-Eyed Willie
+615	Frat House	Orcish Frat Boy	One wonders why Loathing University continues to admit Orcish Frat Boys
+616	Frat House	Orcish Frat Boy	Your garden variety Orcish Frat Boy
+617	Frat House	Orcish Frat Boy	The only thing lower than an
+618	Wartime Frat House (Hippy Disguise)	Orcish Frat Boy Spy
+619	Kegger in the Woods	Orcish Frat Wannaboy
+620	Kegger in the Woods	Orcish Juvenile Delinquent
+621	Hobopolis	Oscus
+622	Mouldering Mansion	Ourang-Outang
+623	The Domed City of Ronaldus	Overarmed Survivor
+624	Haunted Pantry	Overdone Flame-Broiled Meat Blob
+625	Dark Neck of the Woods	P imp
+626	Battlefield (Hippy Uniform)	Panty Raider Frat Boy
+627	Haunted Kitchen	Paper Towelgeist
+628	Mini-Hipster	peeved roommate
+629	Daily Dungeon	Pencil Golem
+630	Nemesis Cave	Pernicious Puddle of Pesto
+631	Guano Junction	Perpendicular Bat
+632	Bat Hole Entryway	Pine Bat
+633	Desert (Ultrahydrated)	Plaque of Locusts
+634	none	
+635	A Barroom Brawl	Plastered Frat Orc
+636	Haunted Billiards Room	Pooltergeist
+637	Outside the Club	Pop-and-Lock Raver
+638	Menagerie 3	Portly Abomination
+639	Feast of Boris	Possessed Can of Cranberry Sauce
+640	Haunted Pantry	Possessed Can of Tomatoes
+641	The Naughty Sorceress's Tower	Possessed Pipe-Organ
+642	Haunted Kitchen	Possessed Silverware Drawer
+643	Haunted Wine Cellar	Possessed Wine Rack
+644	Giant's Castle	Possibility Giant
+645	Outskirts of Camp	Poutine Ooze
+646	Belilafs Comedy Club	Pr Imp
+647	The Naughty Sorceress's Tower	Pretty Fly
+648	The Domed City of Ronaldus	Primitive Survivor
+649	Giant's Castle	Procrastination Giant
+650	Crimbo Town Toy Factory	Propaganda-Spewin' Elf
+651	Fantasy Airship	Protagonist
+652	Hidden City	Protector Spectre
+653	Crimbo Town Toy Factory	
+654	Nemesis Cave	Psychedelic Fur
+655	Madness Reef	Pufferfish
+656	The Briny Deeps	Pumped-up Bass
+657	Shivering Timbers	
+658	Hidden City (Park)	Pygmy Assault Squad
+659	Hidden City (Park)	Pygmy Blowgunner
+660	Hidden City	Pygmy Headhunter
+661	Dungeons of Doom	Quantum Mechanic
+662	Bees Hate You	Queen Bee
+663	Fantasy Airship	Quiet Healer
+664	Palindome	Racecar Bob
+665	Crimbo Town Toy Factory	
+666	South of the Border	Raging Bull
+667	Orc Chasm	Rampaging Adding Machine
+668	Mini-Hipster	random scenester
+669	Batrat and Ratbat Burrow	Ratbat
+670	McMillicancuddy's Farm	Rattlin' Duck
+671	Mouldering Mansion	Raven
+672	Giant's Castle	Raver Giant
+673	Astral Mushroom (Mediocre Trip)	Really Interesting Wallpaper
+674	Biggs Dig	reanimated baboon skeleton
+675	Biggs Dig	reanimated bat skeleton
+676	Biggs Dig	reanimated demon skeleton
+677	Biggs Dig	reanimated giant spider skeleton
+678	Biggs Dig	reanimated serpent skeleton
+679	Biggs Dig	reanimated wyrm skeleton
+680	Bat Hole Entryway	Regular Old Bat
+681	Bugbear Pens	Revolting Bugbear
+682	Bugbear Pens	Revolving Bugbear
+683	Hidden City	pygmy shaman
+684	Hidden City	pygmy bowler
+685	Hidden City	drunk pygmy
+686	Desert (Ultrahydrated)	Rock Scorpion
+687	Hidden City	pygmy janitor
+688	Simple Tool-Making Cave	Rock-Banging Cave Elf
+689	Rock Event	rockfish
+690	The Skate Park	Roller Skate
+691	Stately Pleasure Dome	roller-skating Muse
+692	Oasis in the Desert	Rolling Stone
+693	none	rotten dolphin thief
+694	McMillicancuddy's Farm	Rotund Duck
+695	Crimborg Collective Factory	
+696	Outside the Club	Running Man
+697	Sleazy Back Alley	Rushing Bum
+698	Crimbo Town Toy Factory	
+699	Hippy Camp (Stone Age)	Sabre-Toothed Ferret
+700	Goatlet	Sabre-Toothed Goat
+701	Daily Dungeon	Sabre-Toothed Lime
+702	Nemesis Assassins	Safari Jack, Small-Game Hunter
+703	CLEESH	Salamander
+704	Pirate Cove	Sassy Pirate
+705	Fun House	Scary Clown
+706	none	Scary Pirate
+707	Bugbear Invasion	Scavenger Bugbear
+708	The Briny Deeps	School of Wizardfish
+709	The Brinier Deepers	Scimitarfish
+710	McMillicancuddy's Farm	Scorched Duck
+711	Guano Junction	Screambat
+712	The Nemesis' Lair	Security slime
+713	Post-Cyrpt Cemetary	Senile Lihc
+714	Rogue Windmill	Sensitive Poet-type
+715	Hey Deze Arena	Serialbus
+716	Infernal Seals	Servant of Grodstank
+717	Hidden City	pygmy orderlies	
+718	A Maze of Sewer Tunnels	Sewer Gator
+719	The Haunted Sorority House	Sexy Sorority Ghost
+720	The Haunted Sorority House	Sexy Sorority Skeleton
+721	The Haunted Sorority House	Sexy Sorority Vampire
+722	The Haunted Sorority House	Sexy Sorority Werewolf
+723	The Haunted Sorority House	Sexy Sorority Zombie
+724	Infernal Seals	shadow of Black Bubbles
+725	Pirate Cove	Shady Pirate
+726	Fun House	Shaky Clown
+727	Pirate Cove	Shifty Pirate
+728	Simple Tool-Making Cave	Sinew-Stretching Cave Elf
+729	eXtreme Slope	Sk8 Gnome
+730	The Skate Park	Skate Board member
+731	Haunted Conservatory	Skeletal Cat
+732	Haunted Conservatory	Skeletal Hamster
+733	Haunted Conservatory	Skeletal Monkey
+734	Spooky Fright Factory	
+735	Haunted Wine Cellar	Skeletal Sommelier
+736	A Skeleton Invasion!	
+737	A Barroom Brawl	Skeleton With a Mop
+738	Pre-Cyrpt Cemetary	Skelter Butleton, the Butler Skeleton
+739	Pre-Cyrpt Cemetary	Skleleton
+740	Guano Junction	Skullbat
+741	Haunted Kitchen	Skullery Maid
+742	Hobopolis	Sleaze hobo
+743	Outskirts of The Knob	sleeping Knob Goblin Guard
+744	Itznotyerzitz Mine	sleepy 7-Foot Dwarf
+745	The Barracks	Sleepy Mariachi
+746	Post-Cyrpt Cemetary	Slick Lihc
+747	The Slime Tube	Slime Tube monster
+748	The Slime Tube	
+749	The Slime Tube	
+750	The Slime Tube	
+751	The Slime Tube	
+752	Nemesis Cave	Slithering Hollandaise Glob
+753	Battlefield (Heroes)	Slow Talkin' Elliot
+754	Pirate Cove	Smarmy Pirate
+755	Pre-Cyrpt Cemetary	Smart Skelton
+756	Small-O-Fier	Smooth Jazz Scabie
+757	The Red Queen's Garden	Snapdragon
+758	Icy Peak	Snow Queen
+759	none	[somebody else's butt]
+760	Nemesises	Somerset Lopez, Demon Mariachi
+761	Nemesises	Somerset Lopez, Dread Mariachi	Somerset Lopez killed his first Accordion Thief when he was only twelve years old. (Lopez himself was nineteen.)
+762	Battlefield (Hippy Uniform)	Sorority Nurse
+763	Battlefield (Hippy Uniform)	Sorority Operator
+764	Hidden City	pygmy witch nurse	
+765	Seaside Megalopolis	Space Marine
+766	Orc Chasm	Spam Witch
+767	Infernal Seals	Spawn of Wally
+768	Zombie Slayer	Special Agent Wallace Burke Corrigan
+769	Menagerie 3	Spectral Jellyfish
+770	Mt. Molehill	Spelunking Astronaut
+771	Post-War Junkyard	Spider Gremlin
+772	Bugbear Invasion	spiderbugbear
+773	Post-Cyrpt Cemetary	Spiny Skelelton
+774	An Octopus's Garden	Sponge
+775	Spooky Gravy Barrow	Spooky Gravy Fairy Guard
+776	Spooky Gravy Barrow	Spooky Gravy Fairy Ninja
+777	Spooky Gravy Barrow	Spooky Gravy Fairy Warlock
+778	Hobopolis	Spooky hobo
+779	Spooky Forest	Spooky Mummy
+780	Spooky Forest	spooky vampire	The spooky vampire does not sparkle. When exposed to sunlight, he has the decency to self-combust.
+781	Huge-A-Ma-tron	Spookyraven Manor
+782	Fantasy Airship	Spunky Princess
+783	Nemesises	Stella, the Demonic Turtle Poacher
+784	Nemesises	Stella, the Turtle Poacher
+785	Hobopolis	Stench hobo
+786	Spooky Fright Factory	Stocking-stuffing Zombie
+787	Hidden Temple	Stone Temple Pirate
+788	An Octopus's Garden	Stranglin' Algae
+789	Hidden City	pygmy witch surgeon	
+790	Hidden City	pygmy witch lawyer
+791	Hidden City	pygmy witch accountant	
+792	Hidden City	dense liana
+793	none	
+794	Feast of Boris	Stuffing Golem
+795	Outskirts of The Knob	Sub-Assistant Knob Mad Scientist
+796	Hey Deze Arena	Suckubus
+797	The Barracks	Surprised Mariachi
+798	Electric Lemonade Acid Parade	Susie Soyburger
+799	Electric Lemonade Acid Parade	Susie Soyburger cast member
+800	McMillicancuddy's Farm	Swamp Duck
+801	Astral Mushroom (Bad Trip)	Swarm of Country Bats
+802	Desert (Ultrahydrated)	Swarm of Fire Ants
+803	Fudge Mountain	Swarm of fudgewasps
+804	Defiled Cranny	Swarm of Ghuol Whelps
+805	Dungeons of Doom	Swarm of Killer Bees
+806	Cobb's Knob Barracks	swarm of Knob lice
+807	Greater-Than Sign	swarm of lowercase As
+808	Oasis in the Desert	Swarm of Scarab Beatles
+809	Pirate Cove	Swarthy Pirate
+810	Palindome	Taco Cat
+811	Nemesis Cave	Talking Head
+812	Palindome	Tan Gnat
+813	Haunted Ballroom	Tapdancing Skeleton
+814	CRIMBCO cubicles	Tedious Spreadsheet
+815	8-Bit Realm	Tektite
+816	Seaside Megalopolis	Terrifying Robot
+817	Barrrney's Barrr	Tetchy Pirate
+818	Fudge Mountain	
+819	Astral Mushroom (Great Trip)	Angels of Avalon
+820	Hole in the Sky	Astronomer
+821	Avatar of Boris	The Avatar of Sneaky Pete
+822	Hole in the Sky	Axe Wound
+823	The Clumsiness Grove	The Bat in the Spats
+824	Fernswarthy's Basement	Beast with X Ears
+825	Fernswarthy's Basement	Beast with X Eyes
+826	Hole in the Sky	Beaver
+827	Astral Mushroom (Mediocre Trip)	Best Carpet Ever
+828	CRIMBCO cubicles	The Best Game Ever
+829	Battlefield (Frat Uniform)	The Big Wisniewski
+830	Black Forest	Black Knight
+831	Haert of the Cyrpt	Bonerdagon
+832	CRIMBCO cubicles	The Book Of Faces
+833	Boss Bat's Lair	Boss Bat
+834	Hole in the Sky	Box
+835	Hole in the Sky	Burrowing Bishop
+836	Hole in the Sky	Bush
+837	Hole in the Sky	Camel's Toe
+838	The Fun House	The Clownlord Beelzebozo
+839	Lollipop Forest	
+840	The Naughty Sorceress's Tower	Darkness
+841	none	
+842	Nemesises	Demon of New Wave
+843	Astral Mushroom (Great Trip)	Elders of the Gentle Race
+844	Hole in the Sky	Family Jewels
+845	The Naughty Sorceress's Tower	Fickle Finger of F8
+846	Hole in the Sky	Flange
+847	Fudge Mountain	
+848	Fernswarthy's Basement	Ghost of Fernswarthy's Grandfather
+849	Haunted Bathroom	Guy Made Of Bees
+850	Hole in the Sky	Honey Pot
+851	Hole in the Sky	Hooded Warrior
+852	Hole in the Sky	Junk
+853	Throne Room	Knob Goblin King
+854	A Well-Groomed Lawn	The Landscaper
+855	The Glacier of Jerks	The Large-Bellied Snitch
+856	Hole in the Sky	Little Man in the Canoe
+857	Avatar of Boris	The Luter
+858	Battlefield (Hippy Uniform)	The Man
+859	Nemesis Assassins	The Mariachi With No Name
+860	Rogue Windmill	Master of Ceremonies
+861	none	
+862	Hole in the Sky	Muff
+863	The Naughty Sorceress's Tower	Naughty Sorceress
+864	The Naughty Sorceress's Tower	Naughty Sorceress (2)
+865	The Naughty Sorceress's Tower	Naughty Sorceress (3)
+866	Hole in the Sky	Pork Sword
+867	Queen's Chamber	Queen Filthworm
+868	Haunted Bedroom	Remains of a Jilted Mistress
+869	Hole in the Sky	Skinflute
+870	The Clumsiness Grove	Sorrowful Hickory
+871	Nemesises	Spaghetti Demon
+872	Nemesises	Spaghetti Elemental
+873	Nemesises	Spirit of New Wave
+874	The Clumsiness Grove	Suffering Juniper
+875	none	
+876	The Maelstrom of Lovers	The Terrible Pinch
+877	The Altar	The Thing with No Name
+878	The Clumsiness Grove	The Thorax
+879	CRIMBCO cubicles	The Tome Of Tropes
+880	The Clumsiness Grove	Tormented Baobab
+881	Hole in the Sky	Trouser Snake
+882	Hole in the Sky	Twig and Berries
+883	CRIMBCO cubicles	The Water Cooler
+884	The Clumsiness Grove	Whimpering Willow
+885	none	
+886	The Clumsiness Grove	Woeful Magnolia
+887	A Skeleton Invasion!	
+888	The Maelstrom of Lovers	Thug 1 and Thug 2
+889	The Red Queen's Garden	Tiger-lily
+890	Electric Lemonade Acid Parade	Timmy Tofurkey
+891	Electric Lemonade Acid Parade	Timmy Tofurkey cast member
+892	Barrrney's Barrr	Tipsy Pirate
+893	Haunted Bathroom	Toilet Papergeist
+894	Shivering Timbers	Toilet-papered Tree
+895	The Upper Chamber	Tomb Asp
+896	The Middle Chamber	Tomb Bat
+897	The Upper Chamber	Tomb Rat
+898	The Upper Chamber	Tomb Rat King
+899	The Upper Chamber	Tomb Servant
+900	Daily Dungeon	Tonic Water Elemental
+901	Stately Pleasure Dome	Toothless Mastiff Bitch
+902	Barrrney's Barrr	Toothy Pirate
+903	Post-Cyrpt Cemetary	Toothy Sklelton
+904	Sorceress' Hedge Maze	Topiary Golem
+905	CRIMBCO cubicles	Totally Malicious 'Zine
+906	Kegger in the Woods	Totally Trashed Orquette
+907	El Vibrato Island	Towering Construct
+908	Spooky Fright Factory	Toy-making creature from the Gray Lagoon
+909	Bugbear Invasion	Trendy Bugbear Chef
+910	The Jungles of Ancient Loathing	Tribal Goblin
+911	Spooky Forest	Triffid
+912	Astral Mushroom (Great Trip)	Trippy Floating Head	If you think the giant floating head is weird, just wait'll you see the talking dog.
+913	Astral Mushroom (Great Trip)	Trippy Floating Head	This particular trippy floating head's title is Grand Moff. We're not sure if there are other ranks of Moff, or if that's just an insulting nickname.
+914	Astral Mushroom (Great Trip)	Trippy Floating Head	Some professional chemical enthusiasts believe the enigmatic smile means "I'm secretly a gender-swapped self-portrait."
+915	Lollipop Forest	
+916	The Brinier Deepers	Trophyfish
+917	Nemesis Assassins	Turtle trapper
+918	A Skeleton Invasion!	
+919	The Naughty Sorceress's Tower	Tyrannosaurus Tex
+920	none	
+921	Haunted Pantry	Undead Elbow Macaroni
+922	The Don's Crimbo Compound	Undercover Penguin
+923	none	
+924	Neckback Crick	Unearthed Monstrosity
+925	A Barroom Brawl	Unemployed Knob Goblin
+926	The Domed City of Grimacia	Unhinged Survivor
+927	The Wreck of the Edgar Fitzsimmons	Unholy Diver
+928	The Domed City of Ronaldus	Unlikely Survivor
+929	CRIMBCO cubicles	Unoptimized Database
+930	Icy Peak	Upgraded Ram
+931	Greater-Than Sign	uppercase Q
+932	The Skate Park	Urchin Urchin
+933	Astral Mushroom (Mediocre Trip)	Urge to Stare at Your Hands
+934	Mouldering Mansion	Usher
+935	Guano Junction	Vampire Bat
+936	Daily Dungeon	Vampire Clam
+937	McMillicancuddy's Farm	Vampire Duck
+938	Foyer	Vanya's Creature
+939	Post-War Junkyard	Vegetable Gremlin
+940	Mt. Molehill	Velvet Underground Dweller
+941	Convention Hall Lobby	Vendor Slime
+942	Nemesis Cave	Vengeful Turtle Spectre
+943	The Naughty Sorceress's Tower	Vicious Easel
+944	Thugnderdome	Vicious Gnauga
+945	Beliafs Comedy Club	Victor the Insult Comic Hellhound
+946	Spectral Pickle Factory	Vine Gar
+947	The Primordial Soup	Violent Fungus
+948	Astral Mushroom (Mediocre Trip)	Visible Music
+949	The Glacier of Jerks	Vivian Vibrian Vumian Varr
+950	Rogue Windmill	Voyeuristic Artist
+951	Dark Neck of the Woods	W imp
+952	Poop Deck	Wacky Pirate
+953	The Glacier of Jerks	Wacky Zack Flacky
+954	Battlefield (Hippy Uniform)	War Frat 110th Infantryman
+955	Battlefield (Hippy Uniform)	War Frat 151st Captain
+956	Battlefield (Hippy Uniform)	War Frat 151st Infantryman
+957	Battlefield (Hippy Uniform)	War Frat 500th Infantrygentleman
+958	Battlefield (Hippy Uniform)	War Frat Elite 110th Captain
+959	Battlefield (Hippy Uniform)	War Frat Elite 500th Captain
+960	Battlefield (Hippy Uniform)	War Frat Elite Wartender
+961	Battlefield (Hippy Uniform)	War Frat Grill Sergeant
+962	Battlefield (Hippy Uniform)	War Frat Kegrider
+963	Battlefield (Hippy Uniform)	War Frat Mobile Grill Unit
+964	Battlefield (Hippy Uniform)	War Frat Senior Grill Sergeant
+965	Battlefield (Heroes)	War Frat Streaker
+966	Battlefield (Hippy Uniform)	War Frat Wartender
+967	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet
+968	Battlefield (Frat Uniform)	War Hippy Airborne Commander
+969	Battlefield (Frat Uniform)	War Hippy Baker
+970	Battlefield (Frat Uniform)	War Hippy Dread Squad
+971	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant
+972	Battlefield (Frat Uniform)	War Hippy Elder Shaman
+973	Battlefield (Frat Uniform)	War Hippy Elite Fire Spinner
+974	Battlefield (Frat Uniform)	War Hippy Elite Rigger
+975	Battlefield (Frat Uniform)	War Hippy F.R.O.G.
+976	Battlefield (Frat Uniform)	War Hippy Fire Spinner
+977	Battlefield (Frat Uniform)	War Hippy Green Gourmet
+978	Battlefield (Frat Uniform)	War Hippy Homeopath
+979	Battlefield (Frat Uniform)	War Hippy Infantryman
+980	Battlefield (Frat Uniform)	War Hippy Naturopathic Homeopath
+981	Battlefield (Frat Uniform)	War Hippy Rigger
+982	Battlefield (Frat Uniform)	War Hippy Shaman
+983	Battlefield (Frat Uniform)	War Hippy Sky Captain
+984	Wartime Hippy Camp (Frat Disguise)	War Hippy Spy
+985	Battlefield (Frat Uniform)	War Hippy Windtalker
+986	Wartime Frat House (Hippy Disguise)	War Pledge
+987	The Nemesis' Lair	Warehouse worker
+988	Poop Deck	Warty Pirate
+989	Spooky Forest	Warwelf
+990	The Red Queen's Garden	Wasp in a Wig
+991	Neckback Crick	Water Spider
+992	Infernal Seals	watertight seal
+993	Poop Deck	Wealthy Pirate
+994	Old Man Jar	Deadly Hydra
+995	Mt. Molehill	Weather Underground Dweller
+996	A Barroom Brawl	Werecougar
+997	Menagerie 2	Weremoose
+998	Fernswarthy's Ruins	Weretaco
+999	Infernal Seals	wet seal
+1000	Poop Deck	Whiny Pirate
+1001	The Domed City of Grimacia	Whiny Survivor
+1002	Whitey's Grove	White Chocolate Golem
+1003	Whitey's Grove	White Lion
+1004	Whitey's Grove	Whitesnake
+1005	Crimbo Town Toy Factory	
+1006	Poop Deck	Witty Pirate
+1007	Spooky Forest	Wolfman
+1008	The Maelstrom of Lovers	Wonderful Winifred Wongle
+1009	Haunted Library	Writing Desk
+1010	Surprising Fist	Wu Tang the Betrayer
+1011	The Jungles of Ancient Loathing	Wumpus
+1012	Orc Chasm	XXX pr0n
+1013	Nemesis Assassins	Yakisoba the Executioner
+1014	Fernswarthy's Ruins	Yeast Beast
+1015	none	Your butt
+1016	CRIMBCO cubicles	Your Overflowing Inbox
+1017	The Naughty Sorceress's Tower	(shadow opponent)
+1018	Battlefield (Heroes)	Zim Merman
+1019	Pre-Cyrpt Cemetary	Zmobie
+1020	Pre-Cyrpt Cemetary	Zobmie
+1021	8-Bit Realm	Zol
+1022	Astral Mushroom (Bad Trip)	Zombie Baby
+1023	Haunted Kitchen	Zombie Chef
+1024	McMillicancuddy's Farm	Zombie Duck
+1025	Haunted Ballroom	zombie waltzers
+1026	Zombie Slayer	zombie-huntin' feller
+1027	Hobopolis	Zombo
+1028	Haunted Bedroom	Animated Nightstand	Mahogany is not actually a type of wood. It's made of pressed and varnished coffee beans.
+1029	Zombie Slayer	Norville Rogers
+1030	Zombie Slayer	Peacannon
+1031	Zombie Slayer	Scott the Miner
+1032	Zombie Slayer	Father McGruber
+1033	Zombie Slayer	Herman East, Relivinator
+1034	Zombie Slayer	Angry Space Marine
+1035	Zombie Slayer	Deputy Nick Soames & Earl
+1036	Zombie Slayer	Father Nikolai Ravonovich
+1037	Zombie Slayer	Charity the Zombie Hunter
+1038	Zombie Slayer	Special Agent Wallace Burke Corrigan
+1039	Zombie Slayer	Hank North, Photojournalist
+1040	Zombie Slayer	Rag-tag band of survivors
+1041	Zombie Slayer	Wesley J. "Wes" Campbell
+1042	Zombie Slayer	The Free Man
+1043	Zombie Slayer	Zombie-huntin' feller
+1044	Talk Like a Pirate Day	Ambulatory Pirate
+1045	Talk Like a Pirate Day	Migratory Pirate
+1046	Talk Like a Pirate Day	Peripatetic Pirate
+1047	Dreadsylvania	hot bugbear
+1048	Dreadsylvania	cold bugbear
+1049	Dreadsylvania	stench bugbear
+1050	Dreadsylvania	sleaze bugbear
+1051	Dreadsylvania	spooky bugbear
+1052	Dreadsylvania	hot werewolf
+1053	Dreadsylvania	cold werewolf
+1054	Dreadsylvania	stench werewolf
+1055	Dreadsylvania	spooky werewolf
+1056	Dreadsylvania	sleaze werewolf
+1057	Dreadsylvania	Falls-From-Sky
+1058	Dreadsylvania	Great Wolf of the Air
+1059	Dreadsylvania	hot ghost
+1060	Dreadsylvania	cold ghost
+1061	Dreadsylvania	stench ghost
+1062	Dreadsylvania	sleaze ghost
+1063	Dreadsylvania	spooky ghost
+1064	Dreadsylvania	hot zombie
+1065	Dreadsylvania	cold zombie
+1066	Dreadsylvania	stench zombie
+1067	Dreadsylvania	sleaze zombie
+1068	Dreadsylvania	spooky zombie
+1069	Dreadsylvania	Mayor Ghost
+1070	Dreadsylvania	Zombie Homeowners' Association
+1071	Dreadsylvania	hot skeleton
+1072	Dreadsylvania	cold skeleton
+1073	Dreadsylvania	stench skeleton
+1074	Dreadsylvania	sleaze skeleton
+1075	Dreadsylvania	spooky skeleton
+1076	Dreadsylvania	hot vampire
+1077	Dreadsylvania	cold vampire
+1078	Dreadsylvania	stench vampire
+1079	Dreadsylvania	sleaze vampire
+1080	Dreadsylvania	spooky vampire	Vampires, as a general rule, aren't very scary any more. They're like the monster version of a high-school vice principal that tries to act cool and relate to the kids.
+1081	Dreadsylvania	Count Drunkula
+1082	Dreadsylvania	The Unkillable Skeleton
+1083	GameInform Dungeon	Video Game Boss
+1084	GameInform Dungeon	Video Game Miniboss 
+1085	GameInform Dungeon	Video Game Minion (moderate)
+1086	GameInform Dungeon	Video Game Minion (strong)
+1087	GameInform Dungeon	Video Game Minion (weak)
+1088	Mer-kin Colosseum	Georgepaul, the Balldodger
+1089	Mer-kin Colosseum	Johnringo, the Netdragger
+1090	Mer-kin Colosseum	Mer-kin balldodger
+1091	Mer-kin Colosseum	Mer-kin bladeswitcher
+1092	Mer-kin Colosseum	Mer-kin netdragger
+1093	Mer-kin Colosseum	Ringogeorge, the Bladeswitcher
+1094	Mer-kin Elementary School	Mer-kin monitor
+1095	Mer-kin Elementary School	Mer-kin punisher
+1096	Mer-kin Elementary School	Mer-kin specter
+1097	Mer-kin Elementary School	Mer-kin teacher
+1098	Mer-kin Gymnasium	Mer-kin juicer
+1099	Mer-kin Gymnasium	Mer-kin poseur
+1100	Mer-kin Gymnasium	Mer-kin trainer
+1101	Mer-kin Library	Mer-kin alphabetizer
+1102	Mer-kin Library	Mer-kin drifter
+1103	Mer-kin Library	Mer-kin researcher
+1104	Mer-kin Temple	Dad Sea Monkee
+1105	Mer-kin Temple	Shub-Jigguwatt, Elder God of Violence
+1106	Mer-kin Temple	Yog-Urt, Elder Goddess of Hatred
+1107	Coral Corral	Mer-kin rustler
+1108	Coral Corral	sea cow
+1109	Coral Corral	sea cowboy
+1110	Meatsmith Jar	bacon snake
+1111	Meatsmith Jar	cold cutter
+1112	Meatsmith Jar	groast
+1113	Meatsmith Jar	pork butterfly
+1114	Meatsmith Jar	salaminder
+1115	Old Man Jar	The Cray-Kin
+1116	Jick Jar	procedurally-generated skeleton
+1117	Old Man Jar	fearsome giant squid
+1118	Old Man Jar	ferocious roc
+1119	Old Man Jar	giant man-eating shark
+1120	Old Man Jar	Bristled Man-O-War
+1121	Gourd Jar	spider conspirator
+1122	Gourd Jar	tin can conspirator
+1123	Gourd Jar	goblin conspirator
+1124	Gourd Jar	Fnord the Unspeakable
+1125	Artist Jar - Drawer	Butterknife of Regret
+1126	Artist Jar - Drawer	Cookie Cutter of Loneliness
+1127	Artist Jar - Drawer	Creme Brulee Torch of Fury
+1128	Artist Jar - Drawer	Spatula of Despair
+1129	Artist Jar - Drawer	Whisk of Misery
+1130	Artist Jar - Bag	bag of Potatoes of Security
+1131	Artist Jar - Bag	box of Batter Mix of Hope
+1132	Artist Jar - Bag	bundle of Meat of Happiness
+1133	Artist Jar - Bag	carton of Eggs of Confidence
+1134	Artist Jar - Bag	loaf of Bread of Wonder
+1135	Suspicious Jar - Chinatown Shops	grinning pork bun
+1136	Suspicious Jar - Chinatown Shops	lucky cat statue
+1137	Suspicious Jar - Chinatown Shops	roasted duck golem
+1138	Suspicious Jar - Chinatown Shops	yakuza courier
+1139	Suspicious Jar - Triad Factory	clean-room daemon
+1140	Suspicious Jar - Triad Factory	fabricator guài
+1141	Suspicious Jar - Triad Factory	triad code wizard
+1142	Suspicious Jar - Triad Factory	The Sierpinski brothers
+1143	Suspicious Jar - Floors	salaryninja
+1144	Suspicious Jar - Floors	security robot
+1145	Suspicious Jar - Floors	yakuza guard
+1146	Suspicious Jar - Chinatown Tenement	Chief Electronic Overseer
+1147	Suspicious Jar - Chinatown Tenement	desperate gold farmer
+1148	Suspicious Jar - Chinatown Tenement	rabid MMO addict
+1149	Suspicious Jar - Chinatown Tenement	yakuza thug
+1150	Suspicious Jar - Chinatown Tenement	The Server
+1151	Suspicious Jar - Chinatown Tenement	White Bone Demon
+1152	Mystic Jar - Fear	animated possessions
+1153	Mystic Jar - Doubt	judgmental eye
+1154	Mystic Jar - Regret	ancient ghost
+1155	Mystic Jar - Anger	frustrating knight
+1156	Mystic Jar - Fear	morbid skull
+1157	Mystic Jar - Doubt	reproachful heart
+1158	Mystic Jar - Regret	contemplative ghost
+1159	Mystic Jar - Anger	rage flame
+1160	Mystic Jar - Fear	natural spider
+1161	Mystic Jar - Doubt	work hat
+1162	Mystic Jar - Regret	lovesick ghost
+1163	Mystic Jar - Anger	ticking time bomb
+1164	Mystic Jar - Fear	Fear Man
+1165	Mystic Jar - Doubt	Doubt Man
+1166	Mystic Jar - Regret	Regret Man
+1167	Mystic Jar - Anger	Anger Man
+1168	KOLHS - Halls	dweebie
+1169	KOLHS - Halls	motorhead
+1170	KOLHS - Halls	sporto
+1171	KOLHS - Halls	wastoid
+1172	KOLHS - Art Class	clay golem
+1173	KOLHS - Art Class	misproportioned portrait
+1174	KOLHS - Art Class	rulergheist
+1175	KOLHS - Art Class	wire sculpture
+1176	KOLHS - Chemistry Class	Bunsen burner and beaker
+1177	KOLHS - Chemistry Class	dropped base
+1178	KOLHS - Chemistry Class	possessed eyewashing station
+1179	KOLHS - Chemistry Class	sodium golem
+1180	KOLHS - Chemistry Class	Mrs. K, the Chemistry Teacher
+1181	KOLHS - Shop Class	deadly vise
+1182	KOLHS - Shop Class	demonic jigsaw
+1183	KOLHS - Shop Class	screw golem
+1184	KOLHS - Shop Class	out-of-control bandsaw
+1185	KOLHS - Boss	Principal Mooney
+1186	Huge-A-Ma-tron	Castle in the Clouds in the Sky
+1187	Huge-A-Ma-tron	Professor Jacking
+1188	Meatsmith Jar	The Beefhemoth
+1189	KOLHS - Art Class	François Verte, Art Teacher
+1190	KOLHS - Shop Class	X-fingered Shop Teacher
+1191	Nemesises	Somerset Lopez, Dread Mariachi	Somerset Lopez prefers a rapidly-strummed A Minor chord for filling his opponents with lead.
+1192	Nemesises	Somerset Lopez, Dread Mariachi	Lopez's father, Miguel Lopez, was a chef who became famous for his Spanish restyling of the classic French dish Eggs Benedict, into what he called "Huevos Lopez". Consequently, "Huevos" is Somerset Lopez's middle name.
+1193	Revamp (SC)	scout seal
+1194	Revamp (SC)	bulwark bull seal
+1195	Revamp (SC)	official seal
+1196	Revamp (DB)	awkward disco dancer
+1197	Revamp (DB)	flexible disco dancer
+1198	Revamp (DB)	stiff disco dancer
+1199	Revamp (AT)	depressing French accordionist
+1200	Revamp (AT)	lively Cajun accordionist
+1201	Revamp (AT)	quirky indie-rock accordionist
+1202	Revamp (TT)	spirit pea
+1203	Revamp (TT)	spirit faucet
+1204	Revamp (TT)	spirit bedbug
+1205	Revamp (Mys)	Box of Crafty Dinner
+1206	Revamp (Mys)	Frozen Bag of Tortellini
+1207	Revamp (Mys)	Possessed Can of Creepy Pasta
+1208	Revamp (Mys)	Possessed Can of Linguine-Os
+1209	Revamp (Mys)	Possessed Jar of Alphredo™
+1210	A Deserted Stretch of I-911	fire truck
+1211	A Deserted Stretch of I-911	ice cream truck
+1212	A Deserted Stretch of I-911	monster hearse
+1213	A Deserted Stretch of I-911	sewer tanker
+1214	A Deserted Stretch of I-911	sketchy van
+1215	Inner Wolf Gym	Abcrusher 4000™
+1216	Inner Wolf Gym	Escalatormaster™
+1217	Inner Wolf Gym	Legstrong™ stationary bicycle
+1218	Inner Wolf Gym	rack of free weights
+1219	Inner Wolf Gym	treadmill
+1220	Unleash Your Inner Wolf	befouled straw house
+1221	Unleash Your Inner Wolf	Dutch Angle straw house
+1222	Unleash Your Inner Wolf	frosty straw house
+1223	Unleash Your Inner Wolf	oily straw house
+1224	Unleash Your Inner Wolf	steaming straw house
+1225	Unleash Your Inner Wolf	cold ironwood house
+1226	Unleash Your Inner Wolf	glowing ash house
+1227	Unleash Your Inner Wolf	pitch pine house
+1228	Unleash Your Inner Wolf	quaking aspen house
+1229	Unleash Your Inner Wolf	slippery elm house
+1230	Unleash Your Inner Wolf	brick icehouse
+1231	Unleash Your Inner Wolf	brick kiln
+1232	Unleash Your Inner Wolf	brick mausoleum
+1233	Unleash Your Inner Wolf	brick outhouse
+1234	Unleash Your Inner Wolf	brick (suggestive pause) house
+1235	Sweet-Ade Lake	gummi plesiosaur
+1236	Sweet-Ade Lake	lemonhead minnow
+1237	Sweet-Ade Lake	school of gummi piranhas
+1238	Eager Rice Burrows	chocolate-cherry prairie dog
+1239	Eager Rice Burrows	chocolate hare
+1240	Eager Rice Burrows	Rock Pop weasel
+1241	Gumdrop Forest	candied pecan tree
+1242	Gumdrop Forest	licorice snake
+1243	Gumdrop Forest	tricksy pixie
+1244	Ye Olde Medievale Villagee	Medieval dung peddler
+1245	Ye Olde Medievale Villagee	Medieval leather mug salesman
+1246	Ye Olde Medievale Villagee	Medieval mug apprentice
+1247	Ye Olde Medievale Villagee	Medieval potter
+1248	Ye Olde Medievale Villagee	Medieval strawman debator
+1249	Ye Olde Medievale Villagee	Medieval stucco artisan
+1250	Copperhead Club	Copperhead Club bartender
+1251	Copperhead Club	fan dancer
+1252	Copperhead Club	Mob Penguin Capo
+1253	Copperhead Club	ninja dressed as a waiter
+1254	Copperhead Club	waiter dressed as a ninja
+1255	Copperhead Club (Poison Encounters)	Batsnake
+1256	Copperhead Club (Poison Encounters)	Frozen Solid Snake
+1257	Copperhead Club (Poison Encounters)	Burning Snake of Fire
+1258	Copperhead Club (Poison Encounters)	The Snake With Like Ten Heads
+1259	Copperhead Club (Poison Encounters)	Frattlesnake
+1260	Copperhead Club (Poison Encounters)	Snakeleton
+1261	Mob of Zeppelin Protestors	Blue Oyster cultist
+1262	Mob of Zeppelin Protestors	eagle
+1263	Mob of Zeppelin Protestors	fleet woodsman
+1264	Mob of Zeppelin Protestors	Jefferson pilot
+1265	Mob of Zeppelin Protestors	lynyrd skinner
+1266	Red Zeppelin	man with the red buttons
+1267	Red Zeppelin	red butler
+1268	Red Zeppelin	Red Herring
+1269	Red Zeppelin	red skeleton
+1270	Red Zeppelin	Red Snapper
+1271	Red Zeppelin	Ron "The Weasel" Copperhead
+1272	Red Zeppelin	Red Fox
+1273	Thinknerd Warehouse	amok putty
+1274	Thinknerd Warehouse	Thinknerd Moving Robot
+1275	Thinknerd Warehouse	Thinknerd Packing Robot
+1276	Thinknerd Warehouse	Thinknerd Sorting Robot
+1277	The Fun-Guy Mansion	Fun-Guy Playmate
+1278	Sloppy Seconds Diner	Sloppy Seconds Cocktail
+1279	Sloppy Seconds Diner	Sloppy Seconds Sundae
+1280	Sloppy Seconds Diner	Sloppy Seconds Burger
+1281	The Sunken Party Yacht	broctopus
+1282	The Sunken Party Yacht	cocktail shrimp
+1283	The Sunken Party Yacht	son of a son of a sailor
+1284	The Sunken Party Yacht	taco fish
+1285	The Sunken Party Yacht	wild girl
+1286	The Sunken Party Yacht	drownedbeat
+1287	The Haunted Laundry Room	possessed laundry press
+1288	The Haunted Laundry Room	cabinet of Dr. Limpieza
+1289	The Haunted Laundry Room	plaid ghost
+1290	The Haunted Boiler Room	coaltergeist
+1291	The Haunted Boiler Room	monstrous boiler
+1292	The Haunted Boiler Room	steam elemental
+1293	The Haunted Boiler Room	Bram the Stoker
+1294	The Haunted Storage Room	ancestral Spookyraven portrait
+1295	The Haunted Storage Room	sheet ghost
+1296	The Haunted Storage Room	stuffed moose head
+1297	The Haunted Laboratory	model skeleton
+1298	The Haunted Laboratory	Jacob's adder
+1299	The Haunted Laboratory	the gunk
+1300	The Haunted Nursery	spooky music box
+1301	The Haunted Nursery	possessed toy chest
+1302	The Haunted Nursery	creepy doll
+1303	Twitch Event	Government agent
+1304	Twitch Event	illegal alien
+1305	Twitch Event	perimeter defense sphere
+1306	Twitch Event	space beast

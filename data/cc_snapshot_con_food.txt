@@ -1,0 +1,493 @@
+1	glistening maki
+2	Three-tiered wedding cake
+3	walrus ice cream
+4	Humpty Dumplings
+5	beautiful soup
+6	Lobster <i>qua</i> Grill
+7	a dance upon the palate
+8	Antique packet of ketchup
+9	Asparagus stir-fry
+10	Banana
+11	Beefy fish meat
+12	Blackberry
+13	Bowl of lucky charms
+14	Bowl of rye sprouts
+15	Brain-meltingly-hot chicken wings
+16	Bucket of honey
+17	Candy cane
+18	Candy kneecapping stick
+19	Candy stake
+20	Carob chunks
+21	Catsup
+22	Cherry
+23	Chorizo taco
+24	Cob of corn
+25	Cocktail onion
+26	Cocoa eggshell fragment
+27	Cranberries
+28	Crazy little Turkish delight
+29	Creamsicle
+30	Cursed black pearl onion
+31	Dehydrated caviar
+32	Desiccated apricot
+33	Dragon snaps
+34	Foie gras
+35	Fortune cookie
+36	Frat brats
+37	Genalen&trade; Bottle
+38	Ghuol egg
+39	Gingerbread bugbear
+40	Gingerbread horror
+41	Gingerbread mutant bugbear
+42	Glass of baboon milk
+43	Glass of goat's milk
+44	Glistening fish meat
+45	Gr8ps
+46	Grapefruit
+47	Grapes
+48	Handful of nuts and berries
+49	Handful of walnuts
+50	Hippy herbal tea
+51	Hot buttered roll
+52	Hot wing
+53	Irradiated candy cane
+54	Jawbruiser
+55	Jumbo Dr. Lucifer
+56	Jumbo olive
+57	Jumping bean taco
+58	Juniper berries
+59	Ketchup
+60	Kiwi
+61	Knob ka-bobs
+62	Knob pasty
+63	Kumquat
+64	Large cocoa eggshell fragment
+65	Laser-broiled pear
+66	Lemon
+67	Licorice garrote
+68	Lime
+69	Lucky Surprise Egg
+70	Maple syrup
+71	Mixed wildflower greens
+72	Mugcake
+73	Nanite-infested candy cane
+74	Nanite-infested gingerbread bugbear
+75	Olive
+76	Olive stir-fry
+77	Orange
+78	Packet of beer nuts
+79	Papaya
+80	Papaya taco
+81	Peach
+82	Pear
+83	cupcake-in-a-cup
+84	
+85	Plum
+86	Powdered donut
+87	Queen cookie
+88	Radio button candy
+89	Raspberry
+90	Roasted marshmallow
+91	Royal jelly
+92	Royal jelly taco
+93	Sea avocado
+94	Sea blueberry
+95	Sea broccoli
+96	Sea carrot
+97	Sea cauliflower
+98	Sea cucumber
+99	Sea honeydew
+100	Sea lychee
+101	Sea persimmon
+102	Sea radish
+103	Sea tangelo
+104	Slick fish meat
+105	Slimy sweetbreads
+106	Spooky Surprise Egg
+107	Stalk of asparagus
+108	Strawberry
+109	elven <i>limbos</i> gingerbread
+110	T8r tots
+111	Tangerine
+112	Tasty tart
+113	Tempura avocado
+114	Tempura broccoli
+115	Tempura carrot
+116	Tempura cauliflower
+117	Tempura cucumber
+118	Tempura radish
+119	Tiger-lily's milk
+120	Tiny frozen prehistoric meteorite jawbreaker
+121	Toast
+122	Toast with jam
+123	Tofu stir-fry
+124	Tofu taco
+125	Tomato
+126	Turtle soup
+127	Uncooked chorizo
+128	knight cookie
+129	Vinegar-soaked lemon slice
+130	White chocolate chips
+131	White rice
+132	Abominable snowcone
+133	Babycakes
+134	Balaclava baklava
+135	Banana milkshake
+136	Bat haggis
+137	Bat wing kabob
+138	Bat-shaped Crimboween cookie
+139	Bell-shaped Crimbo cookie
+140	Blob-shaped Crimbo cookie
+141	Bowl of cottage cheese
+142	Brown sugar cane
+143	Bunch of square grapes
+144	Cactus fruit
+145	Carob brownies
+146	Carob chunk cookies
+147	Catgut taco
+148	Centipede eggs
+149	Chocolate-covered scarab beetle
+150	Cool mushroom
+151	Cream of pointy mushroom soup
+152	Dire fudgesicle
+153	Ent cider
+154	Escargotsicle
+155	Fancy canap&eacute;s
+156	Fishy fish
+157	Ghost cucumber
+158	Ghuol-ear kabob
+159	Gnatloaf
+160	Goat cheese
+161	Goat cheese taco
+162	Herb brownies
+163	Honey-dew
+164	Hot date
+165	Knob mushroom
+166	Knob sausage
+167	Knob shroomkabob
+168	Knob stir-fry
+169	Knoll mushroom
+170	Knoll shroomkabob
+171	Knoll stir-fry
+172	Long pork chop sandwiches
+173	Manetwich
+174	Menudo
+175	Packet of tofurkey gravy
+176	Piece of wedding cake
+177	Plain pizza
+178	Pointy mushroom
+179	Poutine
+180	Pr0n cocktail
+181	Pr0n stir-fry
+182	Pr0n taco
+183	Protein paste
+184	Rat appendix kabob
+185	Rat scrapple
+186	Rocky road ice cream
+187	Savoy truffle
+188	Six tiny wedges of goat cheese
+189	Skewered cat appendix
+190	Skull-shaped Crimboween cookie
+191	Spam Witch sammich
+192	Spooky mushroom
+193	Spooky shroomkabob
+194	Spooky stir-fry
+195	Stunt nuts
+196	Tin cup of mulligan stew
+197	Tofurkey gravy
+198	Tombstone-shaped Crimboween cookie
+199	Tree-shaped Crimbo cookie
+200	Trollhouse cookies
+201	Unidentified jerky
+202	Urinal cake
+203	Warm mushroom
+204	Wedge of gray cheese
+205	beefy maki
+206	slick maki
+207	White Citadel burger
+208	White Citadel fries
+209	White chocolate chip brownies
+210	White chocolate chip cookies
+211	Wreath-shaped Crimbo cookie
+212	Ancient unspeakable fruitcake
+213	Angel-food cake
+214	Asparagus lo mein
+215	Ballroom blintz
+216	Banana cream pie
+217	Banana-frosted king cake
+218	Bash-&#332;s cereal
+219	Bat wing stir-fry
+220	Bean burrito
+221	Beer basted brat
+222	Better Than Cuddling Cake
+223	Birthday party jellybean cheesecake
+224	Black forest cake
+225	Black forest ham
+226	Black pudding
+227	Blue velvet cake
+228	Blueberry-frosted king cake
+229	Boring spaghetti
+230	Bowl of Bounty-Os
+231	Bowl of oriole's nest soup
+232	Brimstone Chicken Sandwich
+233	Can of franks 'n' beans
+234	Can-shaped gelatinous cranberry sauce
+235	Candied yams
+236	Candy Cane Surprise
+237	Carob chunk noodles
+238	Caviar Carbonara
+239	Cherry pie
+240	Chocolate-frosted king cake
+241	Chorizo brownies
+242	C.H.U.M. chum
+243	pawn cookie
+244	Congratulatory cake
+245	Crimbo pie
+246	Cursed sea biscuit
+247	Delicious noodles
+248	Delicious salad
+249	Delicious spicy noodles
+250	Devil's-food cake
+251	Double Bacon Beelzeburger
+252	Dwarf bread
+253	Elfin shortbread
+254	spaghetti con calaveras
+255	enchanted bean burrito
+256	Evil boring spaghetti
+257	Evil delicious noodles
+258	Evil delicious spicy noodles
+259	Evil painful penne pasta
+260	Evil ravioli della hippy
+261	Evil spicy noodles
+262	Expired can of franks 'n' beans
+263	Fishy fish casserole
+264	Fishy fish lasagna
+265	Flaming mushroom
+266	Flower petal pie
+267	Fricasseed brains
+268	Frozen mushroom
+269	Fruitcake
+270	Ghuol egg quiche
+271	Ghuol guolash
+272	Gingerbread massacre
+273	Gnat lasagna
+274	Gnatloaf casserole
+275	Goat cheese pizza
+276	Gumdrop chow mein
+277	Happy Birthday, Claude! cake
+278	Insanely spicy bean burrito
+279	Insanely spicy enchanted bean burrito
+280	Insanely spicy jumping bean burrito
+281	Jumping bean burrito
+282	Knob sausage stir-fry
+283	Knuckle sandwich
+284	Lemon meringue pie
+285	Long pork casserole
+286	Long pork lasagna
+287	Lord of the Flies-sized fries
+288	Mole mol&eacute;
+289	Mushroom pizza
+290	Nanite-infested fruitcake
+291	Nutty organic salad
+292	Olive lo mein
+293	Painful penne pasta
+294	Peach pie
+295	Pear tart
+296	Peche a la Frog
+297	Personalized birthday cake
+298	Purple pixel pie
+299	Questionable taco
+300	Rat appendix stir-fry
+301	Ravioli della hippy
+302	Retenez L'Herbe Pat&eacute;
+303	Sausage pizza
+304	Sausage wonton
+305	Soylent Red and Green
+306	Spicy bean burrito
+307	Spicy enchanted bean burrito
+308	Spicy jumping bean burrito
+309	Spicy mushroom quesadilla
+310	Spicy noodles
+311	Stale baguette
+312	Stinky mushroom
+313	Strawberry pie
+314	Stuffed spooky mushroom
+315	Super ka-bob
+316	super salad
+317	Tin rations
+318	Tofu casserole
+319	Tofu chow mein
+320	Tofu wonton
+321	Tofurkey leg
+322	Tofurkey nugget
+323	Tube of cranberry Go-Goo
+324	Twigs and gravel
+325	Unfortunate dumplings
+326	Valentine's Day cake
+327	Vanilla-frosted king cake
+328	White chocolate and tomato pizza
+329	yam candy
+330	3vi1 pr0n m4nic0tti
+331	Ancient frozen dinner
+332	As Jus Gezund Heit
+333	Boris's key lime pie
+334	Candy cane pizza
+335	Cool mushroom casserole
+336	Digital key lime pie
+337	Disc-Shaped Nutrition Unit
+338	Fancy beef jerky
+339	Grimdrop Chow Mein
+340	Grue egg omelette
+341	Halibut Alfredo
+342	Hell broth
+343	Herbal stuffing
+344	It Came From Beyond Dessert
+345	Jarlsberg's key lime pie
+346	Knob lo mein
+347	Knoll lo mein
+348	Lihc eye pie
+349	Pr0n chow mein
+350	Pr0n m4nic0tti
+351	Shoots and leaves
+352	Single-serving herbal stuffing
+353	Sneaky Pete's key lime pie
+354	Spectral pickle
+355	Spooky lo mein
+356	Star key lime pie
+357	S.T.L.T.
+358	Bat wing chow mein
+359	Bouillabaise Coucher Avec Moi
+360	Bowl of unidentifiable goo
+361	Brains casserole
+362	Cold hi mein
+363	Extra-greasy slider
+364	Gingerborg Hive
+365	Gingerbread stir-fry
+366	Grimgerbread House
+367	Hot hi mein
+368	Knob sausage chow mein
+369	Mind flayer corpse
+370	Rat appendix chow mein
+371	Red Herring Velvet Cake
+372	Sandwich of the gods
+373	Sleazy hi mein
+374	Spooky hi mein
+375	Steel lasagna
+376	Stinky hi mein
+377	Vampire cake
+378	Bowl of fishysoisse
+379	Fettucini Inconnu
+380	Frozen banquet
+381	Gnocchetti di Nietzsche
+382	Hell ramen
+383	Spaghetti with Skullheads
+384	Wet stew
+385	Penguin focaccia bread
+386	beefy nigiri
+387	squirmy violent party snack
+388	raisin
+389	king cookie
+390	rook cookie
+391	bishop cookie
+392	glistening nigiri
+393	slick nigiri
+394	yellow matter custard
+395	sun-dried tofu
+396	poisonous caviar
+397	liver and let pie
+398	stomach turnover
+399	piping organ pie
+400	dead lights pie
+401	throbbing organ pie
+402	igloo pie
+403	shoo-fish pie
+404	badass pie
+405	pumpkin pie
+406	lemon popsicle
+407	orange popsicle
+408	strawberry popsicle
+409	liver popsicle
+410	bone meal
+411	CRIMBCOLOAF
+412	circular CRIMBCOOKIE
+413	triangular CRIMBCOOKIE
+414	square CRIMBCOOKIE
+415	toe jam toast
+416	traffic jam toast
+417	space jam toast
+418	festive sausage
+419	holiday cheese log
+420	giant marshmallow
+421	s'more
+422	sponge cake
+423	Knob jelly donut
+424	knob nuts
+425	wasabi pocky
+426	tobiko pocky
+427	natto pocky
+428	CRIMBCO Deluxe Reconstituted Gruel with Simulated Raisins
+429	CRIMBCO Reconstituted Gruel
+430	CRIMBCOIDS mints
+431	New and Improved CRIMBCO Reconstituted Gruel
+432	Overcookie
+433	philosopher's scone
+434	wild honey pie
+435	astral hot dog
+436	chaos popcorn
+437	popcorn
+438	Children's Meal of the Damned
+439	Spaghetti with Moonballs
+440	Crepes a la Lune
+441	Moon Pie
+442	elven hardtack
+443	blunt cat claw
+444	cheezburger
+445	cool cat claw
+446	cool jelly donut
+447	forbidden danish
+448	frozen danish
+449	occult jelly donut
+450	shadowy cat claw
+451	shrapnel jelly donut
+452	smashed danish
+453	thyme jelly donut
+454	toasted brie
+456	ultrafondue
+457	Ur-Donut
+458	phish stick
+459	ridiculous sandwich
+460	fudge bunny
+461	giant red gummi bear
+462	giant green gummi bear
+463	giant yellow gummi bear
+464	red drunki-bear
+465	green drunki-bear
+466	berries of suffering
+467	green hamhock
+468	Brussels Sprout Stir-Fry
+469	Carrot, Cabbage, and Kale Pizza 
+470	Turnip and Rutabaga Pie
+471	fudgesicle
+472	peppermint patty
+473	yellow drunki-bear
+474	corned-beef Reuben
+475	PB&BP
+476	club sandwich
+477	nailswurst
+478	Fettucini &eacute;pines Inconnu
+479	gunpowder burrito
+480	P.B.L.T.
+481	glowing fungus
+482	jerky coins
+483	forbidden sausage
+484	fiery wing
+485	bag of GORP
+486	bag of GORF
+487	bag of QWOP
+488	angst burger
+489	FDKOL hotcakes
+490	good brain
+491	decent brain
+492	crappy brain
+493	hunter brain
+494	boss brain

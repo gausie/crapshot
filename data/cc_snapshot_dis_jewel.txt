@@ -1,0 +1,47 @@
+1	Choker of the Ultragoth	none	none	none	none	none	none
+2	Earring of Fire	none	none	none	none	none	none
+3	groovy prism necklace	none	none	none	none	none	none
+4	Ice-Cold Aluminum Necklace	none	none	none	none	none	none
+5	Ice-Cold Beer Ring	none	none	none	none	none	none
+6	Ice-Cold Beerring	none	none	none	none	none	none
+7	Mudflap-Girl Earring	none	none	none	none	none	none
+8	Mudflap-Girl Necklace	none	none	none	none	none	none
+9	Mudflap-Girl Ring	none	none	none	none	none	none
+10	Nose Ring of Putrescence	none	none	none	none	none	none
+11	Pendant of Fire	none	none	none	none	none	none
+12	Putrid Pendant	none	none	none	none	none	none
+13	Ring of Fire	none	none	none	none	none	none
+14	Ring of the Sewer Snake	none	none	none	none	none	none
+15	The Ring	none	none	none	none	none	none
+16	Unspeakable Earring	none	none	none	none	none	none
+17	filigreed hamethyst earring	none	none	none	none	none	none
+18	filigreed hamethyst necklace	none	none	none	none	none	none
+19	filigreed hamethyst ring	none	none	none	none	none	none
+20	pulled porquoise earring	none	none	none	none	none	none
+21	pulled porquoise pendant	none	none	none	none	none	none
+22	pulled porquoise ring	none	none	none	none	none	none
+23	solid baconstone earring	none	none	none	none	none	none
+24	solid baconstone necklace	none	none	none	none	none	none
+25	solid baconstone ring	none	none	none	none	none	none
+26	bezoar ring	none	none	none	none	none	none
+27	floaty rock necklace	none	none	none	none	none	none
+28	shark tooth necklace	none	none	none	none	none	none
+29	torquoise ring	none	none	none	none	none	none
+30	baconstone earring	none	none	none	none	none	none
+31	baconstone pendant	none	none	none	none	none	none
+32	baconstone ring	none	none	none	none	none	none
+33	hamethyst earring	none	none	none	none	none	none
+34	hamethyst necklace	none	none	none	none	none	none
+35	hamethyst ring	none	none	none	none	none	none
+36	porquoise eyebrow ring	none	none	none	none	none	none
+37	porquoise necklace	none	none	none	none	none	none
+38	porquoise ring	none	none	none	none	none	none
+39	vampire pearl earring	none	none	none	none	none	none
+40	vampire pearl necklace	none	none	none	none	none	none
+41	vampire pearl ring	none	none	none	none	none	none
+42	giant diamond ring	none	none	none	none	none	none	none
+43	bananarama bangle	none	none	none	none	none	none	none
+44	pair of pearidot earrings	none	none	none	none	none	none	none
+45	tourmalime tourniquet	none	none	none	none	none	none	none
+46	kumquartz ring	none	none	none	none	none	none	none
+47	strawberyl necklace	none	none	none	none	none	none	none
