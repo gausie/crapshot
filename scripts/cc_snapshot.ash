@@ -259,50 +259,56 @@ void isInSkill(string name, string html, string overwrite)
 
 void tattooCheck(string outfit, string gif, string i1, string i2, string i3, string i4, string i5, string i6)
 {
-	hasallitems = false;
 	if (last_index_of(html, "/"+gif+".gif") > 0)
 	{
 		ret = ret + "|1";
-	} else {
-		debug(outfit+"---"+gif+"---"+i1+"("+i_a(i1)+")"+i2+"("+i_a(i2)+")"+i3+"("+i_a(i3)+")"+i4+"("+i_a(i4)+")"+i5+"("+i_a(i5)+")");
-		if (i6 != "none")
+	}
+	else
+	{
+		hasallitems = (i_a(i1) > 0);
+		if((i6 != "none") && (i6 != ""))
 		{
-			if (i_a(i1) > 0 && i_a(i2) > 0 && i_a(i3) > 0 && i_a(i4) > 0 && i_a(i5) > 0 && i_a(i6) > 0) { hasallitems = true; }
+			hasallitems = hasallitems && (i_a(i6) > 0);
 		}
-		else if (i5 != "none")
+		if((i5 != "none") && (i5 != ""))
 		{
-			if (i_a(i1) > 0 && i_a(i2) > 0 && i_a(i3) > 0 && i_a(i4) > 0 && i_a(i5) > 0) { hasallitems = true; }
-		} else if (i4 != "none") {
-			if (i_a(i1) > 0 && i_a(i2) > 0 && i_a(i3) > 0 && i_a(i4) > 0) { hasallitems = true; }
-		} else if (i3 != "none") {
-			if (i_a(i1) > 0 && i_a(i2) > 0 && i_a(i3) > 0) { hasallitems = true; }
-		} else {
-			if (i_a(i1) > 0 && i_a(i2) > 0) { hasallitems = true; }
+			hasallitems = hasallitems && (i_a(i5) > 0);
 		}
+		if((i4 != "none") && (i4 != ""))
+		{
+			hasallitems = hasallitems && (i_a(i4) > 0);
+		}
+		if((i3 != "none") && (i3 != ""))
+		{
+			hasallitems = hasallitems && (i_a(i3) > 0);
+		}
+		if((i2 != "none") && (i2 != ""))
+		{
+			hasallitems = hasallitems && (i_a(i2) > 0);
+		}
+		debug(outfit+"---"+gif+"---have(" + hasallitems + ")"+i1+"("+i_a(i1)+")"+i2+"("+i_a(i2)+")"+i3+"("+i_a(i3)+")"+i4+"("+i_a(i4)+")"+i5+"("+i_a(i5)+")");
 
-		if (hasallitems)
+		if(hasallitems)
 		{
 			ret = ret + "|2";
-		} else {
+		}
+		else
+		{
 			ret = ret + "|";
 		}
 	}
 
 	//This is a terrible way of doing this, but the hobo tattoo goes after the salad one.
 	//We are not doing this, make it the first tattoo....
-	if (gif == "saladtat")
+	if(gif == "saladtat")
 	{
-		if (index_of(html, "hobotat19") != -1)
+		ret = ret + "|";
+		for i from 19 to 1
 		{
-			ret = ret + "|19";
-		} else {
-			for i from 18 to 1
+			if(index_of(html, "hobotat"+i) != -1 && !hashobotattoo)
 			{
-				if (index_of(html, "hobotat"+i) != -1 && !hashobotattoo)
-				{
-					ret = ret + "|" + i;
-					hashobotattoo = true;
-				}
+				ret = ret + i;
+				hashobotattoo = true;
 			}
 		}
 	}
@@ -645,8 +651,8 @@ void main() {
 	if(index_of(html, "success") > 0) {
 		print("Successfully done. Visit the following URL to see your snapshot!", "green");
 		print("http://cheesellc.com/kol/profile.php?u="+my_name(), "red");
-		print("Setup your snapshot profile here:", "green");
-		print("http://cheesellc.com/kol/profile.setup.php?u="+my_name(), "red");
+#		print("Setup your snapshot profile here:", "green");
+#		print("http://cheesellc.com/kol/profile.setup.php?u="+my_name(), "red");
 	} else if (index_of(html, "fail") > 0) {
 		print("The script is reporting that it failed to update.", "red");
 		print("It's possible that this error is occuring because you need to update your script version.", "red");
@@ -656,7 +662,7 @@ void main() {
 		print("Visit the following URL to check your snapshot.", "orange");
 		print("http://cheesellc.com/kol/profile.php?u="+my_name(), "red");
 		print("If it didn't work - try again later - my website may just be having some temporary downtime problems.", "orange");
-		print("If it worked, you can setup your snapshot profile here:", "orange");
+#		print("If it worked, you can setup your snapshot profile here:", "orange");
 #		print("http://cheesellc.com/kol/profile.setup.php?u="+my_name(), "red");
 	}
 	print("");
