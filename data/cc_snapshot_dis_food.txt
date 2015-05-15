@@ -227,4 +227,36 @@
 243	spaghetti con calaveras	none	none	none	none	none	none	none
 244	fluid of fudge-finding	none	none	none	none	none	none	none
 245	fudgesicle	none	none	none	none	none	none	none
-246	Fettucini %C3%A9pines Inconnu	none	none	none	none	none	none	none
+246	fettucini &eacute;pines Inconnu	none	none	none	none	none	none	none
+247	Dreadsylvanian cold pocket 	none	none	none	none	none	none	none
+248	Dreadsylvanian hot pocket 	none	none	none	none	none	none	none
+249	Dreadsylvanian sleaze pocket 	none	none	none	none	none	none	none
+250	Dreadsylvanian spooky pocket 	none	none	none	none	none	none	none
+251	Dreadsylvanian stink pocket 	none	none	none	none	none	none	none
+252	deluxe layer cake	none	none	none	none	none	none	none
+253	candy carrot cake	none	none	none	none	none	none	none
+254	carrot cake	none	none	none	none	none	none	none
+255	neutron lollipop	none	none	none	none	none	none	none
+256	ash soda	none	none	none	none	none	none	none
+257	fleetwood mac 'n' cheese	none	none	none	none	none	none	none
+258	papier-m&acirc;ch&eacute; glob	none	none	none	none	none	none	none
+259	pecan pie	none	none	none	none	none	none	none
+260	They liver popsicle	none	none	none	none	none	none	none
+261	seared dino steak	none	none	none	none	none	none	none
+262	unstable fulminate	none	none	none	none	none	none	none
+263	lotion of coldness	none	none	none	none	none	none	none
+264	lotion of hotness	none	none	none	none	none	none	none
+265	lotion of sleaziness	none	none	none	none	none	none	none
+266	lotion of spookiness	none	none	none	none	none	none	none
+267	lotion of stench	none	none	none	none	none	none	none
+268	cheesy eagle sauce	none	none	none	none	none	none	none
+269	Every Day is Like This Sundae	none	none	none	none	none	none	none
+270	Miserable Pie	none	none	none	none	none	none	none
+271	This Charming Flan	none	none	none	none	none	none	none
+272	grilled cheese sandwich	none	none	none	none	none	none	none
+273	Beefy Crunch Pastaco	none	none	none	none	none	none	none
+274	Brain Food Pastaco	none	none	none	none	none	none	none
+275	Cool Brunch Pastaco	none	none	none	none	none	none	none
+276	Energy Buzz Pastaco	none	none	none	none	none	none	none
+277	Ludovico Pastaco	none	none	none	none	none	none	none
+278	Medical Pastaco	none	none	none	none	none	none	none

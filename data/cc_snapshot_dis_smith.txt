@@ -263,3 +263,45 @@
 263	giant yellow gummi ingot	none	none	none	none	none	none	none
 264	staph of homophones	none	none	none	none	none	none	none
 265	rusty staff	none	none	none	none	none	none	none
+266	lynyrdskin cap	none	none	none	none	none	none	none
+267	lynyrdskin breeches	none	none	none	none	none	none	none
+268	lynyrdskin tunic	none	none	none	none	none	none	none
+269	elevent	none	none	none	none	none	none	none
+270	elevenderizing hammer	none	none	none	none	none	none	none
+271	elevennis shoes	none	none	none	none	none	none	none
+272	ghast iron cleaver	none	none	none	none	none	none	none
+273	ghast iron codpiece	none	none	none	none	none	none	none
+274	ghast iron Garibaldi	none	none	none	none	none	none	none
+275	ghast iron heater shield	none	none	none	none	none	none	none
+276	ghast iron ingot	none	none	none	none	none	none	none
+277	Belt of Loathing	none	none	none	none	none	none	none
+278	Goggles of Loathing	none	none	none	none	none	none	none
+279	Jeans of Loathing	none	none	none	none	none	none	none
+280	Scepter of Loathing	none	none	none	none	none	none	none
+281	Stick-Knife of Loathing	none	none	none	none	none	none	none
+282	Treads of Loathing	none	none	none	none	none	none	none
+283	Crimbonium fuel rod	none	none	none	none	none	none	none
+284	gelatinous meat mass	none	none	none	none	none	none	none
+285	sentient meat mass	none	none	none	none	none	none	none
+286	simple AI	none	none	none	none	none	none	none
+287	zombie dinosaur egg	none	none	none	none	none	none	none
+288	sea chaps	none	none	none	none	none	none	none
+289	sea cowboy hat	none	none	none	none	none	none	none
+290	sea holster	none	none	none	none	none	none	none
+291	A Light that Never Goes Out	none	none	none	none	none	none	none
+292	Frankly Mr. Shank	none	none	none	none	none	none	none
+293	Hairpiece On Fire	none	none	none	none	none	none	none
+294	Half a Purse	none	none	none	none	none	none	none
+295	Hand in Glove	none	none	none	none	none	none	none
+296	Hand that Rocks the Ladle	none	none	none	none	none	none	none
+297	Meat Tenderizer is Murder	none	none	none	none	none	none	none
+298	Ouija Board, Ouija Board	none	none	none	none	none	none	none
+299	Saucepanic	none	none	none	none	none	none	none
+300	Shakespeare's Sister's Accordion	none	none	none	none	none	none	none
+301	Sheila Take a Crossbow	none	none	none	none	none	none	none
+302	Staff of the Headmaster's Victuals	none	none	none	none	none	none	none
+303	Vicar's Tutu	none	none	none	none	none	none	none
+304	Work is a Four Letter Sword	none	none	none	none	none	none	none
+305	space beast fur hat	none	none	none	none	none	none	none
+306	space beast fur pants	none	none	none	none	none	none	none
+307	space beast fur whip	none	none	none	none	none	none	none

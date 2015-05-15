@@ -115,13 +115,13 @@
 115	g	Pete & Jackie's Dragon Tooth Emporium Catalog	packet of dragon's teeth	Bone Garden
 116	f	deactivated nanobots	Nanorhino	nanorhino
 117	t	Thinknerd's Grimoire of Geeky Gifts	Thinknerd Grimoire
-118	o	Snow Suit
+118	i	Snow Suit
 119	f	avatar of the Unconscious Collective	Unconscious Collective
 120	f	dreaming Jung man	Angry Jung Man
 121	p	GameInformPowerDailyPro subscription card	GameInformPowerDailyPro Magazine	GameInformPowerDailyPro
 122	o	Jarlsberg's pan	Jarlsberg's pan (Cosmic portal mode)	none	none	none	none
 123	t	Libram of Pulled Taffy	Libram of Pulled Taffy	none	none	none	none
-124	v	Order of the Green Thumb Order Form	floristform	none	none	none	none
+124	e	Order of the Green Thumb Order Form	forestvillage.php	friarcottage.gif
 125	f	adventurer clone egg	Mini-Adventurer	miniadv0
 126	b	Clan VIP Lounge invitation	Clan VIP Lounge key	none	none
 127	b	Folder Holder	over-the-shoulder Folder Holder
@@ -134,18 +134,18 @@
 134	f	hibernating Grimstone Golem	Grimstone Golem
 135	i	Buddy Bjorn
 136	o	Sneaky Pete's leather jacket	Sneaky Pete's leather jacket (collar popped)
-137	w	Little Geneticist DNA-Splicing Lab	Little Geneticist DNA-Splicing Lab
-138	a	airplane charter: Spring Break Beach	airport_sleaze
+137	e	Little Geneticist DNA-Splicing Lab	campground.php?action=workshed	Little Geneticist DNA-Splicing Lab
+138	e	airplane charter: Spring Break Beach	place.php?whichplace=airport	airport_sleaze
 139	f	still grill	Galloping Grill	galgrill
 140	t	The Confiscator's Grimoire	Confiscator's Grimoire
 141	i	Thor's Pliers
-142	a	airplane charter: Conspiracy Island	airport_spooky
+142	e	airplane charter: Conspiracy Island	place.php?whichplace=airport	airport_spooky
 143	f	fist turkey outline	Fist Turkey	fistturkey
 144	f	Crimbo sapling	Crimbo Shrub	crimboshrub
-145	ch	Chateau Mantegna room key
+145	e	Chateau Mantegna room key	mountains.php	whichplace=chateau
 146	f	golden monkey statuette	Golden Monkey	goldmonkey
 147	f	Professor of Spelunkology	Adventurous Spelunker	spelunker
 148	e	bottle of lovebug pheromones	account.php?tab=combat	Temporarily disable lovebugs
 149	o	Ed the Undying exhibit crate	The Crown of Ed the Undying
-150	a	airplane charter: Dinseylandfill	airport_stench
-151	w	portable Mayo Clinic	The Mayo Clinic
+150	e	airplane charter: Dinseylandfill	place.php?whichplace=airport	airport_stench
+151	e	portable Mayo Clinic	campground.php?action=workshed	The Mayo Clinic

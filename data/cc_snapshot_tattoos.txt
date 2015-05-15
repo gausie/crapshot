@@ -149,7 +149,7 @@
 150	Zombie Slayer HC	class12hc	none	none	none	none	none
 151	Pinata Provisions	rad_tat	papier-mitre	papier-mâchuridars	papier-masque
 152	Oil Rig	oiltat	oil cap	oil lamp	oil slacks
-153	Animelf Apparel	animelftat	brainwave-controlled unicorn horn	brainwave-controlled unicorn horn	Frown Exerciser
+153	Animelf Apparel	animelftat	brainwave-controlled unicorn horn	electronic dulcimer pants	Frown Exerciser
 154	Seafaring Suit	sailortat	foam commodore's hat	miniature deck cannon	foam naval trousers
 155	AoJ	class14	none	none	none	none	none
 156	AoJ HC	class14hc	none	none	none	none	none

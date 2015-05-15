@@ -1,2 +1,6 @@
-zombiePoints
 borisPoints
+edPoints
+heavyRainsPoints
+jarlsbergPoints
+sneakyPetePoints
+zombiePoints

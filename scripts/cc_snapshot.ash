@@ -23,86 +23,93 @@ notify cheesecookie;
 		string f;
 	};
 
-	boolean description = true, hasallitems = false, hashobotattoo = false;
-	int a, d, itemAmount, s, s_si, s_sh, s_sy;
+	int s_si, s_sh, s_sy;
 	ItemImage [int] ascrewards, booze, concocktail, confood, conjewel, conmeat, conmisc, consmith, coolitems, familiars, food, hobopolis, rogueprogram, manuel, mritems, skills, slimetube, tattoos, trophies, warmedals;
 	string html, htmlkoldb, htmlscope, ret;
 
-int i_a(string name) {
+int i_a(string name)
+{
 	item i = to_item(name);
-	a = item_amount(i) + closet_amount(i) + equipped_amount(i) + storage_amount(i);
-	d = display_amount(i);
-	s = shop_amount(i);
+	int amt = item_amount(i) + closet_amount(i) + equipped_amount(i) + storage_amount(i);
+	amt = amt + display_amount(i) + shop_amount(i);
 
 	//Make a check for familiar equipment NOT equipped on the current familiar.
 	foreach fam in $familiars[]
 	{
-		if (have_familiar(fam) && fam != my_familiar())
+		if(have_familiar(fam) && fam != my_familiar())
 		{
-			if (name == to_string(familiar_equipped_equipment(fam)) && name != "none")
+			if(name == to_string(familiar_equipped_equipment(fam)) && name != "none")
 			{
-				a = a + 1;
+				amt = amt + 1;
 			}
 		}
 	}
 
 	//Thanks, Bale!
-	if (get_campground() contains i) a += 1;
+	if(get_campground() contains i) amt += 1;
 
-	return a + d + s;
+	return amt;
 }
 
 
-boolean load_current_map(string fname, ItemImage[int] map) {
+boolean load_current_map(string fname, ItemImage[int] map)
+{
 	file_to_map(fname+".txt", map);
-
 	return true;
 }
 
 void hasConsumed(string name, string html)
 {
-	if (index_of(to_lower_case(html), ">"+to_lower_case(name)+"</a>") > 0)
+	if(index_of(to_lower_case(html), ">"+to_lower_case(name)+"</a>") > 0)
 	{
 		ret = ret + "|1";
-	} else {
+	}
+	else
+	{
 		ret = ret + "|";
 	}
 }
 
 void hasItem(string name)
 {
-	if (i_a(name) > 0)
+	if(i_a(name) > 0)
 	{
 		ret = ret + "|1";
-	} else {
+	}
+	else
+	{
 		ret = ret + "|";
 	}
 }
 
 void hasItem(string name, string amount)
 {
-	if (i_a(name) > 0)
+	if(i_a(name) > 0)
 	{
-		ret = ret + "|"+i_a(name);
-	} else {
+		ret = ret + "|"+ i_a(name);
+	}
+	else
+	{
 		ret = ret + "|";
 	}
 }
 
 void isIn(string name, string html)
 {
-	if (length(name) > 7)
+	if(length(name) > 7)
 	{
-		if (index_of(name, "_thumb") >= length(name) - 7)
+		if(index_of(name, "_thumb") >= length(name) - 7)
 		{
 			name = substring(name, 0, length(name) - 7);
 		}
 	}
 
-	if (index_of(html, name) != -1)
+	if(index_of(html, name) != -1)
 	{
 		ret = ret + "|1";
-	} else {
+	}
+	else
+	{
 		ret = ret + "|";
 	}
 }
@@ -116,11 +123,13 @@ void regCheck(string checkthis, string html)
 	checkthis = replace_string(checkthis, "<font size=1>", "<font size=1>(?:<font size=2>\\[<a href=\"craft.php\\?mode=\\w+&a=\\d+&b=\\d+\">\\w+</a>\\]</font>)?");
 
 	matcher reg = create_matcher(checkthis, html);
-	if (reg.find())
+	if(reg.find())
 	{
 		ret = ret + "|1";
 		debug("YES --- " + checkthis);
-	} else {
+	}
+	else
+	{
 		ret = ret + "|";
 		debug("NO --- " + checkthis);
 	}
@@ -128,14 +137,18 @@ void regCheck(string checkthis, string html)
 
 void isInDisco(string name, string html, string a)
 {
-	if (a != "none")
+	if(a != "none")
 	{
 		regCheck(a, html);
-	} else {
-		if (index_of(html, ">"+name+"<") != -1)
+	}
+	else
+	{
+		if(index_of(html, ">"+name+"<") != -1)
 		{
 			ret = ret + "|1";
-		} else {
+		}
+		else
+		{
 			ret = ret + "|";
 		}
 	}
@@ -150,72 +163,76 @@ int manuelTimes(string monsterName, string questmanpage, string firstFact, boole
 	int rcount=0;
 
 	//Manually override monsterName in some circumstances
-	if (contains_text(monsterName, "fabricator g")) {
+	if(contains_text(monsterName, "fabricator g")) {
 		monsterName = "fabricator g";
 	}
-	if (contains_text(monsterName, "novio cad")) {
+	if(contains_text(monsterName, "novio cad")) {
 		monsterName = "novio cad";
 	}
-	if (contains_text(monsterName, "padre cad")) {
+	if(contains_text(monsterName, "padre cad")) {
 		monsterName = "padre cad";
 	}
-	if (contains_text(monsterName, "novia cad")) {
+	if(contains_text(monsterName, "novia cad")) {
 		monsterName = "novia cad";
 	}
-	if (contains_text(monsterName, "persona inoce")) {
+	if(contains_text(monsterName, "persona inoce")) {
 		monsterName = "persona inoce";
 	}
 
 	string searchForThis = "";
 	//If we specify a first fact then we should search for the monster name AND fact, else just the monster name.
-	if (firstFact != "") {
+	if(firstFact != "") {
 		searchForThis = montag+monsterName+"</font></b><ul><li>"+firstFact;
 	} else {
 		searchForThis = montag+monsterName;
 	}
 
-		if (contains_text(questmanpage, searchForThis))
+		if(contains_text(questmanpage, searchForThis))
 		{
 			istart = index_of(questmanpage,searchForThis,iend);
 			iend = index_of(questmanpage,montag,istart+2);
-			if (istart == -1) { istart = 1; }
-			if (iend == -1) { iend = length(questmanpage); }
+			if(istart == -1) { istart = 1; }
+			if(iend == -1) { iend = length(questmanpage); }
 			ssub = substring(questmanpage,istart,iend);
 			matcher ii = create_matcher("(<li>)",ssub);
 			rcount=0;
-			while (find(ii)) { rcount += 1; }
+			while(find(ii)) { rcount += 1; }
 		}
 
-		if (forceReturn) return rcount;
+		if(forceReturn) return rcount;
 
-		if (rcount == 0) {
+		if(rcount == 0) {
 			//print("trying lowercase");
 			return manuelTimes(to_lower_case(monsterName), questmanpage, firstFact, true);
 		}
 	return rcount;
 }
-int manuelTimes(string monsterName, string questmanpage, string firstFact) { return manuelTimes(monsterName, questmanpage, firstFact, false); }
+int manuelTimes(string monsterName, string questmanpage, string firstFact)
+{
+	return manuelTimes(monsterName, questmanpage, firstFact, false);
+}
 
-void isInManuel(string monstername, string html, string firstFact) {
+void isInManuel(string monstername, string html, string firstFact)
+{
 	ret = ret + "|" + manuelTimes(monstername, html, firstFact);
 }
 
 void famCheck(string name, string gifname, string hatchling)
 {
-	if (index_of(html, name) > 0)
+	if(index_of(html, name) > 0)
 	{
-		if (index_of(htmlkoldb, "alt=\""+name+" (100%)") > 0)
+		if(index_of(htmlkoldb, "alt=\""+name+" (100%)") > 0)
 		{
 			//100% Run
 			ret = ret + "|3";
-		} else if (index_of(htmlkoldb, "alt=\""+name+" (9") > 0) {
+		} else if(index_of(htmlkoldb, "alt=\""+name+" (9") > 0) {
 			//90% Tourguide Run
 			ret = ret + "|4";
 		} else {
 			//Have Familiar
 			ret = ret + "|1";
 		}
-	} else if (i_a(hatchling) > 0) {
+	} else if(i_a(hatchling) > 0) {
 		//Have Hatchling
 		ret = ret + "|2";
 	} else {
@@ -226,28 +243,28 @@ void famCheck(string name, string gifname, string hatchling)
 
 void isInSkill(string name, string html, string overwrite)
 {
-	if (overwrite == "none") { overwrite = ""; }
-	if (index_of(html, ">"+name+"</a> (<b>HP</b>)") != -1)
+	if(overwrite == "none") { overwrite = ""; }
+	if(index_of(html, ">"+name+"</a> (<b>HP</b>)") != -1)
 	{
-		if (name == "Slimy Shoulders")
+		if(name == "Slimy Shoulders")
 		{
 			ret = ret + "|1-" + s_sh;
-		} else if (name == "Slimy Sinews") {
+		} else if(name == "Slimy Sinews") {
 			ret = ret + "|1-" + s_si;
-		} else if (name == "Slimy Synapses") {
+		} else if(name == "Slimy Synapses") {
 			ret = ret + "|1-" + s_sy;
 		} else {
 			ret = ret + "|1";
 		}
-	} else if (length(overwrite) > 0 && index_of(html, overwrite) > 0) {
+	} else if(length(overwrite) > 0 && index_of(html, overwrite) > 0) {
 		ret = ret + "|1";
-	} else if (index_of(html, ">"+name+"</a> (P)") != -1) {
-		if (name == "Slimy Shoulders")
+	} else if(index_of(html, ">"+name+"</a> (P)") != -1) {
+		if(name == "Slimy Shoulders")
 		{
 			ret = ret + "|2-" + s_sh;
-		} else if (name == "Slimy Sinews") {
+		} else if(name == "Slimy Sinews") {
 			ret = ret + "|2-" + s_si;
-		} else if (name == "Slimy Synapses") {
+		} else if(name == "Slimy Synapses") {
 			ret = ret + "|2-" + s_sy;
 		} else {
 			ret = ret + "|2";
@@ -259,13 +276,13 @@ void isInSkill(string name, string html, string overwrite)
 
 void tattooCheck(string outfit, string gif, string i1, string i2, string i3, string i4, string i5, string i6)
 {
-	if (last_index_of(html, "/"+gif+".gif") > 0)
+	if(last_index_of(html, "/"+gif+".gif") > 0)
 	{
 		ret = ret + "|1";
 	}
 	else
 	{
-		hasallitems = (i_a(i1) > 0);
+		boolean hasallitems = (i_a(i1) > 0);
 		if((i6 != "none") && (i6 != ""))
 		{
 			hasallitems = hasallitems && (i_a(i6) > 0);
@@ -288,13 +305,10 @@ void tattooCheck(string outfit, string gif, string i1, string i2, string i3, str
 		}
 		debug(outfit+"---"+gif+"---have(" + hasallitems + ")"+i1+"("+i_a(i1)+")"+i2+"("+i_a(i2)+")"+i3+"("+i_a(i3)+")"+i4+"("+i_a(i4)+")"+i5+"("+i_a(i5)+")");
 
+		ret = ret + "|";
 		if(hasallitems)
 		{
-			ret = ret + "|2";
-		}
-		else
-		{
-			ret = ret + "|";
+			ret = ret + "2";
 		}
 	}
 
@@ -305,27 +319,30 @@ void tattooCheck(string outfit, string gif, string i1, string i2, string i3, str
 		ret = ret + "|";
 		for i from 19 to 1
 		{
-			if(index_of(html, "hobotat"+i) != -1 && !hashobotattoo)
+			if(index_of(html, "hobotat"+i) != -1)
 			{
 				ret = ret + i;
-				hashobotattoo = true;
+				break;
 			}
 		}
 	}
 }
 
-string visit_discoveries(string url) {
-    matcher reg = create_matcher("<font size=2>.*?</font>", visit_url(url));
-    return replace_all(reg, "");
+string visit_discoveries(string url)
+{
+	matcher reg = create_matcher("<font size=2>.*?</font>", visit_url(url));
+	return replace_all(reg, "");
 }
 
-void main() {
-#	string bannedpaths = visit_url("http://kolmafia.co.uk/snapshot_bannedpaths.txt");
-#	if (contains_text(bannedpaths, my_path()) && my_path() != "") {
-#		if (!user_confirm("This script should not be run while you are in the path you are in. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it outside of the current path restrictions. Are you sure you want to run it (not recommended)?")) {
-#			abort("OK");
-#		}
-#	}
+void main()
+{
+	if(!get_property("kingLiberated").to_boolean())
+	{
+		if(!user_confirm("This script should not be run while you are in-run. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it in aftercore. Are you sure you want to run it (not recommended)?"))
+		{
+			abort("User aborted. Beep");
+		}
+	}
 	print("This is snapshot maker! This script takes a snapshot of your character and uploads it to my server at cheesellc.com", "green");
 
 	//Check the slime skills.	(sinews, synapses, shoulders)
@@ -359,29 +376,43 @@ void main() {
 	print("Checking skills...", "olive");
 	ret = "&skills=";
 	html = visit_url("charsheet.php") + visit_url("campground.php?action=bookshelf");
-	foreach x in skills { isInSkill(skills[x].itemname, html, skills[x].a); }
+	foreach x in skills
+	{
+		isInSkill(skills[x].itemname, html, skills[x].a);
+	}
+
 	print("Checking tattoos...", "olive");
 	html = visit_url("account_tattoos.php");
 	ret = ret + "&tattoos=";
-	foreach x in tattoos { tattooCheck(tattoos[x].itemname, tattoos[x].gifname, , tattoos[x].a, tattoos[x].b, tattoos[x].c, tattoos[x].d, tattoos[x].e, tattoos[x].f); }
+	foreach x in tattoos
+	{
+		tattooCheck(tattoos[x].itemname, tattoos[x].gifname, , tattoos[x].a, tattoos[x].b, tattoos[x].c, tattoos[x].d, tattoos[x].e, tattoos[x].f);
+	}
 
 	print("Checking trophies...", "olive");
 	html = visit_url("trophies.php");
 	ret = ret + "&trophies=";
-	foreach x in trophies { isIn(trophies[x].itemname, html); }
+	foreach x in trophies
+	{
+		isIn(trophies[x].itemname, html);
+	}
 
 	print("Checking familiars...", "olive");
 	html = visit_url("familiarnames.php");
-	//htmlkoldb = visit_url("ascensionhistory.php?back=self&who="+my_id(), false);
+	#htmlkoldb = visit_url("ascensionhistory.php?back=self&who="+my_id(), false);
 	htmlkoldb = visit_url(" ascensionhistory.php?back=self&who=" +my_id(), false) + visit_url(" ascensionhistory.php?back=self&prens13=1&who=" +my_id(), false);
 	ret = ret + "&familiars=";
-	foreach x in familiars { famCheck(familiars[x].itemname, familiars[x].gifname, familiars[x].a); }
+	foreach x in familiars
+	{
+		famCheck(familiars[x].itemname, familiars[x].gifname, familiars[x].a);
+	}
 
 	print("Checking hobopolis loot and hobo codes...", "olive");
 	html = visit_url("questlog.php?which=5");
 	ret = ret + "&hobopolis=";
-	foreach x in hobopolis {
-		if (x >= 44 && x <= 63) {
+	foreach x in hobopolis
+	{
+		if(x >= 44 && x <= 63) {
 			isIn(hobopolis[x].itemname, html);
 		} else {
 			hasItem(hobopolis[x].itemname);
@@ -390,114 +421,138 @@ void main() {
 
 	print("Checking Slime Tube loot...", "olive");
 	ret = ret + "&slimetube=";
-	foreach x in slimetube { hasItem(slimetube[x].itemname); }
+	foreach x in slimetube
+	{
+		hasItem(slimetube[x].itemname);
+	}
 
 	print("Checking War Medals...", "olive");
 	ret = ret + "&warmedals=";
-	foreach x in warmedals {
-		hasItem(warmedals[x].itemname, "amount"); }
-	if (in_bad_moon()) {
-		ret = ret + "&scope=9";
-	} else {
-		print("Checking for Telescope", "olive");
-		ret = ret + "&scope=";
-		htmlscope = visit_url("campground.php?action=telescopelow");
-		if (index_of(htmlscope, "You point your telescope toward") != -1 ) {
-			htmlscope = substring(htmlscope, index_of(htmlscope, "You point your telescope toward"));
-			htmlscope = substring(htmlscope, 0, index_of(htmlscope, "</td>"));
-			if (index_of(htmlscope, "sixth and final window") > 0)
-			{
-				ret = ret + "7";
-			} else if (index_of(htmlscope, "You focus the telescope on the back") > 0) {
-				ret = ret + "6";
-			} else if (index_of(htmlscope, "Beyond the maze's entrance") > 0) {
-				ret = ret + "5";
-			} else if (index_of(htmlscope, "You sweep the telescope up") > 0) {
-				ret = ret + "4";
-			} else if (index_of(htmlscope, "You scan to the right a bit") > 0) {
-				ret = ret + "3";
-			} else if (index_of(htmlscope, "You adjust the focus") > 0) {
-				ret = ret + "2";
-			} else if (index_of(htmlscope, "You see a group of people") > 0) {
-				ret = ret + "1";
-			}
+	foreach x in warmedals
+	{
+		hasItem(warmedals[x].itemname, "amount");
+	}
+
+	print("Checking for Telescope", "olive");
+	ret = ret + "&scope=";
+	htmlscope = visit_url("campground.php?action=telescopelow");
+	if(index_of(htmlscope, "You point your telescope toward") != -1 ) {
+		htmlscope = substring(htmlscope, index_of(htmlscope, "You point your telescope toward"));
+		htmlscope = substring(htmlscope, 0, index_of(htmlscope, "</td>"));
+		if(index_of(htmlscope, "sixth and final window") > 0)
+		{
+			ret = ret + "7";
+		} else if(index_of(htmlscope, "You focus the telescope on the back") > 0) {
+			ret = ret + "6";
+		} else if(index_of(htmlscope, "Beyond the maze's entrance") > 0) {
+			ret = ret + "5";
+		} else if(index_of(htmlscope, "You sweep the telescope up") > 0) {
+			ret = ret + "4";
+		} else if(index_of(htmlscope, "You scan to the right a bit") > 0) {
+			ret = ret + "3";
+		} else if(index_of(htmlscope, "You adjust the focus") > 0) {
+			ret = ret + "2";
+		} else if(index_of(htmlscope, "You see a group of people") > 0) {
+			ret = ret + "1";
 		}
 	}
 
 	print("Checking for Ascension Rewards", "olive");
 	ret = ret + "&ascreward=";
-	foreach x in ascrewards { hasItem(ascrewards[x].itemname, "amount"); }
+	foreach x in ascrewards
+	{
+		hasItem(ascrewards[x].itemname, "amount");
+	}
 
 	print("Checking for Discoveries [Cocktail]", "olive");
 	html = visit_discoveries("craft.php?mode=discoveries&what=cocktail");
 	ret = ret + "&concocktail=";
-	foreach x in concocktail { isInDisco(concocktail[x].itemname, html, concocktail[x].gifname); }
+	foreach x in concocktail
+	{
+		isInDisco(concocktail[x].itemname, html, concocktail[x].gifname);
+	}
 
 	print("Checking for Discoveries [Food]", "olive");
 	html = visit_discoveries("craft.php?mode=discoveries&what=cook");
 	ret = ret + "&confood=";
-	foreach x in confood { isInDisco(confood[x].itemname, html, confood[x].gifname); }
+	foreach x in confood
+	{
+		isInDisco(confood[x].itemname, html, confood[x].gifname);
+	}
 
 	print("Checking for Discoveries [Jewelery]", "olive");
 	html = visit_url("craft.php?mode=discoveries&what=jewelry");
 	ret = ret + "&conjewel=";
-	foreach x in conjewel { isInDisco(conjewel[x].itemname, html, conjewel[x].gifname); }
+	foreach x in conjewel
+	{
+		isInDisco(conjewel[x].itemname, html, conjewel[x].gifname);
+	}
 
 	print("Checking for Discoveries [Meat Pasting]", "olive");
 	html = visit_discoveries("craft.php?mode=discoveries&what=combine");
 	ret = ret + "&conmeat=";
-	foreach x in conmeat { isInDisco(conmeat[x].itemname, html, conmeat[x].gifname); }
+	foreach x in conmeat
+	{
+		isInDisco(conmeat[x].itemname, html, conmeat[x].gifname);
+	}
 
 	print("Checking for Discoveries [Meatsmithing]", "olive");
 	html = visit_discoveries("craft.php?mode=discoveries&what=smith");
 	ret = ret + "&consmith=";
-	foreach x in consmith { isInDisco(consmith[x].itemname, html, consmith[x].gifname); }
+	foreach x in consmith
+	{
+		isInDisco(consmith[x].itemname, html, consmith[x].gifname);
+	}
 
 	print("Checking for Discoveries [Misc]", "olive");
 	html = visit_url("craft.php?mode=discoveries&what=multi");
 	ret = ret + "&conmisc=";
-	foreach x in conmisc { isInDisco(conmisc[x].itemname, html, conmisc[x].gifname); }
+	foreach x in conmisc
+	{
+		isInDisco(conmisc[x].itemname, html, conmisc[x].gifname);
+	}
 
 	print("Checking for Mr. Items", "olive");
 	html = visit_url("familiarnames.php") + visit_url("campground.php?action=bookshelf");
 	ret = ret + "&mritems=";
-	foreach x in mritems {
-		itemAmount = 0;
-		switch (mritems[x].itemname) {
-			//Airports
-			case "a" :
-			  itemAmount = i_a(to_item(mritems[x].gifname));
-			  if (contains_text(visit_url("place.php?whichplace=airport"), mritems[x].a)) {
-			    itemAmount = 1;
-			  }
-			break;
+	foreach x in mritems
+	{
+		int itemAmount = 0;
+		switch(mritems[x].itemname)
+		{
+#			case "a":				//Airports
+#				itemAmount = i_a(to_item(mritems[x].gifname));
+#				if(contains_text(visit_url("place.php?whichplace=airport"), mritems[x].a))
+#				{
+#					itemAmount = 1;
+#				}
+#			break;
 
-			//Bind-on-use Items
-			case "b" :
+			case "b":				//Bind-on-use Items
 				itemAmount = i_a(to_item(mritems[x].gifname)) + i_a(to_item(mritems[x].a));
 			break;
-			//Familiar
-			case "f" :
+
+			case "f":				//Familiar
 				if (index_of(html, mritems[x].a) > 0) { itemAmount = 1; }
 				itemAmount = itemAmount + i_a(to_item(mritems[x].gifname));
 			break;
-			//Garden Stuff
-			case "g" :
+
+			case "g":				//Garden Stuff
 				if (index_of(html, mritems[x].b) > 0) { itemAmount = 1; }
 				itemAmount = itemAmount + i_a(to_item(mritems[x].gifname)) + i_a(to_item(mritems[x].a));
 			break;
-			//Item
-			case "i" :
+
+			case "i":				//Item
 				itemAmount = i_a(to_item(mritems[x].gifname));
 			break;
-			//Foldable
-			case "o" :
+
+			case "o":				//Foldable
 				itemAmount = i_a(to_item(mritems[x].gifname)) + i_a(to_item(mritems[x].a)) + i_a(to_item(mritems[x].b)) + i_a(to_item(mritems[x].c)) + i_a(to_item(mritems[x].d));
 				if (mritems[x].e != "none") { itemAmount = itemAmount + i_a(to_item(mritems[x].e)); }
 				if (mritems[x].f != "none") { itemAmount = itemAmount + i_a(to_item(mritems[x].f)); }
 			break;
-			//Correspondences (Pen Pal, Game Magazine, etc)
-			case "p" :
+
+			case "p":				//Correspondences (Pen Pal, Game Magazine, etc)
 				// initial check to see if we have any
 				if (contains_text(visit_url("messages.php"), ">[Correspondence]</a>")) {
 					// this is the most accurate but only happens if you have 1+
@@ -508,37 +563,17 @@ void main() {
 				}
 				itemAmount = itemAmount + i_a(to_item(mritems[x].gifname));
 			break;
-			// forest village
-			case "v" :
-				if (index_of(html, mritems[x].a) > 0) { itemAmount = 1; }
-				if (contains_text(visit_url("forestvillage.php"), "friarcottage.gif"))
-					itemAmount = itemAmount + 1;
-			break;
-			// chateau mantegna
-			case "ch" :
-				if (index_of(html, mritems[x].a) > 0) { itemAmount = 1; }
-				if (contains_text(visit_url("mountains.php"), "whichplace=chateau"))
-					itemAmount = itemAmount + 1;
-			break;
 
-			// effects, such as lovebugs
-			case "e":
-				if (contains_text(visit_url(mritems[x].a), mritems[x].b))
-					itemAmount = itemAmount + 1;
-			break;
-
-
-			//Workshop item
-			case "w" :
+			case "e":				// visit page, check for matching text
 				itemAmount = i_a(to_item(mritems[x].gifname));
-				if (contains_text(visit_url("campground.php?action=workshed"), mritems[x].a))
+				if(contains_text(visit_url(mritems[x].a), mritems[x].b))
+				{
 					itemAmount = itemAmount + 1;
+				}
 			break;
 
-
-			//Tome, Libram, Grimore
-			case "t" :
-				if (index_of(html, mritems[x].a) > 0) { itemAmount = 1; }
+			case "t":				//Tome, Libram, Grimore
+				if(index_of(html, mritems[x].a) > 0) { itemAmount = 1; }
 				itemAmount = itemAmount + i_a(to_item(mritems[x].gifname));
 			break;
 		}
@@ -547,38 +582,54 @@ void main() {
 
 	print("Checking for Cool Items", "olive");
 	ret = ret + "&coolitems=";
-	foreach x in coolitems { hasItem(coolitems[x].itemname, "amount"); }
+	foreach x in coolitems
+	{
+		hasItem(coolitems[x].itemname, "amount");
+	}
 
 	print("Checking for Consumed Food", "olive");
 	html = to_lower_case(visit_url("showconsumption.php"));
 	ret = ret + "&food=";
-	foreach x in food { hasConsumed(food[x].itemname, html);  }
+	foreach x in food
+	{
+		hasConsumed(food[x].itemname, html);
+	}
 
 	print("Checking for Consumed Booze", "olive");
 	ret = ret + "&booze=";
-	foreach x in booze { hasConsumed(booze[x].itemname, html); }
+	foreach x in booze
+	{
+		hasConsumed(booze[x].itemname, html);
+	}
 
 	print("Checking for Rogue Program Stuff", "olive");
-	if (visit_url("town_wrong.php").contains_text("arcade")) {
+	if(visit_url("town_wrong.php").contains_text("arcade"))
+	{
 		html = to_lower_case(visit_url("arcade.php?ticketcounter=1"));
 		ret = ret + "&arcadegames=";
-		foreach x in rogueprogram {
-			if (i_a(rogueprogram[x].itemname) > 0) {
+		foreach x in rogueprogram
+		{
+			if(i_a(rogueprogram[x].itemname) > 0)
+			{
 				ret = ret + "|1";
-			} else if (index_of(html, rogueprogram[x].itemname) > 0) {
+			}
+			else if(index_of(html, rogueprogram[x].itemname) > 0)
+			{
 				ret = ret + "|2";
-			} else {
+			}
+			else
+			{
 				ret = ret + "|";
 			}
 		}
 	}
 
 	print("Checking Demon Names", "olive");
-#	string demon = visit_url("http://kolmafia.co.uk/snapshot_demon.txt").to_string();
-#	int i = 1, numdemon = demon.to_int();
-	int i = 1, numdemon = 11;
+	string demon = visit_url("http://cheesellc.com/kol/cc_snapshot_demon.txt").to_string();
+	int i = 1, numdemon = demon.to_int();
 	ret = ret + "&demonnames=";
-	while (i <= numdemon) {
+	while(i <= numdemon)
+	{
 		ret = ret + get_property("demonName"+i) + "|";
 		print(i+get_property("demonName"+i));
 		i = i + 1;
@@ -588,72 +639,76 @@ void main() {
 	string karma = visit_url("questlog.php?which=3");
 	matcher m = create_matcher("Your current Karmic balance is ([0-9,]+)", karma);
 	string k = "";
-	while (find(m)) {
+	while(find(m))
+	{
 		k = group(m, 1);
 	}
 	print("You have "+k+" karma");
 	ret = ret + "&karma="+k;
 
-#	print("Checking Path Points", "olive");
-#	ret = ret + "&paths=";
-#	string paths = visit_url("http://kolmafia.co.uk/snapshot_paths.txt").to_string();
-#	string[int] pathsList = split_string(paths);
-#	foreach key in pathsList {
-#		ret = ret + get_property(pathsList[key])+"|";
-#	}
+	print("Checking Path Points", "olive");
+	ret = ret + "&paths=";
+	string paths = visit_url("http://cheesellc.com/kol/cc_snapshot_paths.txt").to_string();
+	string[int] pathsList = split_string(paths);
+	foreach key in pathsList
+	{
+		ret = ret + get_property(pathsList[key])+"|";
+	}
 
 /*
-	if(contains_text(visit_url("questlog.php"), "Monster Manuel")) {
+	if(contains_text(visit_url("questlog.php"), "Monster Manuel"))
+	{
 		//Prepare the big HTML file.
 		print("Starting to Check the Manuel HTML Pages...", "olive");
 		string manuelHTML;
 		manuelHTML = visit_url("questlog.php?which=6&vl=a") +
-				visit_url("questlog.php?which=6&vl=b") +
-				visit_url("questlog.php?which=6&vl=c") +
-				visit_url("questlog.php?which=6&vl=d") +
-				visit_url("questlog.php?which=6&vl=e") +
-				visit_url("questlog.php?which=6&vl=f") +
-				visit_url("questlog.php?which=6&vl=g") +
-				visit_url("questlog.php?which=6&vl=h") +
-				visit_url("questlog.php?which=6&vl=i") +
-				visit_url("questlog.php?which=6&vl=j") +
-				visit_url("questlog.php?which=6&vl=k") +
-				visit_url("questlog.php?which=6&vl=l") +
-				visit_url("questlog.php?which=6&vl=m") +
-				visit_url("questlog.php?which=6&vl=n") +
-				visit_url("questlog.php?which=6&vl=o") +
-				visit_url("questlog.php?which=6&vl=p") +
-				visit_url("questlog.php?which=6&vl=q") +
-				visit_url("questlog.php?which=6&vl=r") +
-				visit_url("questlog.php?which=6&vl=s") +
-				visit_url("questlog.php?which=6&vl=t") +
-				visit_url("questlog.php?which=6&vl=u") +
-				visit_url("questlog.php?which=6&vl=v") +
-				visit_url("questlog.php?which=6&vl=w") +
-				visit_url("questlog.php?which=6&vl=x") +
-				visit_url("questlog.php?which=6&vl=y") +
-				visit_url("questlog.php?which=6&vl=z") +
-				visit_url("questlog.php?which=6&vl=-");
+			visit_url("questlog.php?which=6&vl=b") +
+			visit_url("questlog.php?which=6&vl=c") +
+			visit_url("questlog.php?which=6&vl=d") +
+			visit_url("questlog.php?which=6&vl=e") +
+			visit_url("questlog.php?which=6&vl=f") +
+			visit_url("questlog.php?which=6&vl=g") +
+			visit_url("questlog.php?which=6&vl=h") +
+			visit_url("questlog.php?which=6&vl=i") +
+			visit_url("questlog.php?which=6&vl=j") +
+			visit_url("questlog.php?which=6&vl=k") +
+			visit_url("questlog.php?which=6&vl=l") +
+			visit_url("questlog.php?which=6&vl=m") +
+			visit_url("questlog.php?which=6&vl=n") +
+			visit_url("questlog.php?which=6&vl=o") +
+			visit_url("questlog.php?which=6&vl=p") +
+			visit_url("questlog.php?which=6&vl=q") +
+			visit_url("questlog.php?which=6&vl=r") +
+			visit_url("questlog.php?which=6&vl=s") +
+			visit_url("questlog.php?which=6&vl=t") +
+			visit_url("questlog.php?which=6&vl=u") +
+			visit_url("questlog.php?which=6&vl=v") +
+			visit_url("questlog.php?which=6&vl=w") +
+			visit_url("questlog.php?which=6&vl=x") +
+			visit_url("questlog.php?which=6&vl=y") +
+			visit_url("questlog.php?which=6&vl=z") +
+			visit_url("questlog.php?which=6&vl=-");
 
 		print("Checking Monster Manuel", "olive");
 		ret = ret + "&manuel=";
-		foreach x in manuel {
+		foreach x in manuel
+		{
 			isInManuel(manuel[x].gifname, manuelHTML, manuel[x].a);
 		}
 	}
 */
-	string infostring = "&version=2.5&mafiaversion="+get_version()+"&mafiarevision="+get_revision();
+	string infostring = "&version=2.6_20150515&mafiaversion="+get_version()+"&mafiarevision="+get_revision();
 	html = visit_url("http://cheesellc.com/kol/profile.save.php?username="+url_encode(my_name())+ret+infostring);
 
 	debug(ret);
-
+	print(html, "green");
 	print("");
 	if(index_of(html, "success") > 0) {
 		print("Successfully done. Visit the following URL to see your snapshot!", "green");
 		print("http://cheesellc.com/kol/profile.php?u="+my_name(), "red");
 #		print("Setup your snapshot profile here:", "green");
 #		print("http://cheesellc.com/kol/profile.setup.php?u="+my_name(), "red");
-	} else if (index_of(html, "fail") > 0) {
+	} else if(index_of(html, "fail") > 0) {
 		print("The script is reporting that it failed to update.", "red");
 		print("It's possible that this error is occuring because you need to update your script version.", "red");
 		print("Go to http://kolmafia.us/showthread.php?t=3001 and download the latest version if so.", "red");

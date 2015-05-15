@@ -8,7 +8,7 @@
 8	NG	none	none	none	none	none	none	none
 9	Staff of Ed (eye)	Staff of Ed</b> <font size=1><br/>Eye of Ed (0) + Staff of Ed, almost (0)	none	none	none	none	none	none
 10	Staff of Ed, almost	none	none	none	none	none	none	none
-11	Talisman o' Nam	none	none	none	none	none	none	none
+11	Talisman o' Namsilat	none	none	none	none	none	none	none
 12	WA	none	none	none	none	none	none	none
 13	Wand of Nagamar	none	none	none	none	none	none	none
 14	abridged dictionary	none	none	none	none	none	none	none
@@ -178,3 +178,32 @@
 178	trilobite candy mold	none	none	none	none	none	none	none
 179	hot daub	none	none	none	none	none	none	none
 180	wings of fire	none	none	none	none	none	none	none
+181	picture of you	none	none	none	none	none	none	none
+182	cold clusterbomb	none	none	none	none	none	none	none
+183	hot clusterbomb	none	none	none	none	none	none	none
+184	sleaze clusterbomb	none	none	none	none	none	none	none
+185	spooky clusterbomb	none	none	none	none	none	none	none
+186	stench clusterbomb	none	none	none	none	none	none	none
+187	carrot-on-a-stick	none	none	none	none	none	none	none
+188	Mark I Steam-Hat	none	none	none	none	none	none	none
+189	Mark II Steam-Hat	none	none	none	none	none	none	none
+190	Mark III Steam-Hat	none	none	none	none	none	none	none
+191	Mark IV Steam-Hat	none	none	none	none	none	none	none
+192	Mark V Steam-Hat	none	none	none	none	none	none	none
+193	government	none	none	none	none	none	none	none
+194	99.44% pure math	none	none	none	none	none	none	none
+195	corrupted bird DNA	none	none	none	none	none	none	none
+196	dove DNA	none	none	none	none	none	none	none
+197	handful of napalm	none	none	none	none	none	none	none
+198	blessed large box	none	none	none	none	none	none	none
+199	furry brown pillow	none	none	none	none	none	none	none
+200	makeshift yakuza mask	none	none	none	none	none	none	none
+201	pair of rhinoceros horns	none	none	none	none	none	none	none
+202	Flaskfull of Hollow	none	none	none	none	none	none	none
+203	Golden Light	none	none	none	none	none	none	none
+204	Handsome Devil	none	none	none	none	none	none	none
+205	Louder Than Bomb	none	none	none	none	none	none	none
+206	buffed alien drugs	none	none	none	none	none	none	none
+207	opium grenade	none	none	none	none	none	none	none
+208	goblin bone hilt	none	none	none	none	none	none	none
+209	loose blade	none	none	none	none	none	none	none

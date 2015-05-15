@@ -83,3 +83,54 @@
 83	hot daub stand	none	none	none	none	none	none	none
 84	wax hat	none	none	none	none	none	none	none
 85	wax pants	none	none	none	none	none	none	none
+86	auxiliary backbone	none	none	none	none	none	none	none
+87	Bonestabber	none	none	none	none	none	none	none
+88	crystal skeleton vodka	none	none	none	none	none	none	none
+89	Lazybones&trade; recliner	none	none	none	none	none	none	none
+90	shaking skull	none	none	none	none	none	none	none
+91	skeletal scabbard	none	none	none	none	none	none	none
+92	skeletal skiff	none	none	none	none	none	none	none
+93	skeleton quiche	none	none	none	none	none	none	none
+94	skeleton skis	none	none	none	none	none	none	none
+95	celestial au jus	none	none	none	none	none	none	none
+96	celestial carrot juice	none	none	none	none	none	none	none
+97	celestial olive oil	none	none	none	none	none	none	none
+98	celestial squid ink	none	none	none	none	none	none	none
+99	jar of oil	none	none	none	none	none	none	none
+100	oil cap	none	none	none	none	none	none	none
+101	oil lamp	none	none	none	none	none	none	none
+102	oil pan	none	none	none	none	none	none	none
+103	oil slacks	none	none	none	none	none	none	none
+104	oily boid	none	none	none	none	none	none	none
+105	papier-m&acirc;ch&eacute; base	none	none	none	none	none	none	none
+106	papier-m&acirc;ch&eacute; bowl	none	none	none	none	none	none	none
+107	papier-m&acirc;ch&eacute; handle	none	none	none	none	none	none	none
+108	papier-m&acirc;ch&eacute; plaque	none	none	none	none	none	none	none
+109	papier-m&acirc;ch&eacute; toothpicks	none	none	none	none	none	none	none
+110	papier-m&acirc;ch&eacute;te	none	none	none	none	none	none	none
+111	papier-m&acirc;chaeranthera	none	none	none	none	none	none	none
+112	papier-m&acirc;chine gun	none	none	none	none	none	none	none
+113	papier-m&acirc;churidars	none	none	none	none	none	none	none
+114	papier-masque	none	none	none	none	none	none	none
+115	papier-mitre	none	none	none	none	none	none	none
+116	papier-mochi	none	none	none	none	none	none	none
+117	plaid bandage	none	none	none	none	none	none	none
+118	plaid pocket square	none	none	none	none	none	none	none
+119	plaid skirt	none	none	none	none	none	none	none
+120	sugar bunny	none	none	none	none	none	none	none
+121	sugar fairy	none	none	none	none	none	none	none
+122	sweet tooth	none	none	none	none	none	none	none
+123	lemon drop trousers	none	none	none	none	none	none	none
+124	lemon party hat	none	none	none	none	none	none	none
+125	lemon shirt	none	none	none	none	none	none	none
+126	tin cup	none	none	none	none	none	none	none
+127	tin drum	none	none	none	none	none	none	none
+128	tin foil	none	none	none	none	none	none	none
+129	tin lizzie	none	none	none	none	none	none	none
+130	tin roof (rusted)	none	none	none	none	none	none	none
+131	tin snips	none	none	none	none	none	none	none
+132	tin tam	none	none	none	none	none	none	none
+133	space bar	none	none	none	none	none	none	none
+134	space heater	none	none	none	none	none	none	none
+135	space invader	none	none	none	none	none	none	none
+136	space needle	none	none	none	none	none	none	none
