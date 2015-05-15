@@ -491,3 +491,199 @@
 492	crappy brain
 493	hunter brain
 494	boss brain
+495	&quot;meat&quot; stick
+496	acceptable mayolus
+497	accidental mutton
+498	actual tapas
+499	amok pudding
+500	basic hot dog
+501	Beefy Crunch Pastaco
+502	big merv's protein shakes
+503	blood sausage
+504	bowl of topioca
+505	Brain Food Pastaco
+506	breakfast mess
+507	breakfast miracle
+508	can of Adultwitch&trade;
+509	can of sardines
+510	candied pecan
+511	candy carrot
+512	candy carrot cake
+513	candy mountain oyster
+514	carrot cake
+515	Carrot, Cabbage, and Kale Pizza
+516	carton of snake milk
+517	chilly dog
+518	Choco-Mint patty
+519	cinnamon cannoli
+520	Cinnamon Nutrition Block
+521	cold mashed potatoes
+522	consummate bacon
+523	consummate bagel
+524	consummate baked potato
+525	consummate brownie
+526	consummate cheese slice
+527	consummate cold cuts
+528	consummate corn chips
+529	consummate egg salad
+530	consummate frankfurter
+531	consummate french fries
+532	consummate fried egg
+533	consummate hard-boiled egg
+534	consummate hot dog bun
+535	consummate ice cream
+536	consummate meatloaf
+537	consummate melted cheese
+538	consummate salad
+539	consummate salsa
+540	consummate sauerkraut
+541	consummate sliced bread
+542	consummate sorbet
+543	consummate soup
+544	consummate sour cream
+545	consummate steak
+546	consummate strawberries
+547	consummate toast
+548	consummate whipped cream
+549	cookie cookie
+550	Cool Brunch Pastaco
+551	Crazy Dragon Shogun Buddha Roll
+552	cup of lukewarm tea
+553	custard pie
+554	D roll
+555	dead meat bun
+556	delicious swamp muck
+557	deluxe layer cake
+558	devil dog
+559	deviled egg
+560	dinner roll
+561	Dinsey food-cone
+562	Dreadsylvanian cold pocket
+563	Dreadsylvanian hot pocket
+564	Dreadsylvanian shepherd's pie
+565	Dreadsylvanian sleaze pocket
+566	Dreadsylvanian spooky pocket
+567	Dreadsylvanian stew
+568	Dreadsylvanian stink pocket
+569	eagle's milk
+570	electric Kool-Aid
+571	Energy Buzz Pastaco
+572	enticing mayolus
+573	Every Day is Like This Sundae
+574	exotic jungle fruit
+575	extra-flat panini
+576	filet of The Fish
+577	fine aged cheddarwurst
+578	fireman's lunch
+579	flavorless gruel
+580	fleetwood mac 'n' cheese
+581	ghost dog
+582	ghost pepper
+583	giant grain of protein powder
+584	giant heirloom grape tomato
+585	Gingerbread Nutrition Block
+586	gingerbread robot
+587	glob of cream cheese
+588	government cheese
+589	grilled cheese sandwich
+590	gunky chicken
+591	haggis-wrapped haggis-stuffed haggis
+592	ham steak
+593	hamburger
+594	high-calorie sugar substitute
+595	humble pie
+596	ice cream sandwich
+597	ice harvest
+598	imitation White Russian
+599	immaculate egg salad sandwich
+600	immaculate grilled cheese
+601	immaculate hot dog
+602	immaculate ice cream sandwich
+603	incredible pizza
+604	initiative shawarma
+605	java cookie
+606	jive turkey leg
+607	jungle floor wax
+608	junk food
+609	junkyard dog
+610	karma shawarma
+611	leftover canap&eacute;s
+612	limp broccoli
+613	liquid bread
+614	Loaded Baked Potato
+615	loaf of alien bread
+616	Ludovico Pastaco
+617	mana curds
+618	Medical Pastaco
+619	Miserable Pie
+620	moose chocolate
+621	Mornington crescent roll
+622	mouth-watering mayolus
+623	mulberry
+624	nachos of the night
+625	neutron lollipop
+626	nut-shaped Crimbo cookie
+627	old chum
+628	Omega Sundae
+629	one with everything
+630	optimal dog
+631	pat of butter
+632	pecan pie
+633	Peppermint Nutrition Block
+634	perfect breakfast
+635	perfect chef salad
+636	perfect sandwich
+637	petit 4.1
+638	petit fortran
+639	pickled egg
+640	pigeon egg
+641	plumber's lunch
+642	rack of dinosaur ribs
+643	Rainbow Spider Fun Roll
+644	red velvet cake
+645	roasted duck
+646	root beer
+647	savage macho dog
+648	seared dino steak
+649	sheet cake
+650	sizzling weasel on a stick
+651	skeleton quiche
+652	Skully's hot chocolate
+653	sleeping dog
+654	slice of pizza
+655	sly dog
+656	snow berries
+657	snow crab
+658	Sogg-Os
+659	spaghetti breakfast
+660	stolen sushi
+661	Strix stix
+662	sublime deluxe hot dog
+663	sublime nachos
+664	sublime stew
+665	suddenly salad!
+666	sweet roll Alabama
+667	Taco Dan's Basic Taco Dan Taco
+668	Taco Dan's Taco Fish Fish Taco
+669	Taco Dan's Taco Stand Taco
+670	tea for one
+671	bento box
+672	They liver popsicle
+673	This Charming Flan
+674	toxo
+675	Ultimate Breakfast Sandwich
+676	unappetizing mayolus
+677	unidentifiable dried fruit
+678	vampire chowder
+679	Vegas Volcano Lava Roll
+680	video games hot dog
+681	warbear feasting bread
+682	warbear gyro
+683	warbear thermoregulator bread
+684	warbear warrior bread
+685	warm war shawarma
+686	wet dog
+687	whole roasted chicken
+688	whole turkey leg
+689	witch's bread
+690	Xiblaxian ultraburrito
