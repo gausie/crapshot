@@ -259,7 +259,7 @@ void isInSkill(string name, string html, string overwrite)
 	}
 }
 
-void tattooCheck(string outfit, string gif, string i1, string i2, string i3, string i4, string i5)
+void tattooCheck(string outfit, string gif, string i1, string i2, string i3, string i4, string i5, string i6)
 {
 	hasallitems = false;
 	if (last_index_of(html, "/"+gif+".gif") > 0)
@@ -267,7 +267,10 @@ void tattooCheck(string outfit, string gif, string i1, string i2, string i3, str
 		ret = ret + "|1";
 	} else {
 		debug(outfit+"---"+gif+"---"+i1+"("+i_a(i1)+")"+i2+"("+i_a(i2)+")"+i3+"("+i_a(i3)+")"+i4+"("+i_a(i4)+")"+i5+"("+i_a(i5)+")");
-		if (i5 != "none")
+		if (i6 != "none")
+		{
+			if (i_a(i1) > 0 && i_a(i2) > 0 && i_a(i3) > 0 && i_a(i4) > 0 && i_a(i5) > 0 && i_a(i6) > 0) { hasallitems = true; }
+		else if (i5 != "none")
 		{
 			if (i_a(i1) > 0 && i_a(i2) > 0 && i_a(i3) > 0 && i_a(i4) > 0 && i_a(i5) > 0) { hasallitems = true; }
 		} else if (i4 != "none") {
@@ -348,7 +351,7 @@ void mainSnapshot() {
 	print("Checking tattoos...", "olive");
 	html = visit_url("account_tattoos.php");
 	ret = ret + "&tattoos=";
-	foreach x in tattoos { tattooCheck(tattoos[x].itemname, tattoos[x].gifname, , tattoos[x].a, tattoos[x].b, tattoos[x].c, tattoos[x].d, tattoos[x].e); }
+	foreach x in tattoos { tattooCheck(tattoos[x].itemname, tattoos[x].gifname, , tattoos[x].a, tattoos[x].b, tattoos[x].c, tattoos[x].d, tattoos[x].e, tattoos[x].f); }
 
 	print("Checking trophies...", "olive");
 	html = visit_url("trophies.php");
