@@ -23,7 +23,7 @@ notify cheesecookie;
 		string f;
 	};
 
-	boolean description = true, hasallitems = false, hasdisplay  = false, hashobotattoo = false, hasstore = false;
+	boolean description = true, hasallitems = false, hashobotattoo = false;
 	int a, d, itemAmount, s, s_si, s_sh, s_sy;
 	ItemImage [int] ascrewards, booze, concocktail, confood, conjewel, conmeat, conmisc, consmith, coolitems, familiars, food, hobopolis, rogueprogram, manuel, mritems, skills, slimetube, tattoos, trophies, warmedals;
 	string html, htmlkoldb, htmlscope, ret;
@@ -31,10 +31,8 @@ notify cheesecookie;
 int i_a(string name) {
 	item i = to_item(name);
 	a = item_amount(i) + closet_amount(i) + equipped_amount(i) + storage_amount(i);
-	d = 0;
-	s = 0;
-	if (hasdisplay) { d = display_amount(i); }
-	if (hasstore)   { s = shop_amount(i); }
+	d = display_amount(i);
+	s = shop_amount(i);
 
 	//Make a check for familiar equipment NOT equipped on the current familiar.
 	foreach fam in $familiars[]
@@ -315,7 +313,7 @@ string visit_discoveries(string url) {
     return replace_all(reg, "");
 }
 
-void mainSnapshot() {
+void main() {
 #	string bannedpaths = visit_url("http://kolmafia.co.uk/snapshot_bannedpaths.txt");
 #	if (contains_text(bannedpaths, my_path()) && my_path() != "") {
 #		if (!user_confirm("This script should not be run while you are in the path you are in. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it outside of the current path restrictions. Are you sure you want to run it (not recommended)?")) {
@@ -323,6 +321,13 @@ void mainSnapshot() {
 #		}
 #	}
 	print("This is snapshot maker! This script takes a snapshot of your character and uploads it to my server at cheesellc.com", "green");
+
+	//Check the slime skills.	(sinews, synapses, shoulders)
+	s_si = get_property("skillLevel46").to_int() / 2;
+	s_sy = get_property("skillLevel47").to_int();
+	s_sh = get_property("skillLevel48").to_int() / 2;
+
+
 	print("Updating map files...", "olive");
 	load_current_map("cc_snapshot_skills", skills);
 	load_current_map("cc_snapshot_tattoos", tattoos);
@@ -652,86 +657,8 @@ void mainSnapshot() {
 		print("http://cheesellc.com/kol/profile.php?u="+my_name(), "red");
 		print("If it didn't work - try again later - my website may just be having some temporary downtime problems.", "orange");
 		print("If it worked, you can setup your snapshot profile here:", "orange");
-		print("http://cheesellc.com/kol/profile.setup.php?u="+my_name(), "red");
+#		print("http://cheesellc.com/kol/profile.setup.php?u="+my_name(), "red");
 	}
 	print("");
 	print("Thanks for using snapshot maker. Your turtle mechs will be added to my collection.", "green");
-}
-
-void main() {
-
-	//Check for a display case.
-	if (index_of(visit_url("/displaycollection.php?who=" + my_id()), "This player doesn't have a display case...") == -1) {
-		//Then they have a display case. But I have to check if there\'s anything in there.
-		if(index_of(visit_url("/displaycollection.php?who=" + my_id()), "This display case is currently empty.") == -1)
-		{
-			//Then they have at least one item in there.
-			hasdisplay = true;
-			debug("You have a display case with at least one item in it.");
-		} else {
-			debug("You have a display case, but no items in it.");
-		}
-	} else {
-		debug("You have no display case.");
-	}
-
-	//Check for a store.
-	if (index_of(visit_url("charsheet.php"), "in the Mall of Loathing") > 0)
-	{
-		if (index_of(visit_url("mallstore.php?whichstore="+my_id()), "This store's inventory is currently empty. Try again later.") == -1)
-		{
-			hasstore = true;
-			debug("You have a store with at least one item in it.");
-		} else {
-			debug("You have a store, but no items in it.");
-		}
-	} else {
-		debug("You have no store.");
-	}
-
-	//Check the slime skills.
-	string slime_brain = visit_url ("desc_skill.php?whichskill=47&self=true");
-	if(index_of(slime_brain , "Slimy Synapses" )!=-1)
-	{
-		if(slime_brain.contains_text("Your synapses are 10% lubricated")) s_sy = 1;
-		if(slime_brain.contains_text("Your synapses are 20% lubricated")) s_sy = 2;
-		if(slime_brain.contains_text("Your synapses are 30% lubricated")) s_sy = 3;
-		if(slime_brain.contains_text("Your synapses are 40% lubricated")) s_sy = 4;
-		if(slime_brain.contains_text("Your synapses are 50% lubricated")) s_sy = 5;
-		if(slime_brain.contains_text("Your synapses are 60% lubricated")) s_sy = 6;
-		if(slime_brain.contains_text("Your synapses are 70% lubricated")) s_sy = 7;
-		if(slime_brain.contains_text("Your synapses are 80% lubricated")) s_sy = 8;
-		if(slime_brain.contains_text("Your synapses are 90% lubricated")) s_sy = 9;
-		if(slime_brain.contains_text("Your synapses are maximally lubricated")) s_sy = 10;
-	}
-	string slime_hypophysis = visit_url ("desc_skill.php?whichskill=46&self=true");
-	if(index_of(slime_hypophysis , "Slimy Sinews" )!=-1)
-	{
-		if(slime_hypophysis.contains_text("Your sinews are 10% lubricated")) s_si = 1;
-		if(slime_hypophysis.contains_text("Your sinews are 20% lubricated")) s_si = 2;
-		if(slime_hypophysis.contains_text("Your sinews are 30% lubricated")) s_si = 3;
-		if(slime_hypophysis.contains_text("Your sinews are 40% lubricated")) s_si = 4;
-		if(slime_hypophysis.contains_text("Your sinews are 50% lubricated")) s_si = 5;
-		if(slime_hypophysis.contains_text("Your sinews are 60% lubricated")) s_si = 6;
-		if(slime_hypophysis.contains_text("Your sinews are 70% lubricated")) s_si = 7;
-		if(slime_hypophysis.contains_text("Your sinews are 80% lubricated")) s_si = 8;
-		if(slime_hypophysis.contains_text("Your sinews are 90% lubricated")) s_si = 9;
-		if(slime_hypophysis.contains_text("Your sinews are maximally lubricated")) s_si = 10;
-	}
-	string slime_sweat = visit_url ("desc_skill.php?whichskill=48&self=true");
-	if(index_of(slime_sweat , "Slimy Shoulders" )!=-1)
-	{
-		if(slime_sweat.contains_text("Your shoulders are 10% lubricated")) s_sh = 1;
-		if(slime_sweat.contains_text("Your shoulders are 20% lubricated")) s_sh = 2;
-		if(slime_sweat.contains_text("Your shoulders are 30% lubricated")) s_sh = 3;
-		if(slime_sweat.contains_text("Your shoulders are 40% lubricated")) s_sh = 4;
-		if(slime_sweat.contains_text("Your shoulders are 50% lubricated")) s_sh = 5;
-		if(slime_sweat.contains_text("Your shoulders are 60% lubricated")) s_sh = 6;
-		if(slime_sweat.contains_text("Your shoulders are 70% lubricated")) s_sh = 7;
-		if(slime_sweat.contains_text("Your shoulders are 80% lubricated")) s_sh = 8;
-		if(slime_sweat.contains_text("Your shoulders are 90% lubricated")) s_sh = 9;
-		if(slime_sweat.contains_text("Your shoulders are maximally lubricated")) s_sh = 10;
-	}
-
-	mainSnapshot();
 }

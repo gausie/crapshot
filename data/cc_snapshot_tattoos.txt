@@ -97,7 +97,7 @@
 97	Tropical Crimbo Duds	tropictat	tropical crimbo hat	tropical crimbo pants	tropical crimbo sword	none	none	none
 98	Vestments of the Treeslayer	arborween	bark beret	bark boxers	bark bracelet	none	none	none
 99	Vile Vagrant Vestments	stehobotat	wand of oscus	oscus's dumpster waders	oscus's pelt	none	none	none
-100	War Hippy Fatigues	warhiptat	reinforced beaded headband	bullet-prood corduroys	round purple sunglasses	none	none	none
+100	War Hippy Fatigues	warhiptat	reinforced beaded headband	bullet-proof corduroys	round purple sunglasses	none	none	none
 101	Wumpus-Hair Wardrobe	wumpustat	wumpus-hair wig	wumpus-hair whip	wumpus-hair loincloth	none	none	none
 102	Yendorian Finery	elbereth	cornuthaum	vorpal blade	ring of aggravate monster	none	none	none
 103	Artist	palette	none	none	none	none	none	none
@@ -181,7 +181,7 @@
 182	Brogre Brouture	brogretat	Brogre bucket hat	Brogre brolo shirt	Brogre brorts
 183	Xiblaxian Tattoo	xiblaxtat	Xiblaxian stealth cowl	Xiblaxian stealth vest	Xiblaxian stealth trousers
 184	SPQL Tattoo	spqktat	centurion helmet	gladiator tunica	madius	pteruges	Roman sadnals	radiator heater shield
-185	Bear Claw Tattoo	bearclawtat	Warbear Dress Armor	warbear dress helmet	warbear dress greaves	warbear dress bracers
+185	Bear Claw Tattoo	bearclawtat	warbear dress helmet	warbear dress greaves	warbear dress bracers
 186	Workoutfit	workouttat	sweatband	gym shorts	ankleweights
 187	High-Radiation Tattoo	radminetat	radiation-resistant helmet	high-energy mining laser	servo-assisted exo-pants
 188	ZAP! Tattoo	zaptat	toy Crimbot mega face	toy Crimbot power glove	toy Crimbot super fist	toy Crimbot rocket legs

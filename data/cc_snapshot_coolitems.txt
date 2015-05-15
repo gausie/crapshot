@@ -175,5 +175,4 @@
 175	Thwaitgold spider statuette	thwaitspider
 176	Thwaitgold nit statuette	thwaitnit
 177	Thwaitgold scarab beetle statuette	thwaitscarab
-
-
+178	The Nuge's favorite crossbow	nugebow
