@@ -270,6 +270,7 @@ void tattooCheck(string outfit, string gif, string i1, string i2, string i3, str
 		if (i6 != "none")
 		{
 			if (i_a(i1) > 0 && i_a(i2) > 0 && i_a(i3) > 0 && i_a(i4) > 0 && i_a(i5) > 0 && i_a(i6) > 0) { hasallitems = true; }
+		}
 		else if (i5 != "none")
 		{
 			if (i_a(i1) > 0 && i_a(i2) > 0 && i_a(i3) > 0 && i_a(i4) > 0 && i_a(i5) > 0) { hasallitems = true; }
