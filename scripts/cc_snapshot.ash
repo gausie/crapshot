@@ -338,10 +338,10 @@ void main()
 {
 	if(!get_property("kingLiberated").to_boolean())
 	{
-		if(!user_confirm("This script should not be run while you are in-run. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it in aftercore. Are you sure you want to run it (not recommended)?"))
-		{
-			abort("User aborted. Beep");
-		}
+#		if(!user_confirm("This script should not be run while you are in-run. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it in aftercore. Are you sure you want to run it (not recommended)?"))
+#		{
+#			abort("User aborted. Beep");
+#		}
 	}
 	print("This is snapshot maker! This script takes a snapshot of your character and uploads it to my server at cheesellc.com", "green");
 
@@ -603,24 +603,21 @@ void main()
 	}
 
 	print("Checking for Rogue Program Stuff", "olive");
-	if(visit_url("town_wrong.php").contains_text("arcade"))
+	html = to_lower_case(visit_url("arcade.php?ticketcounter=1"));
+	ret = ret + "&arcadegames=";
+	foreach x in rogueprogram
 	{
-		html = to_lower_case(visit_url("arcade.php?ticketcounter=1"));
-		ret = ret + "&arcadegames=";
-		foreach x in rogueprogram
+		if(i_a(rogueprogram[x].itemname) > 0)
 		{
-			if(i_a(rogueprogram[x].itemname) > 0)
-			{
-				ret = ret + "|1";
-			}
-			else if(index_of(html, rogueprogram[x].itemname) > 0)
-			{
-				ret = ret + "|2";
-			}
-			else
-			{
-				ret = ret + "|";
-			}
+			ret = ret + "|1";
+		}
+		else if(index_of(html, rogueprogram[x].itemname) > 0)
+		{
+			ret = ret + "|2";
+		}
+		else
+		{
+			ret = ret + "|";
 		}
 	}
 
