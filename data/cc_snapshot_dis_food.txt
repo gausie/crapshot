@@ -228,11 +228,11 @@
 244	fluid of fudge-finding	none	none	none	none	none	none	none
 245	fudgesicle	none	none	none	none	none	none	none
 246	fettucini &eacute;pines Inconnu	none	none	none	none	none	none	none
-247	Dreadsylvanian cold pocket 	none	none	none	none	none	none	none
-248	Dreadsylvanian hot pocket 	none	none	none	none	none	none	none
-249	Dreadsylvanian sleaze pocket 	none	none	none	none	none	none	none
-250	Dreadsylvanian spooky pocket 	none	none	none	none	none	none	none
-251	Dreadsylvanian stink pocket 	none	none	none	none	none	none	none
+247	Dreadsylvanian cold pocket	none	none	none	none	none	none	none
+248	Dreadsylvanian hot pocket	none	none	none	none	none	none	none
+249	Dreadsylvanian sleaze pocket	none	none	none	none	none	none	none
+250	Dreadsylvanian spooky pocket	none	none	none	none	none	none	none
+251	Dreadsylvanian stink pocket	none	none	none	none	none	none	none
 252	deluxe layer cake	none	none	none	none	none	none	none
 253	candy carrot cake	none	none	none	none	none	none	none
 254	carrot cake	none	none	none	none	none	none	none

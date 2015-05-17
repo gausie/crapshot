@@ -50,7 +50,7 @@
 50	pearl diver's necklace	none	none	none	none	none	none	none
 51	pearl diver's ring	none	none	none	none	none	none	none
 52	doll-eye amulet	none	none	none	none	none	none	none
-53	moon-amber necklace 	none	none	none	none	none	none	none
+53	moon-amber necklace	none	none	none	none	none	none	none
 54	Pendant of Gargalesis	none	none	none	none	none	none	none
 55	dark baconstone ring	none	none	none	none	none	none	none
 56	dark hamethyst ring	none	none	none	none	none	none	none

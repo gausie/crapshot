@@ -22,15 +22,15 @@
 22	polyester pettipants	polypants	none	none	none	none	none
 23	polyester panama hat	polyhat	none	none	none	none	none
 24	polyester pulsera	polypulsera	none	none	none	none	none
-25	porecelain police baton	porcbaton	none	none	none	none	none
-26	porecelain plus-fours	porcpants	none	none	none	none	none
-27	porecelain porkpie	porchat	none	none	none	none	none
-28	porecelain pepper mill	porcshaker	none	none	none	none	none
-29	porecelain pelerine	porcpelegrine	none	none	none	none	none
-30	porecelain phantom mask	porcmask	none	none	none	none	none
+25	porcelain police baton	porcbaton	none	none	none	none	none
+26	porcelain plus-fours	porcpants	none	none	none	none	none
+27	porcelain porkpie	porchat	none	none	none	none	none
+28	porcelain pepper mill	porcshaker	none	none	none	none	none
+29	porcelain pelerine	porcpelegrine	none	none	none	none	none
+30	porcelain phantom mask	porcmask	none	none	none	none	none
 31	dice ring	dicering
 32	dice belt buckle	dicebuckle
-33	dice-shaped backpage	dicepack
+33	dice-shaped backpack	dicepack
 34	dice-print pajama pants	dicepants
 35	dice-print do rag	dicerag
 36	dice sunglasses	diceglasses

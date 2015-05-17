@@ -151,11 +151,11 @@
 151	yellow drunki-bear	none	none	none	none	none	none	none
 152	slap and slap again	none	none	none	none	none	none	none
 153	soft green echo eyedrop antidote martini	none	none	none	none	none	none	none
-154	Dreadsylvanian cold-fashioned 	none	none	none	none	none	none	none
-155	Dreadsylvanian dank and stormy 	none	none	none	none	none	none	none
-156	Dreadsylvanian grimlet 	none	none	none	none	none	none	none
-157	Dreadsylvanian hot toddy 	none	none	none	none	none	none	none
-158	Dreadsylvanian slithery nipple 	none	none	none	none	none	none	none
+154	Dreadsylvanian cold-fashioned	none	none	none	none	none	none	none
+155	Dreadsylvanian dank and stormy	none	none	none	none	none	none	none
+156	Dreadsylvanian grimlet	none	none	none	none	none	none	none
+157	Dreadsylvanian hot toddy	none	none	none	none	none	none	none
+158	Dreadsylvanian slithery nipple	none	none	none	none	none	none	none
 159	Breakfast Blast wine cooler	none	none	none	none	none	none	none
 160	Cherrytastrophe wine cooler	none	none	none	none	none	none	none
 161	Citrus Crush wine cooler	none	none	none	none	none	none	none

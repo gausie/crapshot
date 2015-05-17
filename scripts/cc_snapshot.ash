@@ -5,7 +5,7 @@ notify cheesecookie;
 #	Code comes straight from that. Website layout is copied from it.
 #	Things are then hacked onto it in order to increase support. Beep beep.
 
-	boolean debug = true;
+	boolean debug = false;
 	void debug(string s)
 	{
 		if (debug) { print(s, "blue"); }
@@ -24,7 +24,7 @@ notify cheesecookie;
 	};
 
 	int s_si, s_sh, s_sy;
-	ItemImage [int] ascrewards, booze, concocktail, confood, conjewel, conmeat, conmisc, consmith, coolitems, familiars, food, hobopolis, rogueprogram, manuel, mritems, skills, slimetube, tattoos, trophies, warmedals;
+	ItemImage [int] ascrewards, booze, concocktail, confood, conjewel, conmeat, conmisc, consmith, coolitems, familiars, food, hobopolis, rogueprogram, manuel, mritems, skills, slimetube, tattoos, trophies, warmedals, tracked;
 	string html, htmlkoldb, htmlscope, ret;
 
 int i_a(string name)
@@ -338,10 +338,10 @@ void main()
 {
 	if(!get_property("kingLiberated").to_boolean())
 	{
-#		if(!user_confirm("This script should not be run while you are in-run. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it in aftercore. Are you sure you want to run it (not recommended)?"))
-#		{
-#			abort("User aborted. Beep");
-#		}
+		if(!user_confirm("This script should not be run while you are in-run. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it in aftercore. Are you sure you want to run it (not recommended)?"))
+		{
+			abort("User aborted. Beep");
+		}
 	}
 	print("This is snapshot maker! This script takes a snapshot of your character and uploads it to my server at cheesellc.com", "green");
 
@@ -372,6 +372,7 @@ void main()
 	load_current_map("cc_snapshot_con_booze", booze);
 	load_current_map("cc_snapshot_rogueprogram", rogueprogram);
 	load_current_map("cc_snapshot_manuel", manuel);
+	load_current_map("cc_snapshot_tracked", tracked);
 
 	print("Checking skills...", "olive");
 	ret = "&skills=";
@@ -434,34 +435,20 @@ void main()
 	}
 
 	print("Checking for Telescope", "olive");
-	ret = ret + "&scope=";
-	htmlscope = visit_url("campground.php?action=telescopelow");
-	if(index_of(htmlscope, "You point your telescope toward") != -1 ) {
-		htmlscope = substring(htmlscope, index_of(htmlscope, "You point your telescope toward"));
-		htmlscope = substring(htmlscope, 0, index_of(htmlscope, "</td>"));
-		if(index_of(htmlscope, "sixth and final window") > 0)
-		{
-			ret = ret + "7";
-		} else if(index_of(htmlscope, "You focus the telescope on the back") > 0) {
-			ret = ret + "6";
-		} else if(index_of(htmlscope, "Beyond the maze's entrance") > 0) {
-			ret = ret + "5";
-		} else if(index_of(htmlscope, "You sweep the telescope up") > 0) {
-			ret = ret + "4";
-		} else if(index_of(htmlscope, "You scan to the right a bit") > 0) {
-			ret = ret + "3";
-		} else if(index_of(htmlscope, "You adjust the focus") > 0) {
-			ret = ret + "2";
-		} else if(index_of(htmlscope, "You see a group of people") > 0) {
-			ret = ret + "1";
-		}
-	}
+	ret = ret + "&scope=" + get_property("telescopeUpgrades").to_int();
 
 	print("Checking for Ascension Rewards", "olive");
 	ret = ret + "&ascreward=";
 	foreach x in ascrewards
 	{
 		hasItem(ascrewards[x].itemname, "amount");
+	}
+
+	print("Checking for Mafia Tracked Data", "olive");
+	ret = ret + "&tracked=";
+	foreach x in tracked
+	{
+		ret = ret + "|" + get_property(tracked[x].a);
 	}
 
 	print("Checking for Discoveries [Cocktail]", "olive");
@@ -698,11 +685,10 @@ void main()
 	html = visit_url("http://cheesellc.com/kol/profile.save.php?username="+url_encode(my_name())+ret+infostring);
 
 	debug(ret);
-	print(html, "green");
 	print("");
 	if(index_of(html, "success") > 0) {
 		print("Successfully done. Visit the following URL to see your snapshot!", "green");
-		print("http://cheesellc.com/kol/profile.php?u="+my_name(), "red");
+		print("http://cheesellc.com/kol/profile.php?u="+my_name(), "blue");
 #		print("Setup your snapshot profile here:", "green");
 #		print("http://cheesellc.com/kol/profile.setup.php?u="+my_name(), "red");
 	} else if(index_of(html, "fail") > 0) {
@@ -712,7 +698,7 @@ void main()
 	} else {
 		print("For some reason, the script isn't reporting a successful update.", "orange");
 		print("Visit the following URL to check your snapshot.", "orange");
-		print("http://cheesellc.com/kol/profile.php?u="+my_name(), "red");
+		print("http://cheesellc.com/kol/profile.php?u="+my_name(), "blue");
 		print("If it didn't work - try again later - my website may just be having some temporary downtime problems.", "orange");
 #		print("If it worked, you can setup your snapshot profile here:", "orange");
 #		print("http://cheesellc.com/kol/profile.setup.php?u="+my_name(), "red");
