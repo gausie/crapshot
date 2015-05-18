@@ -26,6 +26,7 @@ notify cheesecookie;
 	int s_si, s_sh, s_sy;
 	ItemImage [int] ascrewards, booze, concocktail, confood, conjewel, conmeat, conmisc, consmith, coolitems, familiars, food, hobopolis, rogueprogram, manuel, mritems, skills, slimetube, tattoos, trophies, warmedals, tracked;
 	string html, htmlkoldb, htmlscope, ret;
+	string bookshelfHtml, familiarNamesHtml;
 
 int i_a(string name)
 {
@@ -338,10 +339,10 @@ void main()
 {
 	if(!get_property("kingLiberated").to_boolean())
 	{
-		if(!user_confirm("This script should not be run while you are in-run. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it in aftercore. Are you sure you want to run it (not recommended)?"))
-		{
-			abort("User aborted. Beep");
-		}
+#		if(!user_confirm("This script should not be run while you are in-run. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it in aftercore. Are you sure you want to run it (not recommended)?"))
+#		{
+#			abort("User aborted. Beep");
+#		}
 	}
 	print("This is snapshot maker! This script takes a snapshot of your character and uploads it to my server at cheesellc.com", "green");
 
@@ -374,9 +375,12 @@ void main()
 	load_current_map("cc_snapshot_manuel", manuel);
 	load_current_map("cc_snapshot_tracked", tracked);
 
+	bookshelfHtml = visit_url("campground.php?action=bookshelf");
+	familiarNamesHtml = visit_url("familiarnames.php");
+
 	print("Checking skills...", "olive");
 	ret = "&skills=";
-	html = visit_url("charsheet.php") + visit_url("campground.php?action=bookshelf");
+	html = visit_url("charsheet.php") + bookshelfHtml;
 	foreach x in skills
 	{
 		isInSkill(skills[x].itemname, html, skills[x].a);
@@ -399,7 +403,7 @@ void main()
 	}
 
 	print("Checking familiars...", "olive");
-	html = visit_url("familiarnames.php");
+	html = familiarNamesHtml;
 	#htmlkoldb = visit_url("ascensionhistory.php?back=self&who="+my_id(), false);
 	htmlkoldb = visit_url(" ascensionhistory.php?back=self&who=" +my_id(), false) + visit_url(" ascensionhistory.php?back=self&prens13=1&who=" +my_id(), false);
 	ret = ret + "&familiars=";
@@ -500,21 +504,13 @@ void main()
 	}
 
 	print("Checking for Mr. Items", "olive");
-	html = visit_url("familiarnames.php") + visit_url("campground.php?action=bookshelf");
+	html = familiarNamesHtml + bookshelfHtml;
 	ret = ret + "&mritems=";
 	foreach x in mritems
 	{
 		int itemAmount = 0;
 		switch(mritems[x].itemname)
 		{
-#			case "a":				//Airports
-#				itemAmount = i_a(to_item(mritems[x].gifname));
-#				if(contains_text(visit_url("place.php?whichplace=airport"), mritems[x].a))
-#				{
-#					itemAmount = 1;
-#				}
-#			break;
-
 			case "b":				//Bind-on-use Items
 				itemAmount = i_a(to_item(mritems[x].gifname)) + i_a(to_item(mritems[x].a));
 			break;
@@ -540,13 +536,9 @@ void main()
 			break;
 
 			case "p":				//Correspondences (Pen Pal, Game Magazine, etc)
-				// initial check to see if we have any
-				if (contains_text(visit_url("messages.php"), ">[Correspondence]</a>")) {
-					// this is the most accurate but only happens if you have 1+
-					if (contains_text(visit_url("account.php?tab=correspondence"), ">" + mritems[x].a +"</option>"))
-						itemAmount = 1;
-					else if (contains_text(visit_url("messages.php?box=Correspondence"), mritems[x].b))
-							itemAmount = 1;
+				if (contains_text(visit_url("account.php?tab=correspondence"), ">" + mritems[x].a +"</option>"))
+				{
+					itemAmount = 1;
 				}
 				itemAmount = itemAmount + i_a(to_item(mritems[x].gifname));
 			break;
@@ -554,6 +546,13 @@ void main()
 			case "e":				// visit page, check for matching text
 				itemAmount = i_a(to_item(mritems[x].gifname));
 				if(contains_text(visit_url(mritems[x].a), mritems[x].b))
+				{
+					itemAmount = itemAmount + 1;
+				}
+			break;
+
+			case "s":				//Check mafia setting
+				if(get_property(mritems[x].a).to_boolean())
 				{
 					itemAmount = itemAmount + 1;
 				}
