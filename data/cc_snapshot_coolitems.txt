@@ -197,3 +197,10 @@
 197	fake washboard	washboard
 198	backwoods banjo	seegerbanjo
 199	ratskin pajama pants	atpants
+200	Sasq&trade; watch	nicewatch
+201	pair of plants	pairofplants
+202	smoker's cloak	smokecloak
+203	camouflage T-shirt	camoshirt
+204	trench lighter	trenchlighter
+205	mercenary pistol	happiness
+206	mercenary rifle	mercrifle

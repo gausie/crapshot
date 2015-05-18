@@ -614,7 +614,7 @@ void main()
 	while(i <= numdemon)
 	{
 		ret = ret + get_property("demonName"+i) + "|";
-		print(i+get_property("demonName"+i));
+		debug(i+get_property("demonName"+i));
 		i = i + 1;
 	}
 
@@ -626,7 +626,7 @@ void main()
 	{
 		k = group(m, 1);
 	}
-	print("You have "+k+" karma");
+	debug("You have "+k+" karma");
 	ret = ret + "&karma="+k;
 
 	print("Checking Path Points", "olive");
