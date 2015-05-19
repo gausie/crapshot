@@ -456,7 +456,7 @@
 456	Hot Socks
 457	Hundred Headed IPA
 458	Ice Island Long Tea
-459	ice stein
+459	
 460	Irish Coffee, English Heart
 461	Ish Kabibble
 462	Jungle Juice
