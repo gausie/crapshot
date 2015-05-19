@@ -498,7 +498,7 @@
 499	amok pudding
 500	basic hot dog
 501	Beefy Crunch Pastaco
-502	big merv's protein shakes
+502	
 503	blood sausage
 504	bowl of topioca
 505	Brain Food Pastaco
@@ -646,7 +646,7 @@
 647	savage macho dog
 648	seared dino steak
 649	sheet cake
-650	sizzling weasel on a stick
+650	
 651	skeleton quiche
 652	Skully's hot chocolate
 653	sleeping dog
@@ -661,7 +661,7 @@
 662	sublime deluxe hot dog
 663	sublime nachos
 664	sublime stew
-665	suddenly salad!
+665
 666	sweet roll Alabama
 667	Taco Dan's Basic Taco Dan Taco
 668	Taco Dan's Taco Fish Fish Taco

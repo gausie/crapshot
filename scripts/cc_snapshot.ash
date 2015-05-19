@@ -639,12 +639,11 @@ void main()
 	}
 
 /*
-	if(contains_text(visit_url("questlog.php"), "Monster Manuel"))
+	string manuelHTML = visit_url("questlog.php?which=6&vl=a");
+	if(contains_text(manuelHTML, "Monster Manuel"))
 	{
-		//Prepare the big HTML file.
-		print("Starting to Check the Manuel HTML Pages...", "olive");
-		string manuelHTML;
-		manuelHTML = visit_url("questlog.php?which=6&vl=a") +
+		print("Starting to Check the Manuel HTML Pages (this may take a minute)...", "olive");
+		manuelHTML = manuelHTML +
 			visit_url("questlog.php?which=6&vl=b") +
 			visit_url("questlog.php?which=6&vl=c") +
 			visit_url("questlog.php?which=6&vl=d") +

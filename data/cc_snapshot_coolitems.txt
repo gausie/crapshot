@@ -204,3 +204,12 @@
 204	trench lighter	trenchlighter
 205	mercenary pistol	happiness
 206	mercenary rifle	mercrifle
+207	insulting hat	insultinghat
+208	offensive moustache	chaplinstache
+209	cursed microwave	microwave
+210	cursed pony keg	ponykeg
+211	hairshirt	hairshirt
+212	bagged stuffed "L"	baggedl
+213	stuffed club	stuffedclub
+214	stuffed "L"	stuffedl
+215	The Cocktail Shaker	theshaker
