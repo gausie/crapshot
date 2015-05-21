@@ -2,3 +2,6 @@
 2	Chess Boards Completed	chesscookie	chessboardsCleared	50
 3	Belch the Rainbow	rrainbow	skillLevel117	11
 4	Summon Annoyance	angry	summonAnnoyanceCost	11
+5	Slimy Sinews	sisinews	skillLevel46	10
+6	Slimy Synapses	sibrain	skillLevel47	10
+7	Slimy Shoulders	sebashield	skillLevel48	10

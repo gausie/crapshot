@@ -26,7 +26,7 @@
 26	i	plastic pumpkin bucket	none	none	none	none	none	none
 27	i	pilgrim shield	none	none	none	none	none	none
 28	f	yuletide troll chrysalis	Ancient Yuletide Troll	none	none	none	none	none
-29	o	Great Ball of Frozen Fire	liar's pants	flaming juggler's balls	flaming pink shirt	flaming familiar doppelgÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¤nger	evil flaming eyeball pendant	none
+29	o	Great Ball of Frozen Fire	liar's pants	flaming juggler's balls	flaming pink shirt	flaming familiar doppelg&auml;nger	evil flaming eyeball pendant	none
 30	t	Libram of Candy Heart Summoning	Libram of Candy Heart Summoning	none	none	none	none	none
 31	f	dandy lion cub	Dandy Lion	none	none	none	none	none
 32	f	bad penguin egg	Penguin Goodfella	none	none	none	none	none

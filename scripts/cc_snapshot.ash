@@ -339,10 +339,10 @@ void main()
 {
 	if(!get_property("kingLiberated").to_boolean())
 	{
-#		if(!user_confirm("This script should not be run while you are in-run. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it in aftercore. Are you sure you want to run it (not recommended)?"))
-#		{
-#			abort("User aborted. Beep");
-#		}
+		if(!user_confirm("This script should not be run while you are in-run. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it in aftercore. Are you sure you want to run it (not recommended)?"))
+		{
+			abort("User aborted. Beep");
+		}
 	}
 	print("This is snapshot maker! This script takes a snapshot of your character and uploads it to my server at cheesellc.com", "green");
 
@@ -530,7 +530,11 @@ void main()
 			break;
 
 			case "o":				//Foldable
-				itemAmount = i_a(to_item(mritems[x].gifname)) + i_a(to_item(mritems[x].a)) + i_a(to_item(mritems[x].b)) + i_a(to_item(mritems[x].c)) + i_a(to_item(mritems[x].d));
+				itemAmount = i_a(to_item(mritems[x].gifname));
+				if (mritems[x].a != "none") { itemAmount = itemAmount + i_a(to_item(mritems[x].a)); }
+				if (mritems[x].b != "none") { itemAmount = itemAmount + i_a(to_item(mritems[x].b)); }
+				if (mritems[x].c != "none") { itemAmount = itemAmount + i_a(to_item(mritems[x].c)); }
+				if (mritems[x].d != "none") { itemAmount = itemAmount + i_a(to_item(mritems[x].d)); }
 				if (mritems[x].e != "none") { itemAmount = itemAmount + i_a(to_item(mritems[x].e)); }
 				if (mritems[x].f != "none") { itemAmount = itemAmount + i_a(to_item(mritems[x].f)); }
 			break;
