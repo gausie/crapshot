@@ -642,6 +642,9 @@ void main()
 		ret = ret + get_property(pathsList[key])+"|";
 	}
 
+	ret = ret + "&inrun=" + !get_property("kingLiberated").to_boolean();
+
+
 /*
 	string manuelHTML = visit_url("questlog.php?which=6&vl=a");
 	if(contains_text(manuelHTML, "Monster Manuel"))
