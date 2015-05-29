@@ -213,3 +213,7 @@
 213	stuffed club	stuffedclub
 214	stuffed "L"	stuffedl
 215	The Cocktail Shaker	theshaker
+216	Hand-carved bokken	carvedsword
+217	Hand-carved bow	carvedbow
+218	Hand-carved staff	carvedstaff
+219	pogo stick	pogostick
