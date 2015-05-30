@@ -643,6 +643,7 @@ void main()
 	}
 
 	ret = ret + "&inrun=" + !get_property("kingLiberated").to_boolean();
+	ret = ret + "&snapshotversion=" + svn_info("ccascend-snapshot").last_changed_rev;
 
 
 /*
