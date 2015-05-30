@@ -30,6 +30,11 @@ notify cheesecookie;
 
 int i_a(string name)
 {
+	if((name == "none") || (name == ""))
+	{
+		return 0;
+	}
+
 	item i = to_item(name);
 	int amt = item_amount(i) + closet_amount(i) + equipped_amount(i) + storage_amount(i);
 	amt = amt + display_amount(i) + shop_amount(i);
@@ -391,7 +396,7 @@ void main()
 	ret = ret + "&tattoos=";
 	foreach x in tattoos
 	{
-		tattooCheck(tattoos[x].itemname, tattoos[x].gifname, , tattoos[x].a, tattoos[x].b, tattoos[x].c, tattoos[x].d, tattoos[x].e, tattoos[x].f);
+		tattooCheck(tattoos[x].itemname, tattoos[x].gifname, tattoos[x].a, tattoos[x].b, tattoos[x].c, tattoos[x].d, tattoos[x].e, tattoos[x].f);
 	}
 
 	print("Checking trophies...", "olive");
