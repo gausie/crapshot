@@ -225,6 +225,7 @@ void isInManuel(string monstername, string html, string firstFact)
 
 void famCheck(string name, string gifname, string hatchling)
 {
+	debug("Looking for familiar: " + name);
 	if(index_of(html, name) > 0)
 	{
 		if(index_of(htmlkoldb, "alt=\""+name+" (100%)") > 0)

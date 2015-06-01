@@ -217,3 +217,24 @@
 217	Hand-carved bow	carvedbow
 218	Hand-carved staff	carvedstaff
 219	pogo stick	pogostick
+220	Time-twitching toolbelt	time_belt
+221	Time Bandit Time Towel	towelcape
+222	Time Cape	timecape
+223	Time Clock	timecape
+224	Time Lord Participation Mug	coffecup
+225	Caveman Dan's Favorite Rock	danrock
+226	time shuriken	shuriken
+227	ninjammies	ninjammies
+228	glass eye	cglasseye
+229	ishield	ishield
+230	iflail	iflail
+231	white earbuds	earbuds
+232	wooly loincloth	loincloth
+233	yabba dabba doo rag	yabbadabba
+234	Mr. Explotier	mrexp
+235	Golden Mr. Accessory	gma
+236	Mr. Accessory	mracc
+237	Ms. Accessory	mrsacc
+238	Sister Accessory	sisteracc
+239	Mr. Accessory Jr.	babyacc
+240	Uncle Buck	unclebuck

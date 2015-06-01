@@ -149,3 +149,4 @@
 149	o	Ed the Undying exhibit crate	The Crown of Ed the Undying
 150	s	airplane charter: Dinseylandfill	stenchAirportAlways
 151	e	portable Mayo Clinic	campground.php?action=workshed	The Mayo Clinic
+152	f	yellow puck	Puck Man	puckman
