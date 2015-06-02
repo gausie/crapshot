@@ -700,7 +700,7 @@ void main()
 	print("");
 	if(index_of(html, "success") > 0) {
 		print("Successfully done. Click the following URL to see your snapshot!", "green");
-		print_html("<a href=\"http://cheesellc.com/kol/profile.php?u="+my_name()+"\">");
+		print_html("<a href=\"http://cheesellc.com/kol/profile.php?u="+my_name()+"\" target=\"_blank\">");
 		print_html("http://cheesellc.com/kol/profile.php?u="+my_name()+"</a>");
 #		print("Setup your snapshot profile here:", "green");
 #		print("http://cheesellc.com/kol/profile.setup.php?u="+my_name(), "red");
