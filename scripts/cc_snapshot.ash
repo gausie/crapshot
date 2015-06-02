@@ -699,8 +699,9 @@ void main()
 	debug(ret);
 	print("");
 	if(index_of(html, "success") > 0) {
-		print("Successfully done. Visit the following URL to see your snapshot!", "green");
-		print("http://cheesellc.com/kol/profile.php?u="+my_name(), "blue");
+		print("Successfully done. Click the following URL to see your snapshot!", "green");
+		print_html("<a href=\"http://cheesellc.com/kol/profile.php?u="+my_name()+"\">");
+		print_html("http://cheesellc.com/kol/profile.php?u="+my_name()+"</a>");
 #		print("Setup your snapshot profile here:", "green");
 #		print("http://cheesellc.com/kol/profile.setup.php?u="+my_name(), "red");
 	} else if(index_of(html, "fail") > 0) {
