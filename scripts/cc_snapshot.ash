@@ -228,21 +228,38 @@ void famCheck(string name, string gifname, string hatchling)
 	debug("Looking for familiar: " + name);
 	if(index_of(html, name) > 0)
 	{
-		if(index_of(htmlkoldb, "alt=\""+name+" (100%)") > 0)
+		matcher m = create_matcher("alt=\"" + name + " .([0-9.]+)..", htmlkoldb);
+		float percent = 0.0;
+		while(find(m))
+		{
+			string percentMatch = group(m, 1);
+			percent = max(percent, to_float(percentMatch));
+		}
+
+		debug("Found max percentage: " + percent);
+		if(percent >= 100.0)
 		{
 			//100% Run
 			ret = ret + "|3";
-		} else if(index_of(htmlkoldb, "alt=\""+name+" (9") > 0) {
+		}
+		else if(percent >= 90.0)
+		{
 			//90% Tourguide Run
 			ret = ret + "|4";
-		} else {
+		}
+		else
+		{
 			//Have Familiar
 			ret = ret + "|1";
 		}
-	} else if(i_a(hatchling) > 0) {
+	}
+	else if(i_a(hatchling) > 0)
+	{
 		//Have Hatchling
 		ret = ret + "|2";
-	} else {
+	}
+	else
+	{
 		//Dont have familiar at all.
 		ret = ret + "|";
 	}
@@ -410,7 +427,6 @@ void main()
 
 	print("Checking familiars...", "olive");
 	html = familiarNamesHtml;
-	#htmlkoldb = visit_url("ascensionhistory.php?back=self&who="+my_id(), false);
 	htmlkoldb = visit_url(" ascensionhistory.php?back=self&who=" +my_id(), false) + visit_url(" ascensionhistory.php?back=self&prens13=1&who=" +my_id(), false);
 	ret = ret + "&familiars=";
 	foreach x in familiars
