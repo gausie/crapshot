@@ -667,6 +667,18 @@ void main()
 	ret = ret + "&inrun=" + !get_property("kingLiberated").to_boolean();
 	ret = ret + "&snapshotversion=" + svn_info("ccascend-snapshot").last_changed_rev;
 
+	string manuelHTML = visit_url("questlog.php?which=6&vl=a");
+	if(contains_text(manuelHTML, "Monster Manuel"))
+	{
+		print("Checking simplied Manuel data", "olive");
+
+		ret = ret + "&manuelsimple=";
+		matcher m = create_matcher("([0-9]+) creatures[.]", manuelHTML);
+		while(find(m))
+		{
+			ret = ret + "|" + group(m, 1);
+		}
+	}
 
 /*
 	string manuelHTML = visit_url("questlog.php?which=6&vl=a");
