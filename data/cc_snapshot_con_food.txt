@@ -511,7 +511,7 @@
 512	candy carrot cake
 513	candy mountain oyster
 514	carrot cake
-515	Carrot, Cabbage, and Kale Pizza
+515	
 516	carton of snake milk
 517	chilly dog
 518	Choco-Mint patty
@@ -688,3 +688,4 @@
 689	witch's bread
 690	Xiblaxian ultraburrito
 691	uninteresting mayolus
+692	pixel banana
