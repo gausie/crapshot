@@ -1,22 +1,22 @@
 1	17-alarm Saucepan	none	none	none	none	none	none	none
-2	5-Alarm Saucepan	none	none	none	none	none	none	none
+2	
 3	7-inch discus	none	none	none	none	none	none	none
-4	Bjorn's Hammer	none	none	none	none	none	none	none
+4	
 5	Chelonian Morningstar	none	none	none	none	none	none	none
 6	Crimbo hat	none	none	none	none	none	none	none
 7	Crimbo pants	none	none	none	none	none	none	none
 8	Crimbo sword	none	none	none	none	none	none	none
-9	Disco Banjo	none	none	none	none	none	none	none
+9	
 10	Frost&trade; brand sword	none	none	none	none	none	none	none
 11	Greek Pasta of Peril	none	none	none	none	none	none	none
 12	Hammer of Smiting	none	none	none	none	none	none	none
 13	Kentucky-fried meat crossbow	none	none	none	none	none	none	none
 14	Kentucky-fried meat staff	none	none	none	none	none	none	none
 15	Kentucky-fried meat sword	none	none	none	none	none	none	none
-16	Mace of the Tortoise	none	none	none	none	none	none	none
+16	
 17	PVC staff	none	none	none	none	none	none	none
-18	Pasta of Peril	none	none	none	none	none	none	none
-19	Rock and Roll Legend	none	none	none	none	none	none	none
+18	
+19	
 20	Shagadelic Disco Banjo	none	none	none	none	none	none	none
 21	Spirit Precipice	none	none	none	none	none	none	none
 22	Squeezebox of the Ages	none	none	none	none	none	none	none
@@ -142,8 +142,8 @@
 142	grease gun	none	none	none	none	none	none	none
 143	grisly shield	none	none	none	none	none	none	none
 144	hairy staff	none	none	none	none	none	none	none
-145	heart of rock and roll	none	none	none	none	none	none	none
-146	heavy hot sauce	none	none	none	none	none	none	none
+145	
+146	
 147	hippo skin buckler	none	none	none	none	none	none	none
 148	hippo whip	none	none	none	none	none	none	none
 149	hippopotamus kilt	none	none	none	none	none	none	none
@@ -193,7 +193,7 @@
 193	savory crossbow	none	none	none	none	none	none	none
 194	savory staff	none	none	none	none	none	none	none
 195	savory sword	none	none	none	none	none	none	none
-196	seal-toothed rock	none	none	none	none	none	none	none
+196	
 197	sebaceous shield	none	none	none	none	none	none	none
 198	sequined fez	none	none	none	none	none	none	none
 199	shuddersword	none	none	none	none	none	none	none
@@ -201,7 +201,7 @@
 201	smoldering staff	none	none	none	none	none	none	none
 202	soup-chucks	none	none	none	none	none	none	none
 203	soylent staff	none	none	none	none	none	none	none
-204	spaghetti with rock-balls	none	none	none	none	none	none	none
+204	
 205	spiky turtle helmet	none	none	none	none	none	none	none
 206	spiky turtle shield	none	none	none	none	none	none	none
 207	spiky turtle shoulderpads	none	none	none	none	none	none	none
@@ -215,8 +215,8 @@
 215	sticky meat skirt	none	none	none	none	none	none	none
 216	sticky meat pants	none	none	none	none	none	none	none
 217	sticky meat skirt	none	none	none	none	none	none	none
-218	stone banjo	none	none	none	none	none	none	none
-219	stone turtle	none	none	none	none	none	none	none
+218	
+219	
 220	styrofoam crossbow	none	none	none	none	none	none	none
 221	styrofoam staff	none	none	none	none	none	none	none
 222	styrofoam sword	none	none	none	none	none	none	none
