@@ -54,7 +54,7 @@
 54	"Fun" House	none	none	none	none	none	none
 55	Lair of the Ninja Snowmen	none	none	none	none	none	none
 56	Limerick Dungeon	none	none	none	none	none	none
-57	Misspelled Cemetary	none	none	none	none	none	none
+57	The Unquiet Garves	none	none	none	none	none	none
 58	Noob Cave	none	none	none	none	none	none
 59	Penultimate Fantasy Airship	none	none	none	none	none	none
 60	Poker Room	none	none	none	none	none	none
