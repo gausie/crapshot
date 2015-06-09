@@ -8,7 +8,7 @@
 8	Crimbo sword	none	none	none	none	none	none	none
 9	
 10	Frost&trade; brand sword	none	none	none	none	none	none	none
-11	Greek Pasta of Peril	none	none	none	none	none	none	none
+11	
 12	Hammer of Smiting	none	none	none	none	none	none	none
 13	Kentucky-fried meat crossbow	none	none	none	none	none	none	none
 14	Kentucky-fried meat staff	none	none	none	none	none	none	none
@@ -254,7 +254,7 @@
 254	dripping meat sword (ketchup)	dripping meat sword</b> <font size=1><br/>basic meat sword (0) + ketchup (0)	none	none	none	none	none	none
 255	meatloaf helmet (ketchup)	meatloaf helmet</b> <font size=1><br/>basic meat helmet (0) + ketchup (0)	none	none	none	none	none	none
 256	gatorskin umbrella (titanium)	gatorskin umbrella</b> <font size=1><br/>titanium assault umbrella (0) + gator skin (0)	none	none	none	none	none	none
-257	sticky meat kilt (male)	sticky meat kilt</b> <font size=1><br/>really really sticky spider web (0) + basic meat kilt	none	none	none	none	none
+257	sticky meat kilt (male)	sticky meat kilt</b> <font size=1><br/>really really sticky spider web (0) + basic meat kilt (0)	none	none	none	none	none
 258	white belt	none	none	none	none	none	none	none
 259	shin gourds	none	none	none	none	none	none	none
 260	Staff of the November Jack-O-Lantern	none	none	none	none	none	none	none
@@ -305,4 +305,4 @@
 305	space beast fur hat	none	none	none	none	none	none	none
 306	space beast fur pants	none	none	none	none	none	none	none
 307	space beast fur whip	none	none	none	none	none	none	none
-308	sticky meat kilt (female)	sticky meat kilt</b> <font size=1><br/>really really sticky spider web (0) + basic meat skirt	none	none	none	none	none
+308	sticky meat kilt (female)	sticky meat kilt</b> <font size=1><br/>really really sticky spider web (0) + basic meat skirt (0)	none	none	none	none	none

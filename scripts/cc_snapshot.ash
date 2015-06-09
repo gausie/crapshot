@@ -673,11 +673,29 @@ void main()
 		print("Checking simplied Manuel data", "olive");
 
 		ret = ret + "&manuelsimple=";
-		matcher m = create_matcher("([0-9]+) creatures[.]", manuelHTML);
-		while(find(m))
+		matcher m = create_matcher("casually(?:.*?)([0-9]+) creatures[.]", manuelHTML);
+		string researchVal = "0";
+		if(find(m))
 		{
-			ret = ret + "|" + group(m, 1);
+			researchVal = group(m,1);
 		}
+		ret = ret + "|" + researchVal;
+
+		m = create_matcher("thoroughly(?:.*?)([0-9]+) creatures[.]", manuelHTML);
+		researchVal = "0";
+		if(find(m))
+		{
+			researchVal = group(m,1);
+		}
+		ret = ret + "|" + researchVal;
+
+		m = create_matcher("exhaustively(?:.*?)([0-9]+) creatures[.]", manuelHTML);
+		researchVal = "0";
+		if(find(m))
+		{
+			researchVal = group(m,1);
+		}
+		ret = ret + "|" + researchVal;
 	}
 
 /*
