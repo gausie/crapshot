@@ -24,7 +24,7 @@ notify cheesecookie;
 	};
 
 	int s_si, s_sh, s_sy;
-	ItemImage [int] ascrewards, booze, concocktail, confood, conjewel, conmeat, conmisc, consmith, coolitems, familiars, food, hobopolis, rogueprogram, manuel, mritems, skills, slimetube, tattoos, trophies, warmedals, tracked;
+	ItemImage [int] ascrewards, booze, concocktail, confood, conmeat, conmisc, consmith, coolitems, familiars, food, hobopolis, rogueprogram, manuel, mritems, skills, slimetube, tattoos, trophies, warmedals, tracked;
 	string html, htmlkoldb, htmlscope, ret;
 	string bookshelfHtml, familiarNamesHtml;
 
@@ -386,7 +386,6 @@ void main()
 	load_current_map("cc_snapshot_ascensionrewards", ascrewards);
 	load_current_map("cc_snapshot_dis_cocktail", concocktail);
 	load_current_map("cc_snapshot_dis_food", confood);
-	load_current_map("cc_snapshot_dis_jewel", conjewel);
 	load_current_map("cc_snapshot_dis_meat", conmeat);
 	load_current_map("cc_snapshot_dis_smith", consmith);
 	load_current_map("cc_snapshot_dis_misc", conmisc);
@@ -491,14 +490,6 @@ void main()
 	foreach x in confood
 	{
 		isInDisco(confood[x].itemname, html, confood[x].gifname);
-	}
-
-	print("Checking for Discoveries [Jewelery]", "olive");
-	html = visit_url("craft.php?mode=discoveries&what=jewelry");
-	ret = ret + "&conjewel=";
-	foreach x in conjewel
-	{
-		isInDisco(conjewel[x].itemname, html, conjewel[x].gifname);
 	}
 
 	print("Checking for Discoveries [Meat Pasting]", "olive");

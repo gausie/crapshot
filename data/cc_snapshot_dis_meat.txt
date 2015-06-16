@@ -207,3 +207,60 @@
 207	opium grenade	none	none	none	none	none	none	none
 208	goblin bone hilt	none	none	none	none	none	none	none
 209	loose blade	none	none	none	none	none	none	none
+210	Choker of the Ultragoth	none	none	none	none	none	none
+211	Earring of Fire	none	none	none	none	none	none
+212	groovy prism necklace	none	none	none	none	none	none
+213	Ice-Cold Aluminum Necklace	none	none	none	none	none	none
+214	Ice-Cold Beer Ring	none	none	none	none	none	none
+215	Ice-Cold Beerring	none	none	none	none	none	none
+216	Mudflap-Girl Earring	none	none	none	none	none	none
+217	Mudflap-Girl Necklace	none	none	none	none	none	none
+218	Mudflap-Girl Ring	none	none	none	none	none	none
+219	Nose Ring of Putrescence	none	none	none	none	none	none
+220	Pendant of Fire	none	none	none	none	none	none
+221	Putrid Pendant	none	none	none	none	none	none
+222	Ring of Fire	none	none	none	none	none	none
+223	Ring of the Sewer Snake	none	none	none	none	none	none
+224	The Ring	none	none	none	none	none	none
+225	Unspeakable Earring	none	none	none	none	none	none
+226	filigreed hamethyst earring	none	none	none	none	none	none
+227	filigreed hamethyst necklace	none	none	none	none	none	none
+228	filigreed hamethyst ring	none	none	none	none	none	none
+229	pulled porquoise earring	none	none	none	none	none	none
+230	pulled porquoise pendant	none	none	none	none	none	none
+231	pulled porquoise ring	none	none	none	none	none	none
+232	solid baconstone earring	none	none	none	none	none	none
+233	solid baconstone necklace	none	none	none	none	none	none
+234	solid baconstone ring	none	none	none	none	none	none
+235	bezoar ring	none	none	none	none	none	none
+236	floaty rock necklace	none	none	none	none	none	none
+237	shark tooth necklace	none	none	none	none	none	none
+238	torquoise ring	none	none	none	none	none	none
+239	baconstone earring	none	none	none	none	none	none
+240	baconstone pendant	none	none	none	none	none	none
+241	baconstone ring	none	none	none	none	none	none
+242	hamethyst earring	none	none	none	none	none	none
+243	hamethyst necklace	none	none	none	none	none	none
+244	hamethyst ring	none	none	none	none	none	none
+245	porquoise eyebrow ring	none	none	none	none	none	none
+246	porquoise necklace	none	none	none	none	none	none
+247	porquoise ring	none	none	none	none	none	none
+248	vampire pearl earring	none	none	none	none	none	none
+249	vampire pearl necklace	none	none	none	none	none	none
+250	vampire pearl ring	none	none	none	none	none	none
+251	giant diamond ring	none	none	none	none	none	none	none
+252	bananarama bangle	none	none	none	none	none	none	none
+253	pair of pearidot earrings	none	none	none	none	none	none	none
+254	tourmalime tourniquet	none	none	none	none	none	none	none
+255	kumquartz ring	none	none	none	none	none	none	none
+256	strawberyl necklace	none	none	none	none	none	none	none
+257	aquamariner's necklace	none	none	none	none	none	none	none
+258	aquamariner's ring	none	none	none	none	none	none	none
+259	pearl diver's necklace	none	none	none	none	none	none	none
+260	pearl diver's ring	none	none	none	none	none	none	none
+261	doll-eye amulet	none	none	none	none	none	none	none
+262	moon-amber necklace	none	none	none	none	none	none	none
+263	Pendant of Gargalesis	none	none	none	none	none	none	none
+264	dark baconstone ring	none	none	none	none	none	none	none
+265	dark hamethyst ring	none	none	none	none	none	none	none
+266	dark porquoise ring	none	none	none	none	none	none	none
