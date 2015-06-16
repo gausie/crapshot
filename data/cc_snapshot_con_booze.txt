@@ -531,3 +531,4 @@
 531	Ye Olde Meade
 532	yellow drunki-bear
 533	pixel beer
+534	pixel daiquiri
