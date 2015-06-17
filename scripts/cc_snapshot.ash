@@ -548,7 +548,7 @@ void main()
 			break;
 
 			case "f":				//Familiar
-				if (index_of(html, "/" + mritems[x].a) > 0) { itemAmount = 1; }
+				if (index_of(html, "the " + mritems[x].a) > 0) { itemAmount = 1; }
 				itemAmount = itemAmount + i_a(to_item(mritems[x].gifname));
 			break;
 
