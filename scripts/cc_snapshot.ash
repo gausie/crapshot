@@ -517,6 +517,25 @@ void main()
 	}
 
 	print("Checking for Mr. Items", "olive");
+
+
+	if(!get_property("spookyAirportAlways").to_boolean() || !get_property("sleazeAirportAlways").to_boolean() || !get_property("stenchAirportAlways").to_boolean())
+	{
+		html = visit_url("place.php?whichplace=airport");
+		if(!get_property("spookyAirportAlways").to_boolean() && contains_text(html, "airport_spooky"))
+		{
+			set_property("spookyAirportAlways", user_confirm("Mafia does not think you have Conspiracy Island but it appears that you might. Select Yes to confirm that you have it. Select No to indicate that you do not have it."));
+		}
+		if(!get_property("sleazeAirportAlways").to_boolean() && contains_text(html, "airport_sleaze"))
+		{
+			set_property("sleazeAirportAlways", user_confirm("Mafia does not think you have Spring Break Beach but it appears that you might. Select Yes to confirm that you have it. Select No to indicate that you do not have it."));
+		}
+		if(!get_property("stenchAirportAlways").to_boolean() && contains_text(html, "airport_stench"))
+		{
+			set_property("stenchAirportAlways", user_confirm("Mafia does not think you have Disneylandfill but it appears that you might. Select Yes to confirm that you have it. Select No to indicate that you do not have it."));
+		}
+	}
+
 	html = familiarNamesHtml + bookshelfHtml;
 	ret = ret + "&mritems=";
 	foreach x in mritems
