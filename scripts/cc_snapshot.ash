@@ -226,7 +226,7 @@ void isInManuel(string monstername, string html, string firstFact)
 void famCheck(string name, string gifname, string hatchling)
 {
 	debug("Looking for familiar: " + name);
-	if(index_of(html, name) > 0)
+	if(index_of(html, "the " + name) > 0)
 	{
 		matcher m = create_matcher("alt=\"" + name + " .([0-9.]+)..", htmlkoldb);
 		float percent = 0.0;
@@ -362,7 +362,7 @@ void main()
 {
 	if(!get_property("kingLiberated").to_boolean())
 	{
-		if(!user_confirm("This script should not be run while you are in-run. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it in aftercore. Are you sure you want to run it (not recommended)?"))
+		if(!user_confirm("This script should not be run while you are in-run. It may blank out some of your skills, telescope, bookshelf or some other aspect of your profile until you next run it in aftercore. Are you sure you want to run it (not recommended)?", 15000, false))
 		{
 			abort("User aborted. Beep");
 		}
@@ -524,15 +524,15 @@ void main()
 		html = visit_url("place.php?whichplace=airport");
 		if(!get_property("spookyAirportAlways").to_boolean() && contains_text(html, "airport_spooky"))
 		{
-			set_property("spookyAirportAlways", user_confirm("Mafia does not think you have Conspiracy Island but it appears that you might. Select Yes to confirm that you have it. Select No to indicate that you do not have it."));
+			set_property("spookyAirportAlways", user_confirm("Mafia does not think you have Conspiracy Island but it appears that you might. Select Yes to confirm that you have it. Select No to indicate that you do not have it.", 15000, false));
 		}
 		if(!get_property("sleazeAirportAlways").to_boolean() && contains_text(html, "airport_sleaze"))
 		{
-			set_property("sleazeAirportAlways", user_confirm("Mafia does not think you have Spring Break Beach but it appears that you might. Select Yes to confirm that you have it. Select No to indicate that you do not have it."));
+			set_property("sleazeAirportAlways", user_confirm("Mafia does not think you have Spring Break Beach but it appears that you might. Select Yes to confirm that you have it. Select No to indicate that you do not have it.", 15000, false));
 		}
 		if(!get_property("stenchAirportAlways").to_boolean() && contains_text(html, "airport_stench"))
 		{
-			set_property("stenchAirportAlways", user_confirm("Mafia does not think you have Disneylandfill but it appears that you might. Select Yes to confirm that you have it. Select No to indicate that you do not have it."));
+			set_property("stenchAirportAlways", user_confirm("Mafia does not think you have Disneylandfill but it appears that you might. Select Yes to confirm that you have it. Select No to indicate that you do not have it.", 15000, false));
 		}
 	}
 
@@ -548,7 +548,7 @@ void main()
 			break;
 
 			case "f":				//Familiar
-				if (index_of(html, mritems[x].a) > 0) { itemAmount = 1; }
+				if (index_of(html, "/" + mritems[x].a) > 0) { itemAmount = 1; }
 				itemAmount = itemAmount + i_a(to_item(mritems[x].gifname));
 			break;
 
