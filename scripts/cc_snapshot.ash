@@ -550,7 +550,6 @@ void main()
 			case "f":				//Familiar
 				if (index_of(html, "the " + mritems[x].a) > 0) { itemAmount = 1; }
 				itemAmount = itemAmount + i_a(to_item(mritems[x].gifname));
-				itemAmount = itemAmount + i_a(to_item(mritems[x].itemname));
 			break;
 
 			case "g":				//Garden Stuff
@@ -582,7 +581,6 @@ void main()
 
 			case "e":				// visit page, check for matching text
 				itemAmount = i_a(to_item(mritems[x].gifname));
-				itemAmount = itemAmount + i_a(to_item(mritems[x].itemname));
 				if(contains_text(visit_url(mritems[x].a), mritems[x].b))
 				{
 					itemAmount = itemAmount + 1;
