@@ -296,7 +296,7 @@
 296	green eggnog
 297	Desert Island Iced Tea
 298	Jerkitini
-299	Horseradish-infused Vodka 
+299	Horseradish-infused Vodka
 300	Jeppson's Malort
 301	Zoodriver
 302	Grasshopper
@@ -447,10 +447,10 @@
 447	glass of &quot;milk&quot;
 448	glass of bourbon
 449	glass of herbal tequila
-450	green drunki-bear
+450	
 451	Green Manalishi
 452	Highest Bitter
-453	Horseradish-infused Vodka
+453	
 454	Hot Buttered Rum
 455	hot mint schnocolate
 456	Hot Socks
@@ -489,7 +489,7 @@
 489	premium malt liquor
 490	Psychotic Train wine
 491	Radberry Rip wine cooler
-492	red drunki-bear
+492	
 493	red hot boilermaker
 494	red red wine
 495	red rum
@@ -529,6 +529,7 @@
 529	white wine
 530	Xiblaxian space-whiskey
 531	Ye Olde Meade
-532	yellow drunki-bear
+532	
 533	pixel beer
 534	pixel daiquiri
+535	flask of peppermint schnapps
