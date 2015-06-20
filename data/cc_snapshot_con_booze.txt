@@ -532,4 +532,3 @@
 532	
 533	pixel beer
 534	pixel daiquiri
-535	flask of peppermint schnapps
