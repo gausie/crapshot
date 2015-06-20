@@ -66,7 +66,9 @@ boolean load_current_map(string fname, ItemImage[int] map)
 
 void hasConsumed(string name, string html)
 {
-	if(index_of(to_lower_case(html), ">"+to_lower_case(name)+"</a>") > 0)
+	name = to_lower_case(name);
+	matcher m = create_matcher(">\\s*" + name + "(?:\\s*)</a>", to_lower_case(html));
+	if(find(m))
 	{
 		ret = ret + "|1";
 	}
