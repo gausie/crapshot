@@ -193,5 +193,7 @@
 194	Ed	class17
 195	Ed HC	class17hc
 196	Dinsey tattoo kit	dinseytat
-197	Wart Dinsey	wdbraintat	dinsey's brain	dinsey's pizza cutter	dinsey's radar dish	dinsey's pants	dinsey's oculus	dinsey's glove
+197	Dinsey's Brain Tattoo	wdbraintat	dinsey's brain	dinsey's pizza cutter	dinsey's radar dish	dinsey's pants	dinsey's oculus	dinsey's glove
 198	Toxic Togs	toxictat	isotophat	toxic mop	three mile island shorts
+199	Spelunker Tattoo	spelunktat	spelunker's fedora	spelunker's whip	spelunker's khakis
+200	Hot Ghost Tattoo	hotghosttat	ghast iron garibaldi	ghast iron cleaver	ghast iron heater shield	ghast iron codpiece
