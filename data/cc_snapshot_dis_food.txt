@@ -260,3 +260,8 @@
 276	Energy Buzz Pastaco	none	none	none	none	none	none	none
 277	Ludovico Pastaco	none	none	none	none	none	none	none
 278	Medical Pastaco	none	none	none	none	none	none	none
+279	acceptable bagel	none	none	none	none	none	none	none
+280	loaf of soda bread	none	none	none	none	none	none	none
+281	magical baguette	none	none	none	none	none	none	none
+282	standard-issue cupcake	none	none	none	none	none	none	none
+283	ultra-deluxe cupcake	none	none	none	none	none	none	none

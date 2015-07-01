@@ -264,3 +264,6 @@
 264	dark baconstone ring	none	none	none	none	none	none	none
 265	dark hamethyst ring	none	none	none	none	none	none	none
 266	dark porquoise ring	none	none	none	none	none	none	none
+267	rainbow pearl earring	none	none	none	none	none	none	none
+268	rainbow pearl necklace	none	none	none	none	none	none	none
+269	rainbow pearl ring	none	none	none	none	none	none	none

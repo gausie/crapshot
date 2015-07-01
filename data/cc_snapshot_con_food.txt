@@ -692,3 +692,10 @@
 693	pixel lemon
 694	pie man was not meant to eat
 695	idiot brain
+696	standard-issue cupcake
+697	acceptable bagel
+698	loaf of soda bread
+699	magical baguette
+700	plain bagel
+701	popular tart
+702	ultra-deluxe cupcake
