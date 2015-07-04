@@ -183,7 +183,7 @@
 183	vial of jus de larmes	potion2
 184	lobster qua grill	lobstertail
 185	missing wine	missingwine
-186	humpty dumplings	bowl
+186	Humpty Dumplings	bowl
 187	ittah bittah hookah	hookah
 188	Dinsey's oculus	dinseyeye
 189	Dinsey's radar dish	dinseydish

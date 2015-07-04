@@ -197,3 +197,4 @@
 198	Toxic Togs	toxictat	isotophat	toxic mop	three mile island shorts
 199	Spelunker Tattoo	spelunktat	spelunker's fedora	spelunker's whip	spelunker's khakis
 200	Hot Ghost Tattoo	hotghosttat	ghast iron garibaldi	ghast iron cleaver	ghast iron heater shield	ghast iron codpiece
+201	Emperor Tattoo	emperortat	The Emperor's new hat	The Emperor's new shirt	The Emperor's new pants

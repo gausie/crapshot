@@ -332,3 +332,8 @@
 332	Dinsey Operations Expert	none	none	none	none	none
 333	Rotten Memories	none	none	none	none	none
 334	Mild Curse	none	none	none	none	none
+335	Ancestral Recall	none	none	none	none	none
+336	Dark Ritual	none	none	none	none	none
+337	Giant Growth	none	none	none	none	none
+338	Healing Salve	none	none	none	none	none
+339	Lightning Bolt	none	none	none	none	none
