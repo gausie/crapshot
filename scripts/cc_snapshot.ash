@@ -758,8 +758,7 @@ void main()
 	print("");
 	if(index_of(html, "success") > 0) {
 		print("Successfully done. Click the following URL to see your snapshot!", "green");
-		print_html("<a href=\"http://cheesellc.com/kol/profile.php?u="+my_name()+"\" target=\"_blank\">");
-		print_html("http://cheesellc.com/kol/profile.php?u="+my_name()+"</a>");
+		print_html("<a href=\"http://cheesellc.com/kol/profile.php?u="+my_name()+"\" target=\"_blank\">http://cheesellc.com/kol/profile.php?u="+my_name()+"</a>");
 #		print("Setup your snapshot profile here:", "green");
 #		print("http://cheesellc.com/kol/profile.setup.php?u="+my_name(), "red");
 	} else if(index_of(html, "fail") > 0) {
@@ -769,7 +768,7 @@ void main()
 	} else {
 		print("For some reason, the script isn't reporting a successful update.", "orange");
 		print("Visit the following URL to check your snapshot.", "orange");
-		print("http://cheesellc.com/kol/profile.php?u="+my_name(), "blue");
+		print_html("<a href=\"http://cheesellc.com/kol/profile.php?u="+my_name()+"\" target=\"_blank\">http://cheesellc.com/kol/profile.php?u="+my_name()+"</a>");
 		print("If it didn't work - try again later - my website may just be having some temporary downtime problems.", "orange");
 #		print("If it worked, you can setup your snapshot profile here:", "orange");
 #		print("http://cheesellc.com/kol/profile.setup.php?u="+my_name(), "red");
