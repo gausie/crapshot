@@ -265,3 +265,21 @@
 281	magical baguette	none	none	none	none	none	none	none
 282	standard-issue cupcake	none	none	none	none	none	none	none
 283	ultra-deluxe cupcake	none	none	none	none	none	none	none
+284	savory dry noodles	none	none	none	none	none	none	none
+285	bat&auml;tzle	none	none	none	none	none	none	none
+286	knob stroganoff	none	none	none	none	none	none	none
+287	knob stuffed shells	none	none	none	none	none	none	none
+288	menudo raviolo	none	none	none	none	none	none	none
+289	ratini	none	none	none	none	none	none	none
+290	hot hi mein	none	none	none	none	none	none	none
+291	cold hi mein	none	none	none	none	none	none	none
+292	sleazy hi mein	none	none	none	none	none	none	none
+293	spooky hi mein	none	none	none	none	none	none	none
+294	stinky hi mein	none	none	none	none	none	none	none
+295	fishy fish lasagna	none	none	none	none	none	none	none
+296	gnat lasagna	none	none	none	none	none	none	none
+297	long pork lasagna	none	none	none	none	none	none	none
+298	sausage wonton	none	none	none	none	none	none	none
+299	tofu wonton	none	none	none	none	none	none	none
+300	unfortunate dumplings	none	none	none	none	none	none	none
+301	wok lobster	none	none	none	none	none	none	none

@@ -316,7 +316,7 @@
 316	super salad
 317	Tin rations
 318	Tofu casserole
-319	Tofu chow mein
+319	knob stroganoff
 320	Tofu wonton
 321	Tofurkey leg
 322	Tofurkey nugget
@@ -346,7 +346,7 @@
 346	Knob lo mein
 347	Knoll lo mein
 348	Lihc eye pie
-349	Pr0n chow mein
+349	Menudo ravioli
 350	Pr0n m4nic0tti
 351	Shoots and leaves
 352	Single-serving herbal stuffing
@@ -355,7 +355,7 @@
 355	Spooky lo mein
 356	Star key lime pie
 357	S.T.L.T.
-358	Bat wing chow mein
+358	b&auml;tzle
 359	Bouillabaise Coucher Avec Moi
 360	Bowl of unidentifiable goo
 361	Brains casserole
@@ -365,9 +365,9 @@
 365	Gingerbread stir-fry
 366	Grimgerbread House
 367	Hot hi mein
-368	Knob sausage chow mein
+368	Knob stuffed shells
 369	Mind flayer corpse
-370	Rat appendix chow mein
+370	Ratini
 371	Red Herring Velvet Cake
 372	Sandwich of the gods
 373	Sleazy hi mein
