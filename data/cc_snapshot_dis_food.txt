@@ -266,10 +266,10 @@
 282	standard-issue cupcake	none	none	none	none	none	none	none
 283	ultra-deluxe cupcake	none	none	none	none	none	none	none
 284	savory dry noodles	none	none	none	none	none	none	none
-285	bat&auml;tzle	none	none	none	none	none	none	none
-286	knob stroganoff	none	none	none	none	none	none	none
-287	knob stuffed shells	none	none	none	none	none	none	none
-288	menudo raviolo	none	none	none	none	none	none	none
+285	b&auml;tzle	none	none	none	none	none	none	none
+286	Knob stroganoff	none	none	none	none	none	none	none
+287	Knob stuffed shells	none	none	none	none	none	none	none
+288	menudo ravioli	none	none	none	none	none	none	none
 289	ratini	none	none	none	none	none	none	none
 290	hot hi mein	none	none	none	none	none	none	none
 291	cold hi mein	none	none	none	none	none	none	none
