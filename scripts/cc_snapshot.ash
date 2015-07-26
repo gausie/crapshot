@@ -682,7 +682,7 @@ void main()
 	string manuelHTML = visit_url("questlog.php?which=6&vl=a");
 	if(contains_text(manuelHTML, "Monster Manuel"))
 	{
-		print("Checking simplied Manuel data", "olive");
+		print("Checking simplified Manuel data", "olive");
 
 		ret = ret + "&manuelsimple=";
 		matcher m = create_matcher("casually(?:.*?)([0-9]+) creature(s?)[.]", manuelHTML);

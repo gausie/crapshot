@@ -699,3 +699,17 @@
 700	plain bagel
 701	popular tart
 702	ultra-deluxe cupcake
+703	agnolotti arboli
+704	crudles
+705	fusilli marrownarrow
+706
+707	linguini immondizia bianco
+708	
+709	
+710	shells a la shellfish
+711	spaghetti with ghost balls
+712	suggestive strozzapreti
+713	Mt. McLargeHuge oyster
+714	pestopiary
+715	salacious crumbs
+716	succulent marrow
