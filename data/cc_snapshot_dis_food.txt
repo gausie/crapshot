@@ -283,3 +283,23 @@
 299	tofu wonton	none	none	none	none	none	none	none
 300	unfortunate dumplings	none	none	none	none	none	none	none
 301	wok lobster	none	none	none	none	none	none	none
+302	agnolotti arboli	none	none	none	none	none	none
+303	crudles	none	none	none	none	none	none
+304	fusilli marrownarrow	none	none	none	none	none	none
+305	ghuol guolash	none	none	none	none	none	none
+306	linguini immondizia bianco	none	none	none	none	none	none
+307	Mountain Stream gastrique	none	none	none	none	none	none
+308	oyster sauce	none	none	none	none	none	none
+309	Shells a la shellfish	none	none	none	none	none	none
+310	spaghetti with ghost balls	none	none	none	none	none	none
+311	suggestive strozzapreti	none	none	none	none	none	none
+312	libertagliatelle	none	none	none	none	none	none
+313	linguini of the sea	none	none	none	none	none	none
+314	devil hair pasta	none	none	none	none	none	none
+315	spagecialetti	none	none	none	none	none	none
+316	turkish mostaccioli	none	none	none	none	none	none
+317	good gravy	none	none	none	none	none	none
+318	salsa libre	none	none	none	none	none	none
+319	illicit fish sauce	none	none	none	none	none	none
+320	devil's elbow hot sauce	none	none	none	none	none	none
+321	special&trade; sauce	none	none	none	none	none	none
