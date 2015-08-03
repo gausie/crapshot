@@ -152,3 +152,4 @@
 152	f	yellow puck	Puck Man	puckman
 153	f	yellow puck with a bow on it	Ms. Puck Man	mspuckman
 154	o	Pack of Every Card	Deck of Every Card
+155	s	airplane charter: That 70s Volcano	hotAirportAlways
