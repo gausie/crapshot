@@ -290,7 +290,7 @@
 306	linguini immondizia bianco	none	none	none	none	none	none
 307	Mountain Stream gastrique	none	none	none	none	none	none
 308	oyster sauce	none	none	none	none	none	none
-309	Shells a la shellfish	none	none	none	none	none	none
+309	shells a la shellfish	none	none	none	none	none	none
 310	spaghetti with ghost balls	none	none	none	none	none	none
 311	suggestive strozzapreti	none	none	none	none	none	none
 312	libertagliatelle	none	none	none	none	none	none
@@ -299,7 +299,7 @@
 315	spagecialetti	none	none	none	none	none	none
 316	turkish mostaccioli	none	none	none	none	none	none
 317	good gravy	none	none	none	none	none	none
-318	salsa libre	none	none	none	none	none	none
+318	Salsa Libre	none	none	none	none	none	none
 319	illicit fish sauce	none	none	none	none	none	none
-320	devil's elbow hot sauce	none	none	none	none	none	none
-321	special&trade; sauce	none	none	none	none	none	none
+320	Devil's Elbow Hot Sauce	none	none	none	none	none	none
+321	Special&trade; Sauce	none	none	none	none	none	none

@@ -145,8 +145,6 @@ void regCheck(string checkthis, string html)
 
 void isInDisco(string name, string html, string a)
 {
-	name = to_lower_case(name);
-	a = to_lower_case(name);
 	if(a != "none")
 	{
 		regCheck(a, html);
@@ -481,7 +479,7 @@ void main()
 	}
 
 	print("Checking for Discoveries [Cocktail]", "olive");
-	html = to_lower_case(visit_discoveries("craft.php?mode=discoveries&what=cocktail"));
+	html = visit_discoveries("craft.php?mode=discoveries&what=cocktail");
 	ret = ret + "&concocktail=";
 	foreach x in concocktail
 	{
@@ -489,7 +487,7 @@ void main()
 	}
 
 	print("Checking for Discoveries [Food]", "olive");
-	html = to_lower_case(visit_discoveries("craft.php?mode=discoveries&what=cook"));
+	html = visit_discoveries("craft.php?mode=discoveries&what=cook");
 	ret = ret + "&confood=";
 	foreach x in confood
 	{
