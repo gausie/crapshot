@@ -495,7 +495,7 @@ void main()
 	}
 
 	print("Checking for Discoveries [Meat Pasting]", "olive");
-	html = to_lower_case(visit_discoveries("craft.php?mode=discoveries&what=combine"));
+	html = visit_discoveries("craft.php?mode=discoveries&what=combine");
 	ret = ret + "&conmeat=";
 	foreach x in conmeat
 	{
