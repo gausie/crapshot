@@ -529,6 +529,9 @@
 529	white wine
 530	Xiblaxian space-whiskey
 531	Ye Olde Meade
-532	
+532	asbestos thermos
 533	pixel beer
 534	pixel daiquiri
+535	Gold Velvet&trade; whiskey
+536	lavawater
+537	Quaatorade&trade;
