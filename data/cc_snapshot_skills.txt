@@ -337,3 +337,6 @@
 337	Giant Growth	none	none	none	none	none
 338	Healing Salve	none	none	none	none	none
 339	Lightning Bolt	none	none	none	none	none
+340	Asbestos Heart	none	none	none	none	none
+341	Firegate	none	none	none	none	none
+342	Pyromania	none	none	none	none	none

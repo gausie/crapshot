@@ -134,3 +134,14 @@
 134	space heater	none	none	none	none	none	none	none
 135	space invader	none	none	none	none	none	none	none
 136	space needle	none	none	none	none	none	none	none
+137	SMOOCH bracers	none	none	none	none	none	none	none
+138	SMOOCH breastplate	none	none	none	none	none	none	none
+139	SMOOCH codpiece	none	none	none	none	none	none	none
+140	SMOOCH kneepads	none	none	none	none	none	none	none
+141	SMOOCH spaulders	none	none	none	none	none	none	none
+142	smooth velvet hanky	none	none	none	none	none	none	none
+143	smooth velvet hat	none	none	none	none	none	none	none
+144	smooth velvet pants	none	none	none	none	none	none	none
+145	smooth velvet pocket square	none	none	none	none	none	none	none
+146	smooth velvet shirt	none	none	none	none	none	none	none
+147	smooth velvet socks	none	none	none	none	none	none	none
