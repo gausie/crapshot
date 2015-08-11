@@ -267,3 +267,10 @@
 267	rainbow pearl earring	none	none	none	none	none	none	none
 268	rainbow pearl necklace	none	none	none	none	none	none	none
 269	rainbow pearl ring	none	none	none	none	none	none	none
+270	insulated gold wire	none	none	none	none	none	none	none
+271	capped blue lava bottle	none	none	none	none	none	none	none
+272	capped green lava bottle	none	none	none	none	none	none	none
+273	capped red lava bottle	none	none	none	none	none	none	none
+274	blue LavaCo Lamp&trade;	none	none	none	none	none	none	none
+275	green LavaCo Lamp&trade;	none	none	none	none	none	none	none
+276	red LavaCo Lamp&trade;	none	none	none	none	none	none	none
