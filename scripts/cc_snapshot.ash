@@ -22,6 +22,7 @@ since r16114;
 		string d;
 		string e;
 		string f;
+		string g;
 	};
 
 	int s_si, s_sh, s_sy;
@@ -301,7 +302,7 @@ void isInSkill(string name, string html, string overwrite)
 	}
 }
 
-void tattooCheck(string outfit, string gif, string i1, string i2, string i3, string i4, string i5, string i6)
+void tattooCheck(string outfit, string gif, string i1, string i2, string i3, string i4, string i5, string i6, string i7)
 {
 	if(last_index_of(html, "/"+gif+".gif") > 0)
 	{
@@ -310,6 +311,10 @@ void tattooCheck(string outfit, string gif, string i1, string i2, string i3, str
 	else
 	{
 		boolean hasallitems = (i_a(i1) > 0);
+		if((i7 != "none") && (i7 != ""))
+		{
+			hasallitems = hasallitems && (i_a(i7) > 0);
+		}
 		if((i6 != "none") && (i6 != ""))
 		{
 			hasallitems = hasallitems && (i_a(i6) > 0);
@@ -416,7 +421,7 @@ void main()
 	ret = ret + "&tattoos=";
 	foreach x in tattoos
 	{
-		tattooCheck(tattoos[x].itemname, tattoos[x].gifname, tattoos[x].a, tattoos[x].b, tattoos[x].c, tattoos[x].d, tattoos[x].e, tattoos[x].f);
+		tattooCheck(tattoos[x].itemname, tattoos[x].gifname, tattoos[x].a, tattoos[x].b, tattoos[x].c, tattoos[x].d, tattoos[x].e, tattoos[x].f, tattoos[x].g);
 	}
 
 	print("Checking trophies...", "olive");
