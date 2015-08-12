@@ -304,3 +304,9 @@
 320	Devil's Elbow Hot Sauce	none	none	none	none	none	none
 321	Special&trade; Sauce	none	none	none	none	none	none
 322	lava cake	none	none	none	none	none	none
+323	Alexy sauce	none	none	none	none	none	none
+324	Fettris	none	none	none	none	none	none
+325	fusillocybin	none	none	none	none	none	none
+326	rainbow sauce	none	none	none	none	none	none
+327	drug cocktail sauce	none	none	none	none	none	none
+328	prescription sauce	none	none	none	none	none	none

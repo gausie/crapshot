@@ -723,3 +723,6 @@
 724	smelted roe
 725	SMOOCH soda
 726	very hot lunch
+727	Fettris
+728	fusillocybin
+729	prescription noodles
