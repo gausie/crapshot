@@ -145,3 +145,4 @@
 145	smooth velvet pocket square	none	none	none	none	none	none	none
 146	smooth velvet shirt	none	none	none	none	none	none	none
 147	smooth velvet socks	none	none	none	none	none	none	none
+148	smooth velvet bra	none	none	none	none	none	none	none
