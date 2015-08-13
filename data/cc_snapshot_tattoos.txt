@@ -198,3 +198,5 @@
 199	Spelunker Tattoo	spelunktat	spelunker's fedora	spelunker's whip	spelunker's khakis
 200	Hot Ghost Tattoo	hotghosttat	ghast iron garibaldi	ghast iron cleaver	ghast iron heater shield	ghast iron codpiece
 201	Emperor Tattoo	emperortat	The Emperor's new hat	The Emperor's new shirt	The Emperor's new pants
+202	SMOOCH Tattoo	smoochtat	SMOOCH breastplate	SMOOCH codpiece	SMOOCH bracers	SMOOCH kneepads	SMOOCH spaulders
+203	DEBBIE Tattoo	debbietat

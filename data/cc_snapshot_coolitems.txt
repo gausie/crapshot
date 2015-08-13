@@ -238,3 +238,13 @@
 238	Sister Accessory	sisteracc
 239	Mr. Accessory Jr.	babyacc
 240	Uncle Buck	unclebuck
+241	Sword of the Brouhaha Prince	vampsword
+242	Chalice of the Malkovich Prince	vampchalice
+243	Sceptre of the Torremolinos Prince	vampsceptre
+244	Medallion of the Ventrilo Prince	vampmedal
+245	The Legendary Beat	notes
+246	Ellsbury's skull	smartskull
+247	The Landscaper's leafblower	leafblower
+248	lavalarva	lavalarva
+249	basaltamander buckler	basbuckler
+250	lava balaclava	lavaclava
