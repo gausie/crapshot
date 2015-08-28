@@ -248,3 +248,5 @@
 248	lavalarva	lavalarva
 249	basaltamander buckler	basbuckler
 250	lava balaclava	lavaclava
+251	powdered dice	scpowder
+252	Thwaitgold termite statuette	thwaittermite
