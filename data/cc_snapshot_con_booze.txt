@@ -535,3 +535,5 @@
 535	Gold Velvet&trade; whiskey
 536	lavawater
 537	Quaatorade&trade;
+538	emergency margarita
+539	vintage smart drink
