@@ -153,4 +153,4 @@
 153	f	yellow puck with a bow on it	Ms. Puck Man	mspuckman
 154	o	Pack of Every Card	Deck of Every Card
 155	s	airplane charter: That 70s Volcano	hotAirportAlways
-156	e	shrine to the Barrel god	da.php	Shrine to the Barrel god
+156	s	shrine to the Barrel god	barrelShrineUnlocked

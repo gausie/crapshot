@@ -181,4 +181,4 @@
 181	Baby Mayonnaise Wasp	mayowasp	newly-hatched mayonnaise wasp
 182	Puck Man	puckman	yellow puck
 183	Ms. Puck Man	mspuckman	yellow puck with a bow on it
-184	Lil' Barrel Mimic	barrelmimic	baby barrel mimic
+184	Lil' Barrel Mimic	barrelmimic	little barrel
