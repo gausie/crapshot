@@ -274,3 +274,8 @@
 274	blue LavaCo Lamp&trade;	none	none	none	none	none	none	none
 275	green LavaCo Lamp&trade;	none	none	none	none	none	none	none
 276	red LavaCo Lamp&trade;	none	none	none	none	none	none	none
+277	double barreled barrel gun	none	none	none	none	none	none	none
+278	triple barreled barrel gun	none	none	none	none	none	none	none
+279	barrel beryl nose ring	none	none	none	none	none	none	none
+280	barrel beryl choker	none	none	none	none	none	none	none
+281	barrel beryl ring	none	none	none	none	none	none	none
