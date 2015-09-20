@@ -250,3 +250,6 @@
 250	lava balaclava	lavaclava
 251	powdered dice	scpowder
 252	Thwaitgold termite statuette	thwaittermite
+253	biker's hat	bikerhat
+254	feathered headdress	headdress
+255	electrician's hardhat	hardhat
