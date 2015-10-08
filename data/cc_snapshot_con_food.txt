@@ -728,3 +728,6 @@
 729	prescription noodles
 730	sausage without a cause
 731	weird gazelle steak
+732	bowl of eyeballs
+733	bowl of mummy guts
+734	bowl of maggots

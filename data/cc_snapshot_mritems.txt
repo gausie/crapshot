@@ -154,3 +154,4 @@
 154	o	Pack of Every Card	Deck of Every Card
 155	s	airplane charter: That 70s Volcano	hotAirportAlways
 156	s	shrine to the Barrel god	barrelShrineUnlocked
+157	e	Haunted Doghouse	campground.php?action=doghouse	Spoopy

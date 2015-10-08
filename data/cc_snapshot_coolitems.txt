@@ -253,3 +253,4 @@
 253	biker's hat	bikerhat
 254	feathered headdress	headdress
 255	electrician's hardhat	hardhat
+256	Royal scepter	scepter

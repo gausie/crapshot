@@ -537,3 +537,6 @@
 537	Quaatorade&trade;
 538	emergency margarita
 539	vintage smart drink
+540	blood and blood
+541	Jack-O-Lantern beer
+542	zombie
