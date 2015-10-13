@@ -254,11 +254,11 @@
 254	feathered headdress	headdress
 255	electrician's hardhat	hardhat
 256	Royal scepter	scepter
-257 blue LavaCo Lamp&trade	lavalamp
-258 green LavaCo Lamp&trade	lavalamp
-259 red LavaCo Lamp&trade	lavalamp
+257	blue LavaCo Lamp&trade;	lavalamp
+258	green LavaCo Lamp&trade;	lavalamp
+259	red LavaCo Lamp&trade;	lavalamp
 260	Lavalos's shell	lavashell
-261	Mr. Cheeng's spectacles	Chongglasses
+261	Mr. Cheeng's spectacles	chongglasses
 262	The One Mood Ring	onemoodring
 263	little deuce cape	deucecape
 264	Pener's drumstick	drumstick
