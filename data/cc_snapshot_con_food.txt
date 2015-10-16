@@ -731,3 +731,4 @@
 732	bowl of eyeballs
 733	bowl of mummy guts
 734	bowl of maggots
+735	hamlet sandwich

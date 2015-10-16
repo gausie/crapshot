@@ -540,3 +540,4 @@
 540	blood and blood
 541	Jack-O-Lantern beer
 542	zombie
+543	ghost beer
