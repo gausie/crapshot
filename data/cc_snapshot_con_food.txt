@@ -732,3 +732,6 @@
 733	bowl of mummy guts
 734	bowl of maggots
 735	hamlet sandwich
+736	barrel cracker
+737	barrel pickle
+738	water log

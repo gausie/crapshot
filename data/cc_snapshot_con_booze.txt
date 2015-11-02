@@ -541,3 +541,5 @@
 541	Jack-O-Lantern beer
 542	zombie
 543	ghost beer
+544	barrel-aged martini
+545	bottle of Amontillado
