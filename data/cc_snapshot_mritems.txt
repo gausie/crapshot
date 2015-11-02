@@ -155,3 +155,4 @@
 155	s	airplane charter: That 70s Volcano	hotAirportAlways
 156	s	shrine to the Barrel god	barrelShrineUnlocked
 157	e	Haunted Doghouse	campground.php?action=doghouse	Spoopy
+158	s	airplane charter: The Glaciest	coldAirportAlways

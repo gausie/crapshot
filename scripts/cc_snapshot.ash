@@ -527,7 +527,7 @@ void main()
 	print("Checking for Mr. Items", "olive");
 
 
-	if(!get_property("spookyAirportAlways").to_boolean() || !get_property("sleazeAirportAlways").to_boolean() || !get_property("stenchAirportAlways").to_boolean() || !get_property("hotAirportAlways").to_boolean())
+	if(!get_property("spookyAirportAlways").to_boolean() || !get_property("sleazeAirportAlways").to_boolean() || !get_property("stenchAirportAlways").to_boolean() || !get_property("coldAirportAlways").to_boolean() || !get_property("hotAirportAlways").to_boolean())
 	{
 		html = visit_url("place.php?whichplace=airport");
 		if(!get_property("spookyAirportAlways").to_boolean() && contains_text(html, "airport_spooky"))
@@ -545,6 +545,10 @@ void main()
 		if(!get_property("hotAirportAlways").to_boolean() && contains_text(html, "airport_hot"))
 		{
 			set_property("hotAirportAlways", user_confirm("Mafia does not think you have That 70s Volcano but it appears that you might. Select Yes to confirm that you have it. Select No to indicate that you do not have it.", 15000, false));
+		}
+		if(!get_property("coldAirportAlways").to_boolean() && contains_text(html, "airport_cold"))
+		{
+			set_property("coldAirportAlways", user_confirm("Mafia does not think you have The Glaciest but it appears that you might. Select Yes to confirm that you have it. Select No to indicate that you do not have it.", 15000, false));
 		}
 	}
 
