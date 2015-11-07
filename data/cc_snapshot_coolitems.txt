@@ -263,3 +263,9 @@
 263	little deuce cape	deucecape
 264	Pener's drumstick	drumstick
 265	love	happiness
+266	Wal-Mart snowglobe	walglobe
+267	Wal-Mart nametag	waltag
+268	Wal-Mart overalls	walveralls
+269	octolus-skin cloak	octocloak
+270	norwhal helmet	vikinghat
+271	sardine can key	sardinekey

@@ -178,3 +178,9 @@
 178	Irish Coffee, English Heart	none	none	none	none	none	none	none
 179	Paint A Vulgar Pitcher	none	none	none	none	none	none	none
 180	Strikes Again Bigmouth	none	none	none	none	none	none	none
+181	perfect cosmopolitan	none	none	none	none	none	none	none
+182	perfect dark and stormy	none	none	none	none	none	none	none
+183	perfect mimosa	none	none	none	none	none	none	none
+184	perfect negroni	none	none	none	none	none	none	none
+185	perfect old-fashioned	none	none	none	none	none	none	none
+186	perfect paloma	none	none	none	none	none	none	none

@@ -201,3 +201,4 @@
 202	SMOOCH Tattoo	smoochtat	SMOOCH breastplate	SMOOCH codpiece	SMOOCH bracers	SMOOCH kneepads	SMOOCH spaulders
 203	DEBBIE Tattoo	debbietat
 204	Cooper's Couture	barreltat	chest barrel	barrelhead	bottoms of the barrel
+205	Wal-Mart Tattoo	waltat

@@ -341,3 +341,7 @@
 341	Firegate	none	none	none	none	none
 342	Pyromania	none	none	none	none	none
 343	Calculate the Universe	none	none	none	none	none
+344	Perfect Freeze	none	none	none	none	none
+345	Refusal to Freeze	none	none	none	none	none
+346	Beardfreeze	none	none	none	none	none
+347	Frost Bite	none	none	none	none	none

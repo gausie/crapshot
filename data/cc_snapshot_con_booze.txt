@@ -543,3 +543,13 @@
 543	ghost beer
 544	barrel-aged martini
 545	bottle of Amontillado
+546	VYKEA mead
+547	bottle of norwhiskey
+548	ice porter
+549	ice wine
+550	perfect cosmopolitan
+551	perfect dark and stormy
+552	perfect mimosa
+553	perfect negroni
+554	perfect old-fashioned
+555	perfect paloma
