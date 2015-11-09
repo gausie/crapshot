@@ -141,3 +141,4 @@
 141	Golden Idol	bananarama_crux	Beat Lolmec
 142	Golden Moustache	badonkadonkus_flex	Beat Yomama
 143	Golden Burglar	banangrama_xer	Beat 10 Shopkeepers in Spelunky
+144	Bucket List	anger_management_about_schmidt	Fill 10 Walford Buckets
