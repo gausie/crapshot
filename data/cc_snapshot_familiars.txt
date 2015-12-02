@@ -182,3 +182,5 @@
 182	Puck Man	puckman	yellow puck
 183	Ms. Puck Man	mspuckman	yellow puck with a bow on it
 184	Lil' Barrel Mimic	barrelmimic	tiny barrel
+185	Machine Elf	machelf	machine elf capsule
+186	Choctopus	choctopus	Gratitude chocolate (octopus-filled)
