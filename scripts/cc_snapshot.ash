@@ -69,6 +69,8 @@ boolean load_current_map(string fname, ItemImage[int] map)
 void hasConsumed(string name, string html)
 {
 	name = to_lower_case(name);
+	name = replace_string(name, "(", "\\(");
+	name = replace_string(name, ")", "\\)");
 	matcher m = create_matcher(">\\s*" + name + "(?:\\s*)</a>", to_lower_case(html));
 	if(find(m))
 	{
