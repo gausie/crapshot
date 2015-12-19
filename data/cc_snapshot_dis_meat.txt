@@ -279,3 +279,4 @@
 279	barrel beryl nose ring	none	none	none	none	none	none	none
 280	barrel beryl choker	none	none	none	none	none	none	none
 281	barrel beryl ring	none	none	none	none	none	none	none
+282	pine cone necklace	none	none	none	none	none	none	none
