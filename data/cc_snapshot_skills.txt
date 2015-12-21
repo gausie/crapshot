@@ -345,3 +345,4 @@
 345	Refusal to Freeze	none	none	none	none	none
 346	Beardfreeze	none	none	none	none	none
 347	Frost Bite	none	none	none	none	none
+348	Communism!	none	none	none	none	none
