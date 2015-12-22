@@ -269,3 +269,4 @@
 269	octolus-skin cloak	octocloak
 270	norwhal helmet	vikinghat
 271	sardine can key	sardinekey
+272	Staff of the Electric Range	elecstaff
