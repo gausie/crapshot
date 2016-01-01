@@ -157,3 +157,4 @@
 157	e	Haunted Doghouse	campground.php?action=doghouse	Spoopy
 158	s	airplane charter: The Glaciest	coldAirportAlways
 159	f	machine elf capsule	Machine Elf	machelf
+160	s	X-32-F snowman crate	snojoAvailable
