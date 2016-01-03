@@ -202,3 +202,5 @@
 203	DEBBIE Tattoo	debbietat
 204	Cooper's Couture	barreltat	chest barrel	barrelhead	bottoms of the barrel
 205	Wal-Mart Tattoo	walmarttat
+206	Wicker Wear	wickertat	wicker kickers	wicker slicker	wicker knickers	wicker ticker	wicker sticker	wicker clicker
+207	Bakelite Brigandine	baketat	bakelite belt	bakelite badge	bakelite bowl	bakelite brooch	bakelite breeches	bakelite backpack

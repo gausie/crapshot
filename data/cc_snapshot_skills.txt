@@ -346,3 +346,6 @@
 346	Beardfreeze	none	none	none	none	none
 347	Frost Bite	none	none	none	none	none
 348	Communism!	none	none	none	none	none
+349	Shattering Punch	none	none	none	none	none
+350	Shivering Monkey	none	none	none	none	none
+351	Snoke Bomb	none	none	none	none	none

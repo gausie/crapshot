@@ -34,3 +34,15 @@
 34	dice-print pajama pants	dicepants
 35	dice-print do-rag	dicerag
 36	dice sunglasses	diceglasses
+37	wicker kickers	wickerkickers
+38	wicker slicker	wickerslicker
+39	wicker knickers	wickerknickers
+40	wicker ticker	wickerticker
+41	wicker sticker	wickersticker
+42	wicker clicker	wickerclicker
+43	bakelite belt	bakebelt
+44	bakelite badge	bakebadge
+45	bakelite bowl	bakebowl
+46	bakelite brooch	bakebrooch
+47	bakelite breeches	bakebreeches
+48	bakelite backpack	bakepack

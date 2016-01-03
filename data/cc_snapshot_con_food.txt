@@ -740,3 +740,4 @@
 741	tin of submardines
 742	bread line
 743	Crimbo salad
+744	ice rice
