@@ -142,3 +142,4 @@
 142	Golden Moustache	badonkadonkus_flex	Beat Yomama
 143	Golden Burglar	banangrama_xer	Beat 10 Shopkeepers in Spelunky
 144	Bucket List	anger_management_about_schmidt	Fill 10 Walford Buckets
+145	Some Assembly Required	college_kids_and_divorced_men	Assemble 6 Different Typoes of VYKEA Furniture
