@@ -271,3 +271,18 @@
 271	sardine can key	sardinekey
 272	Staff of the Electric Range	elecstaff
 273	Martialest Arts trophy	karatetrophy
+274	Amoon-Ra Cowtep's nemes	nemes
+275	Daisy's unclean bloomers	daisybloomers
+276	Fancy Jeff's fancy pocket square	fancysquare
+277	Former Sheriff Dan's tin star	danstar
+278	Glenn's golden dice	golddice
+279	El Vibrato restraints	lvcuff
+280	Clara's bell	clarabell
+281	Granny Hackleton's Gatling gun	grannygat
+282	western-style skinning knife	skinknife
+283	reliable sixgun	sixgun4
+284	steel knuckles	knuckles
+285	replica bat-oomerang	batarang
+286	The Jokester's pants	tuxpants
+287	The Jokester's wig	jokerwig
+288	The Jokester's gun	sixshooter

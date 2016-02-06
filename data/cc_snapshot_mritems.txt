@@ -158,3 +158,5 @@
 158	s	airplane charter: The Glaciest	coldAirportAlways
 159	f	machine elf capsule	Machine Elf	machelf
 160	s	X-32-F snowman crate	snojoAvailable
+161	f	basking robin	Rockin' Robin	rockinrobin
+162	s	LT&T telegraph office dead	telegraphOfficeAvailable

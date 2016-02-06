@@ -741,3 +741,15 @@
 742	bread line
 743	Crimbo salad
 744	ice rice
+745	robin flan
+746	Mr. Burnsger
+747	The Plumber's mushroom stew
+748	Kudzu salad
+749	bear claw
+750	firemilk
+751	moomy dust
+752	plate of Heimz Fortified Kidney Beans
+753	plate of Mixed Garbanzos and Chickpeas
+754	plate of Tesla's Electroplated Beans
+755	rotting beefsteak
+756	tainted milk

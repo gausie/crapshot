@@ -280,3 +280,5 @@
 280	barrel beryl choker	none	none	none	none	none	none	none
 281	barrel beryl ring	none	none	none	none	none	none	none
 282	pine cone necklace	none	none	none	none	none	none	none
+283	nicksilver ring	none	none	none	none	none	none	none
+284	ticksilver ring	none	none	none	none	none	none	none

@@ -5,3 +5,4 @@
 5	Slimy Sinews	sisinews	skillLevel46	10
 6	Slimy Synapses	sibrain	skillLevel47	10
 7	Slimy Shoulders	sebashield	skillLevel48	10
+8	Toggle Optimality	bigredbutton	skillLevel7254	11

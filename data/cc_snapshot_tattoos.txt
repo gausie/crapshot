@@ -204,3 +204,6 @@
 205	Wal-Mart Tattoo	walmarttat
 206	Wicker Wear	wickertat	wicker kickers	wicker slicker	wicker knickers	wicker ticker	wicker sticker	wicker clicker
 207	Bakelite Brigandine	baketat	bakelite belt	bakelite badge	bakelite bowl	bakelite brooch	bakelite breeches	bakelite backpack
+208	LT&T Tattoo	ltttat
+209	Batfellow Tattoo	batmantat
+210	The Jokester's Tattoo	jokestertat	The Jokester's pants	The Jokester's wig	The Jokester's gun
