@@ -747,9 +747,14 @@
 748	Kudzu salad
 749	bear claw
 750	firemilk
-751	
+751	plate of Frigid Northern Beans
 752	plate of Heimz Fortified Kidney Beans
 753	plate of Mixed Garbanzos and Chickpeas
 754	plate of Tesla's Electroplated Beans
 755	rotting beefsteak
 756	tainted milk
+757	plate of Hellfire Spicy Beans
+758	plate of Pork 'n' Pork 'n' Pork 'n' Beans
+759	plate of Shrub's Premium Baked Beans
+760	plate of Trader Olaf's Exotic Stinkbeans
+761	plate of World's Blackest-Eyed Peas
