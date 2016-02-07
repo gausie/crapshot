@@ -747,7 +747,7 @@
 748	Kudzu salad
 749	bear claw
 750	firemilk
-751	moomy dust
+751	
 752	plate of Heimz Fortified Kidney Beans
 753	plate of Mixed Garbanzos and Chickpeas
 754	plate of Tesla's Electroplated Beans
