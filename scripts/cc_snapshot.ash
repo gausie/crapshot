@@ -1,6 +1,6 @@
 script "snapshot.ash";
 notify cheesecookie;
-since r16586;
+since r16665;
 
 #	This is a fork of bumcheekcity's snapshot script.
 #	Code comes straight from that. Website layout is copied from it.
@@ -299,7 +299,13 @@ void isInSkill(string name, string html, string overwrite)
 		} else {
 			ret = ret + "|2";
 		}
-	} else {
+	}
+	else if(have_skill(to_skill(name)))
+	{
+		ret = ret + "|1";
+	}
+	else
+	{
 		ret = ret + "|";
 	}
 }
