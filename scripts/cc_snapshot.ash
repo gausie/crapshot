@@ -300,7 +300,7 @@ void isInSkill(string name, string html, string overwrite)
 			ret = ret + "|2";
 		}
 	}
-	else if(have_skill(to_skill(name)))
+	else if((name == "Toggle Optimality") && have_skill(to_skill(name)))
 	{
 		ret = ret + "|1";
 	}
