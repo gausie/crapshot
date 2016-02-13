@@ -306,3 +306,10 @@
 306	space beast fur pants	none	none	none	none	none	none	none
 307	space beast fur whip	none	none	none	none	none	none	none
 308	sticky meat kilt (female)	sticky meat kilt</b> <font size=1><br/>really really sticky spider web (0) + basic meat skirt (0)	none	none	none	none	none
+309	nicksilver spurs	none	none	none	none	none	none	none
+310	quicksilver spurs	none	none	none	none	none	none	none
+311	sicksilver spurs	none	none	none	none	none	none	none
+312	slicksilver spurs	none	none	none	none	none	none	none
+313	thicksilver spurs	none	none	none	none	none	none	none
+314	ticksilver spurs	none	none	none	none	none	none	none
+315	wicksilver spurs	none	none	none	none	none	none	none

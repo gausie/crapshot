@@ -282,3 +282,8 @@
 282	pine cone necklace	none	none	none	none	none	none	none
 283	nicksilver ring	none	none	none	none	none	none	none
 284	ticksilver ring	none	none	none	none	none	none	none
+285	quicksilver ring	none	none	none	none	none	none	none
+286	sicksilver ring	none	none	none	none	none	none	none
+287	slicksilver ring	none	none	none	none	none	none	none
+288	thicksilver ring	none	none	none	none	none	none	none
+289	wicksilver ring	none	none	none	none	none	none	none
