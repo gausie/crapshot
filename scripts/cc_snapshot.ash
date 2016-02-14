@@ -273,31 +273,44 @@ void famCheck(string name, string gifname, string hatchling)
 
 void isInSkill(string name, string html, string overwrite)
 {
-	if(overwrite == "none") { overwrite = ""; }
+	if(overwrite == "none")
+	{
+		overwrite = "";
+	}
 	if(index_of(html, ">"+name+"</a> (<b>HP</b>)") != -1)
 	{
-		if(name == "Slimy Shoulders")
-		{
-			ret = ret + "|1-" + s_sh;
-		} else if(name == "Slimy Sinews") {
-			ret = ret + "|1-" + s_si;
-		} else if(name == "Slimy Synapses") {
-			ret = ret + "|1-" + s_sy;
-		} else {
-			ret = ret + "|1";
-		}
-	} else if(length(overwrite) > 0 && index_of(html, overwrite) > 0) {
 		ret = ret + "|1";
-	} else if(index_of(html, ">"+name+"</a> (P)") != -1) {
 		if(name == "Slimy Shoulders")
 		{
-			ret = ret + "|2-" + s_sh;
-		} else if(name == "Slimy Sinews") {
-			ret = ret + "|2-" + s_si;
-		} else if(name == "Slimy Synapses") {
-			ret = ret + "|2-" + s_sy;
-		} else {
-			ret = ret + "|2";
+			ret = ret + "-" + s_sh;
+		}
+		else if(name == "Slimy Sinews")
+		{
+			ret = ret + "-" + s_si;
+		}
+		else if(name == "Slimy Synapses")
+		{
+			ret = ret + "-" + s_sy;
+		}
+	}
+	else if((length(overwrite) > 0) && (index_of(html, overwrite) > 0))
+	{
+		ret = ret + "|1";
+	}
+	else if(index_of(html, ">"+name+"</a> (P)") != -1)
+	{
+		ret = ret + "|2";
+		if(name == "Slimy Shoulders")
+		{
+			ret = ret + "-" + s_sh;
+		}
+		else if(name == "Slimy Sinews")
+		{
+			ret = ret + "-" + s_si;
+		}
+		else if(name == "Slimy Synapses")
+		{
+			ret = ret + "-" + s_sy;
 		}
 	}
 	else if((name == "Toggle Optimality") && have_skill(to_skill(name)))
