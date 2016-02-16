@@ -315,8 +315,8 @@
 315	Belch The Rainbow	Burp!	none	none	none	none	none
 316	Pirate Bellow	Arrrr!	none	none	none	none	none
 317	Unoffendable	Serious Sleaze Resist (+3)	none	none	none	none	none
-318	Summon Confiscated Things	Confiscator's Grimoire	none	none	none	none
-319	Summon Smithsness	none	none	none	none	none
+318	Summon Confiscated Things	none	Confiscator's Grimoire	none	none	none
+319	Summon Smithsness	none	The Smith's Tome	none	none	none
 320	Hypersane	Serious Spooky Resist (+3)	none	none	none	none	none
 321	Intimidating Mien	+15 Spooky Dam<br>(10 adv @ 15MP)	none	none	none	none	none
 322	Summon Holiday Fun!	Fun!	none	none	none	none	none
