@@ -288,3 +288,4 @@
 288	The Jokester's gun	sixshooter
 289	Pecos Dave's sixgun	davesixgun
 290	exclusive club	exclusiveclub
+291	Thwaitgold scorpion statuette	thwaitscorp
