@@ -353,3 +353,5 @@
 353	Bend Hell	none	none	none	none	none
 354	Steely-Eyed Squint	none	none	none	none	none
 355	Toggle Optimality	none	none	none	none	none
+356	Brain Games	none	none	none	none	none
+357	20/20 Vision	none	none	none	none	none

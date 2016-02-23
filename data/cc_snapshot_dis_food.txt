@@ -311,3 +311,9 @@
 327	drug cocktail sauce	none	none	none	none	none	none
 328	prescription noodles	none	none	none	none	none	none
 329	robin flan	none	none	none	none	none	none
+330	patent aggression tonic	none	none	none	none	none	none
+331	patent alacrity tonic	none	none	none	none	none	none
+332	patent avarice tonic	none	none	none	none	none	none
+333	patent invisibility tonic	none	none	none	none	none	none
+334	patent preventative tonic	none	none	none	none	none	none
+335	patent sallowness tonic	none	none	none	none	none	none
