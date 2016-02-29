@@ -207,3 +207,9 @@
 208	LT&T Tattoo	ltttat
 209	Batfellow Tattoo	batmantat
 210	The Jokester's Tattoo	jokestertat	The Jokester's pants	The Jokester's wig	The Jokester's gun
+211	Cow Puncher	class18	none	none	none	none	none	none
+212	Cow Puncher HC	class18hc	none	none	none	none	none	none
+213	Beanslinger	class19	none	none	none	none	none	none
+214	Beanslinger HC	class19hc	none	none	none	none	none	none
+215	Snake Oiler	class20	none	none	none	none	none	none
+216	Snake Oiler HC	class20hc	none	none	none	none	none	none
