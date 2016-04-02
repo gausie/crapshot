@@ -355,3 +355,4 @@
 355	Toggle Optimality	none	none	none	none	none
 356	Brain Games	none	none	none	none	none
 357	20/20 Vision	none	none	none	none	none
+358	Astute Angler	none	none	none	none	none
