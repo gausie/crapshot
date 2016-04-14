@@ -290,3 +290,5 @@
 290	exclusive club	exclusiveclub
 291	Thwaitgold scorpion statuette	thwaitscorp
 292	talking spade	gardenspade
+293	antique tacklebox	tacklebox
+294	sonar fishfinder	evilometer

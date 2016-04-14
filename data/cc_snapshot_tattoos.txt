@@ -213,3 +213,4 @@
 214	Beanslinger HC	class19hc	none	none	none	none	none	none
 215	Snake Oiler	class20	none	none	none	none	none	none
 216	Snake Oiler HC	class20hc	none	none	none	none	none	none
+217	airplane tattoo	planetat	none	none	none	none	none	none
