@@ -186,3 +186,4 @@
 186	Choctopus	choctopus	Gratitude chocolate (octopus-filled)
 187	Rockin' Robin	rockinrobin	baskin robin
 188	Restless Cow Skull	cowskull	shuddering cow skull
+189	Intergnat	intergnat	disconnected intergnat

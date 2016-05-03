@@ -759,3 +759,4 @@
 760	plate of Trader Olaf's Exotic Stinkbeans
 761	plate of World's Blackest-Eyed Peas
 762	jumping horseradish
+763	gallon of milk

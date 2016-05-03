@@ -161,3 +161,4 @@
 161	f	basking robin	Rockin' Robin	rockinrobin
 162	s	LT&T telegraph office dead	telegraphOfficeAvailable
 163	e	Witchess Set	campground.php?action=witchess	Witchess Set
+164	f	disconnected intergnat	Intergnat	discognat
