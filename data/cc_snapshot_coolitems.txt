@@ -294,3 +294,4 @@
 294	sonar fishfinder	evilometer
 295	infinite BACON machine	baconmachine
 296	First Post shirt	btee3
+297	Thwaitgold moth statuette	thwaitmoth

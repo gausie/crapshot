@@ -1,6 +1,6 @@
 script "snapshot.ash";
 notify cheesecookie;
-since r16919;
+since r16941;
 
 #	This is a fork of bumcheekcity's snapshot script.
 #	Code comes straight from that. Website layout is copied from it.
@@ -681,8 +681,9 @@ void main()
 	}
 
 	print("Checking Demon Names", "olive");
-	string demon = visit_url("http://cheesellc.com/kol/cc_snapshot_demon.txt").to_string();
-	int i = 1, numdemon = demon.to_int();
+//	string demon = visit_url("http://cheesellc.com/kol/cc_snapshot_demon.txt").to_string();
+//	int i = 1, numdemon = demon.to_int();
+	int i = 1, numdemon = 12;
 	ret = ret + "&demonnames=";
 	while(i <= numdemon)
 	{
