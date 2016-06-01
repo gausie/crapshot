@@ -762,3 +762,4 @@
 763	gallon of milk
 764	delicious star salad
 765	bowl of Tastee-Wheet&trade;
+766	browser cookie
