@@ -144,3 +144,4 @@
 144	Bucket List	anger_management_about_schmidt	Fill 10 Walford Buckets
 145	Some Assembly Required	college_kids_and_divorced_men	Assemble 6 Different Typoes of VYKEA Furniture
 146	Gotpork Connoisseur	this_town_needs_an_enema	Consume one of each of the nine Gotpork villain drops
+147	A Gallon of Milk Keeps the Doctor Away	this_this_lemonade	Drink 7 days worth of milk
