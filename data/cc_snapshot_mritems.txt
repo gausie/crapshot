@@ -162,3 +162,4 @@
 162	s	LT&T telegraph office dead	telegraphOfficeAvailable
 163	e	Witchess Set	campground.php?action=witchess	Witchess Set
 164	f	disconnected intergnat	Intergnat	discognat
+165	e	Source terminal	campground.php?action=terminal	Source Terminal
