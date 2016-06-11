@@ -293,5 +293,5 @@
 293	antique tacklebox	tacklebox
 294	sonar fishfinder	evilometer
 295	infinite BACON machine	baconmachine
-296	First Post shirt	btee3
+296	First Post shirt - Cir Senam	btee3
 297	Thwaitgold moth statuette	thwaitmoth
