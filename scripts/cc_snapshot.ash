@@ -616,9 +616,13 @@ void main()
 				itemAmount = itemAmount + i_a(to_item(mritems[x].gifname));
 			break;
 
-			case "e":				// visit page, check for matching text
+			case "e":				// get campground, otherwise visit page, check for matching text
 				itemAmount = i_a(to_item(mritems[x].gifname));
-				if(contains_text(visit_url(mritems[x].a), mritems[x].b))
+				if(get_campground() contains to_item(mritems[x].gifname))
+				{
+					itemAmount = itemAmount + 1;
+				}
+				else if(contains_text(visit_url(mritems[x].a), mritems[x].b))
 				{
 					itemAmount = itemAmount + 1;
 				}
