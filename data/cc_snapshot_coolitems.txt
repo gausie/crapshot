@@ -295,3 +295,6 @@
 295	infinite BACON machine	baconmachine
 296	First Post shirt - Cir Senam	btee3
 297	Thwaitgold moth statuette	thwaitmoth
+298	noir fedora	hobofedora
+299	trench coat	trenchcoat
+300	detective roscoe	happiness

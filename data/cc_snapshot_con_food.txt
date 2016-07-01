@@ -763,3 +763,4 @@
 764	delicious star salad
 765	bowl of Tastee-Wheet&trade;
 766	browser cookie
+767	hardboiled egg
