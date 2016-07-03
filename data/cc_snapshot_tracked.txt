@@ -7,3 +7,4 @@
 7	Slimy Shoulders	sebashield	skillLevel48	10
 8	Toggle Optimality	bigredbutton	skillLevel7254	11
 9	Essence of Bear	stench	skillLevel134	2
+9	Calculate the Universe	abacus	skillLevel144	2
