@@ -163,4 +163,4 @@
 163	e	Witchess Set	campground.php?action=witchess	Witchess Set
 164	f	disconnected intergnat	Intergnat	discognat
 165	e	Source terminal	campground.php?action=terminal	Source Terminal
-166	e	detective school application	place.php?whichplace=town_wrong&action=townwrong_precinct	The Precinct
+166	s	detective school application	hasDetectiveSchool
