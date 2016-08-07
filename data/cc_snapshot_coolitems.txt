@@ -298,3 +298,15 @@
 298	noir fedora	hobofedora
 299	trench coat	trenchcoat
 300	detective roscoe	happiness
+301	burnt snowpants	burntpants
+302	Carpathian longsword	carpsword
+303	fleshy lump	skinshield
+304	frigid derringer	derringer	
+305	haunted bindle	bindle
+306	Liam's mail	liammail
+307	Mr. Screege's spectacles	spectacles
+308	smoldering bagel punch	bagelpunch
+309	Spookyraven signet	spookysignet
+310	standards and practices guide	book3
+311	tie-dyed fannypack	tiedyefanny
+312	Unfortunato's foolscap	foolscap

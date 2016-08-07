@@ -164,3 +164,4 @@
 164	f	disconnected intergnat	Intergnat	discognat
 165	e	Source terminal	campground.php?action=terminal	Source Terminal
 166	s	detective school application	hasDetectiveSchool
+167	o	DIY protonic accelerator kit	protonic accelerator pack
