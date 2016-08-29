@@ -310,4 +310,4 @@
 310	standards and practices guide	book3
 311	tie-dyed fannypack	tiedyefanny
 312	Unfortunato's foolscap	foolscap
-313	Thwaitgold roach statuette	thwaitroach
+313	Thwaitgold cockroach statuette	thwaitroach
