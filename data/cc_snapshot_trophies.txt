@@ -145,3 +145,4 @@
 145	college_kids_and_divorced_men	Some Assembly Required	Assemble 6 Different Typoes of VYKEA Furniture
 146	this_town_needs_an_enema	Gotpork Connoisseur	Consume one of each of the nine Gotpork villain drops
 147	this_this_lemonade	A Gallon of Milk Keeps the Doctor Away	Drink 7 days worth of milk
+148	ilovewesley	Prime Directive Director	Solve all Far Future scenarios without bloodshed

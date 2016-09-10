@@ -1,6 +1,6 @@
 script "snapshot.ash";
 notify cheesecookie;
-since r17161;
+since r17179;
 
 #	This is a fork of bumcheekcity's snapshot script.
 #	Code comes straight from that. Website layout is copied from it.
@@ -116,7 +116,7 @@ void isIn(string name, string html)
 		}
 	}
 
-	matcher reg = create_matcher("/" + name, html);
+	matcher reg = create_matcher(name, html);
 	if(reg.find())
 	{
 		ret = ret + "|1";
@@ -451,7 +451,7 @@ void main()
 	ret = ret + "&trophies=";
 	foreach x in trophies
 	{
-		isIn(trophies[x].itemname, html);
+		isIn("/" + trophies[x].itemname, html);
 	}
 
 	print("Checking familiars...", "olive");
