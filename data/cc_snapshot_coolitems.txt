@@ -221,7 +221,7 @@
 221	Time Bandit Time Towel	towelcape
 222	Time Cape	timecape
 223	Time Clock	timecape
-224	Time Lord Participation Mug	coffecup
+224	Time Lord Participation Mug	coffeecup
 225	Caveman Dan's Favorite Rock	danrock
 226	time shuriken	shuriken
 227	ninjammies	ninjammies
@@ -311,3 +311,13 @@
 311	tie-dyed fannypack	tiedyefanny
 312	Unfortunato's foolscap	foolscap
 313	Thwaitgold cockroach statuette	thwaitroach
+314	Yorick	yorick
+315	portable Othello set	othelloset
+316	sneakeasies	kicks
+317	flapper floppers	sandals
+318	gumshoes	tapshoes
+319	solid shifting time weirdness	confused
+320	Chroner cross	plus
+321	Time Bandit Badge of Courage	banditbadge
+322	Chroner trigger	rib
+323	Time Lord Badge of Honor	lordbadge
