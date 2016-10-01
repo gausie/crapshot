@@ -765,3 +765,4 @@
 766	browser cookie
 767	hardboiled egg
 768	Tea, Earl Grey, Hot
+769	leftover pasty

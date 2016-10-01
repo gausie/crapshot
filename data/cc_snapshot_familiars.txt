@@ -188,3 +188,4 @@
 188	Restless Cow Skull	cowskull	shuddering cow skull
 189	Intergnat	intergnat	disconnected intergnat
 190	Software Bug	softwarebug	software bug
+191	Baby Scorpion	barkscorp	Baby bark scorpion

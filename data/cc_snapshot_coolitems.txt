@@ -321,3 +321,4 @@
 321	Time Bandit Badge of Courage	banditbadge
 322	Chroner trigger	rib
 323	Time Lord Badge of Honor	lordbadge
+324	KoL Con 13 snowglobe	consnowglobe
