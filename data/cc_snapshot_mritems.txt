@@ -169,4 +169,3 @@
 169	g	Gordon Beer's Beer Garden Catalog	packet of beer seeds	Beer Garden
 170	p	Xi Receiver Unit	Xi Receiver Unit	none	none	none	none
 171	e	potted tea tree	campground.php?action=teatree	Tree Tea
-		
