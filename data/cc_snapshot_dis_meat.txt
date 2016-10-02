@@ -287,3 +287,6 @@
 287	slicksilver ring	none	none	none	none	none	none	none
 288	thicksilver ring	none	none	none	none	none	none	none
 289	wicksilver ring	none	none	none	none	none	none	none
+290	baconstone-handled sixgun	none	none	none	none	none	none	none
+291	hamethyst-handled sixgun	none	none	none	none	none	none	none
+292	porquoise-handled sixgun	none	none	none	none	none	none	none

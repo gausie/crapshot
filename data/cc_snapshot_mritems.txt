@@ -166,3 +166,7 @@
 166	s	detective school application	hasDetectiveSchool
 167	o	DIY protonic accelerator kit	protonic accelerator pack
 168	o	Dear Past Self Package	Time-Spinner
+169	g	Gordon Beer's Beer Garden Catalog	packet of beer seeds	Beer Garden
+170	p	Xi Receiver Unit	Xi Receiver Unit	none	none	none	none
+171	e	potted tea tree	campground.php?action=teatree	Tree Tea
+		
