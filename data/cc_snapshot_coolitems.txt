@@ -322,3 +322,13 @@
 322	Chroner trigger	rib
 323	Time Lord Badge of Honor	lordbadge
 324	KoL Con 13 snowglobe	consnowglobe
+325	KoL Con 3-D Glasses	3dglasses
+326	KoL Con IV Pole	coniviv
+327	KoL Con Cinco Piñata Bat	pinatabat
+328	KoL Con Six Pack	sixpack
+329	Seven Loco	7loco
+330	KoL Con 8-Bit power bracelet	8bitbracelet
+331	Hat O' Nine Tails	con9hat
+332	KoL Con X Treasure Map	map
+333	Size XI Wizard's Robe	xirobe
+334	KoL Con 12-gauge	shotgun2
