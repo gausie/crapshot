@@ -570,3 +570,4 @@
 570	Shot of Kardashian Gin
 571	very fancy whiskey
 572	unidentified drink
+573	eldritch extract

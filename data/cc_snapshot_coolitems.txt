@@ -333,3 +333,4 @@
 333	Size XI Wizard's Robe	xirobe
 334	KoL Con 12-gauge	shotgun2
 335	School of Hard Knocks Diploma	scroll2
+336	Official Council Aide Pin	smugbutton
