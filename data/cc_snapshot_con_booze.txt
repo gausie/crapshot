@@ -571,3 +571,4 @@
 571	very fancy whiskey
 572	unidentified drink
 573	eldritch extract
+574 eldritch distillate
