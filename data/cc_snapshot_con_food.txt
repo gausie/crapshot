@@ -766,3 +766,10 @@
 767	hardboiled egg
 768	Tea, Earl Grey, Hot
 769	leftover pasty
+770	bread roll
+771	mashed potatoes
+772	raw bread
+773	raw gravy
+774	raw mincemeat
+775	raw potato
+776	turkey blaster
