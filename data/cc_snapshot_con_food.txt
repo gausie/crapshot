@@ -773,3 +773,9 @@
 774	raw mincemeat
 775	raw potato
 776	turkey blaster
+777	green bean casserole
+778	raw cranberry sauce
+779	raw green beans
+780	raw stuffing
+781	raw sweet potato
+782	raw turkey
