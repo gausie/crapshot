@@ -218,3 +218,4 @@
 219	Detective Tattoo	detbadge	none	none	none	none	none	none
 220	Proton Tattoo	protontat	none	none	none	none	none	none
 221	Twitch Television Tattoo	twitchtat	none	none	none	none	none	none
+222	Eldritch Equipage	elditchtat	eldritch hat	eldritch pants	none	none	none	none	none
