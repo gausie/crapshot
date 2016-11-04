@@ -772,10 +772,17 @@
 773	raw gravy
 774	raw mincemeat
 775	raw potato
-776	turkey blaster
+776	thanksgiving turkey
 777	green bean casserole
 778	raw cranberry sauce
 779	raw green beans
 780	raw stuffing
 781	raw sweet potato
 782	raw turkey
+783	candied sweet potatoes
+784	baked stuffing
+785	cranberry cylinder
+786	mince pie
+787	warm gravy
+788	leftovers
+789	leftovers sandwich
