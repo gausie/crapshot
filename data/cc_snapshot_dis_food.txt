@@ -317,3 +317,13 @@
 333	patent invisibility tonic	none	none	none	none	none	none
 334	patent preventative tonic	none	none	none	none	none	none
 335	patent sallowness tonic	none	none	none	none	none	none
+336	thanksgiving turkey	none	none	none	none	none	none
+337	candied sweet potatoes	none	none	none	none	none	none
+338	baked stuffing	none	none	none	none	none	none
+339	cranberry cylinder	none	none	none	none	none	none
+340	mince pie	none	none	none	none	none	none
+341	warm gravy	none	none	none	none	none	none
+342	leftovers sandwich	none	none	none	none	none	none
+343	bread roll	none	none	none	none	none	none
+344	green bean casserole	none	none	none	none	none	none
+345	mashed potatoes	none	none	none	none	none	none
