@@ -290,3 +290,4 @@
 290	baconstone-handled sixgun	none	none	none	none	none	none	none
 291	hamethyst-handled sixgun	none	none	none	none	none	none	none
 292	porquoise-handled sixgun	none	none	none	none	none	none	none
+293	bomb of unknown origin	none	none	none	none	none	none
