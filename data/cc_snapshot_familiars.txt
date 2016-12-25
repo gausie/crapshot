@@ -188,5 +188,7 @@
 188	Restless Cow Skull	cowskull	shuddering cow skull
 189	Intergnat	intergnat	disconnected intergnat
 190	Software Bug	softwarebug	software bug
-191	Bark Scorpion	barkscorp	Baby bark scorpion
+191	Bark Scorpion	barkscorp	baby bark scorpion
 192	Trick-or-Treating Tot	boredtot	li'l orphan tot
+193	Chocolate Lab	chocolab	chocolate puppy
+194	Bad Vibe	lilbadvibe	pet bad vive

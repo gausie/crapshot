@@ -357,3 +357,9 @@
 357	20/20 Vision	none	none	none	none	none
 358	Astute Angler	none	none	none	none	none
 359	Eldritch Intellect	none	none	none	none	none
+360	Stack Lumps	none	none	none	none	none	none
+361	Sweet Synthesis	none	none	none	none	none
+362	Gingerbread Mob Hit	none	none	none	none	none
+363	Ceci N'Est Pa Une Chapeau	none	none	none	none	none
+364	Fifteen Minutes of Flame	none	none	none	none	none
+365	Licorice Rope	none	none	none	none	none

@@ -171,3 +171,4 @@
 171	e	potted tea tree	campground.php?action=teatree	Tree Tea
 172	f	li'l orphan tot	Trick-or-Treating Tot	boredtot
 173	g	Granny Tood's Thanksgarden Catalog	packet of thanksgarden seeds	A Thanksgarden
+174	s	Build-a-City Gingerbread kit	gingerbreadCityAvailable

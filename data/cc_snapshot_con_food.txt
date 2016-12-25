@@ -786,3 +786,12 @@
 787	warm gravy
 788	leftovers
 789	leftovers sandwich
+790	Black Angus blackburger
+791	Eldritch snap
+792	animal part cracker
+793	gingerbread mug
+794	green-iced sweet roll
+795	hambrosier
+796	spiritual candy cane
+797	spiritual fruitcake
+798	spiritual gingerbread

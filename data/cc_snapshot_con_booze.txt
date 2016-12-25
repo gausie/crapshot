@@ -573,3 +573,9 @@
 573	eldritch extract
 574	eldritch distillate
 575	eldritch elixir
+576	black brandy
+577	chakra-mental wine
+578	ginger beer
+579	gingerbread wine
+580	high-end ginger wine
+581	spiritual eggnog
