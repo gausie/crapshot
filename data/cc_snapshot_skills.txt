@@ -360,6 +360,6 @@
 360	Stack Lumps	none	none	none	none	none	none
 361	Sweet Synthesis	none	none	none	none	none
 362	Gingerbread Mob Hit	none	none	none	none	none
-363	Ceci N'Est Pa Une Chapeau	none	none	none	none	none
+363	Ceci N'Est Pas Un Chapeau	none	none	none	none	none
 364	Fifteen Minutes of Flame	none	none	none	none	none
 365	Licorice Rope	none	none	none	none	none
