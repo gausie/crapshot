@@ -327,3 +327,8 @@
 343	bread roll	none	none	none	none	none	none
 344	green bean casserole	none	none	none	none	none	none
 345	mashed potatoes	none	none	none	none	none	none
+346	toast with hot jelly	none	none	none	none	none	none
+347	toast with cold jelly	none	none	none	none	none	none
+348	toast with spooky jelly	none	none	none	none	none	none
+349	toast with sleaze jelly	none	none	none	none	none	none
+350	toast with stench jelly	none	none	none	none	none	none

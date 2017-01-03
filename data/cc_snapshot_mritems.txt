@@ -172,3 +172,5 @@
 172	f	li'l orphan tot	Trick-or-Treating Tot	boredtot
 173	g	Granny Tood's Thanksgarden Catalog	packet of thanksgarden seeds	A Thanksgarden
 174	s	Build-a-City Gingerbread kit	gingerbreadCityAvailable
+175	f	space planula	Space Jellyfish	spacejelly
+176	f	hopeful candle	Optimistic Candle	opticandle

@@ -795,3 +795,10 @@
 796	spiritual candy cane
 797	spiritual fruitcake
 798	spiritual gingerbread
+799	toast with hot jelly
+800	toast with cold jelly
+801	toast with spooky jelly
+802	toast with sleaze jelly
+803	toast with stench jelly
+804	sea truffle
+805	wax pancake

@@ -579,3 +579,4 @@
 579	gingerbread wine
 580	high-end ginger wine
 581	spiritual eggnog
+582	wax booze

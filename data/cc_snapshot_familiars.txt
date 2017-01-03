@@ -191,4 +191,7 @@
 191	Bark Scorpion	barkscorp	baby bark scorpion
 192	Trick-or-Treating Tot	boredtot	li'l orphan tot
 193	Chocolate Lab	chocolab	chocolate puppy
-194	Bad Vibe	lilbadvibe	pet bad vive
+194	Bad Vibe	lilbadvibe	pet bad vibe
+195	Space Jellyfish	spacejelly	space planula
+196	Optimistic Candle	opticandle	hopeful candle
+

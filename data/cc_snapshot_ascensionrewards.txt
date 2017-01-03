@@ -46,3 +46,15 @@
 46	bakelite brooch	bakebrooch
 47	bakelite breeches	bakebreeches
 48	bakelite backpack	bakepack
+49	aerogel anvil	aeroanvil
+50	aerogel akubra	aeroakubra
+51	aerogel apron	aeroapron
+52	aerogel ascot	aeroascot
+53	aerogel attache case	aeroattache
+54	aerogel accordion	aeroaccordion
+55	wrought-iron wig	wroughtwig
+56	wrought-iron winch crank	wroughtcrank
+57	wrought-iron widget	wroughtwidget
+58	wrought-iron whisk	wroughtwhisk
+59	wrought-iron walker	wroughtwalker
+60	wrought-iron waders	wroughtpants
