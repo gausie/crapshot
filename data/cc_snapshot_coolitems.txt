@@ -350,3 +350,4 @@
 350	gingerbread mask	gingermask
 351	gingerservo	gingerservo
 352	gingerbread pistol	gingergun
+353	recovered cufflinks	cufflinks
