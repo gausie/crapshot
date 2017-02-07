@@ -803,3 +803,4 @@
 804	sea truffle
 805	wax pancake
 806	eldritch mushroom
+807	eldritch mushroom pizza

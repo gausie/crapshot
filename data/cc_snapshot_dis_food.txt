@@ -332,3 +332,4 @@
 348	toast with spooky jelly	none	none	none	none	none	none
 349	toast with sleaze jelly	none	none	none	none	none	none
 350	toast with stench jelly	none	none	none	none	none	none
+351	eldritch mushroom pizza	none	none	none	none	none	none

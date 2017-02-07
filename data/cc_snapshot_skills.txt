@@ -363,3 +363,4 @@
 363	Ceci N'Est Pas Un Chapeau	none	none	none	none	none
 364	Fifteen Minutes of Flame	none	none	none	none	none
 365	Licorice Rope	none	none	none	none	none
+366	Evoke Eldritch Horror	none	none	none	none	none

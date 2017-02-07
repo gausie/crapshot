@@ -146,3 +146,7 @@
 146	smooth velvet shirt	none	none	none	none	none	none	none
 147	smooth velvet socks	none	none	none	none	none	none	none
 148	smooth velvet bra	none	none	none	none	none	none	none
+149	eldritch extract	none	none	none	none	none	none	none
+150	eldritch concentrate	none	none	none	none	none	none	none
+151	eldritch rub	none	none	none	none	none	none	none
+152	eldritch tincture	none	none	none	none	none	none	none
