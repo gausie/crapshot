@@ -356,4 +356,4 @@
 356	Silver HP-35 Calculator	longcalc
 357	Golden HP-35 Calculator	longcalc
 358	Platinum HP-35 Calculator	longcalc
-359	Super Platinum HP-35 Calculator	longcalc
+359	Diamond HP-35 Calculator	longcalc
