@@ -185,3 +185,39 @@
 185	perfect old-fashioned	none	none	none	none	none	none	none
 186	perfect paloma	none	none	none	none	none	none	none
 187	robin nog	none	none	none	none	none	none	none
+188	Bloody Nora	none	none	none	none	none	none	none
+189	Churchill	none	none	none	none	none	none	none
+190	Gnollish sangria	none	none	none	none	none	none	none
+191	Gnomish sagngria	none	none	none	none	none	none	none
+192	Great Older Fashioned	none	none	none	none	none	none	none
+193	London frog	none	none	none	none	none	none	none
+194	Mysterious Island iced tea	none	none	none	none	none	none	none
+195	Newark	none	none	none	none	none	none	none
+196	Phil Collins	none	none	none	none	none	none	none
+197	Phlegethon	none	none	none	none	none	none	none
+198	R'lyeh	none	none	none	none	none	none	none
+199	Siberian sunrise	none	none	none	none	none	none	none
+200	Simepore slime	none	none	none	none	none	none	none
+201	Tequiz Navidad	none	none	none	none	none	none	none
+202	dirt julep	none	none	none	none	none	none	none
+203	double entendre	none	none	none	none	none	none	none
+204	drive-by shooting	none	none	none	none	none	none	none
+205	eighth plague	none	none	none	none	none	none	none
+206	elemental caipiroska	none	none	none	none	none	none	none
+207	extremely slippery nipple	none	none	none	none	none	none	none
+208	gunner's daughter	none	none	none	none	none	none	none
+209	hell in a bucket	none	none	none	none	none	none	none
+210	literal grasshopper	none	none	none	none	none	none	none
+211	low tide martini	none	none	none	none	none	none	none
+212	mentholated wine	none	none	none	none	none	none	none
+213	moreltini	none	none	none	none	none	none	none
+214	morning dew	none	none	none	none	none	none	none
+215	nothingtini	none	none	none	none	none	none	none
+216	piscatini	none	none	none	none	none	none	none
+217	reverse Tantalus	none	none	none	none	none	none	none
+218	shroomtini	none	none	none	none	none	none	none
+219	single entendre	none	none	none	none	none	none	none
+220	soilzerac	none	none	none	none	none	none	none
+221	vodka barracuda	none	none	none	none	none	none	none
+222	vodka stinger	none	none	none	none	none	none	none
+223	whiskey squeeze	none	none	none	none	none	none	none

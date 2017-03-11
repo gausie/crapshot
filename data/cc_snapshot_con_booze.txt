@@ -580,3 +580,39 @@
 580	high-end ginger wine
 581	spiritual eggnog
 582	wax booze
+583	Bloody Nora
+584	Churchill
+585	Gnollish sangria
+586	Gnomish sagngria
+587	Great Older Fashioned
+588	London frog
+589	Mysterious Island iced tea
+590	Newark
+591	Phil Collins
+592	Phlegethon
+593	R'lyeh
+594	Siberian sunrise
+595	Simepore slime
+596	Tequiz Navidad
+597	dirt julep
+598	double entendre
+599	drive-by shooting
+600	eighth plague
+601	elemental caipiroska
+602	extremely slippery nipple
+603	gunner's daughter
+604	hell in a bucket
+605	literal grasshopper
+606	low tide martini
+607	mentholated wine
+608	moreltini
+609	morning dew
+610	nothingtini
+611	piscatini
+612	reverse Tantalus
+613	shroomtini
+614	single entendre
+615	soilzerac
+616	vodka barracuda
+617	vodka stinger
+618	whiskey squeeze

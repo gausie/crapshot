@@ -194,3 +194,4 @@
 194	Bad Vibe	lilbadvibe	pet bad vibe
 195	Space Jellyfish	spacejelly	space planula
 196	Optimistic Candle	opticandle	hopeful candle
+197	Robortender	robotender	unpowered Robortender
