@@ -584,7 +584,7 @@
 584	Churchill
 585	Gnollish sangria
 586	Gnomish sagngria
-587	Great Older Fashioned
+587	Great old fashioned
 588	London frog
 589	Mysterious Island iced tea
 590	Newark
