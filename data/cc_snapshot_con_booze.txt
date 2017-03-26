@@ -312,7 +312,7 @@
 312	Red Dwarf
 313	Fauna Libre
 314	Mohobo
-315	Great Old Fashioned
+315	Great Older Fashioned
 316	Punchplanter
 317	Cement Mixer
 318	Sazerorc
