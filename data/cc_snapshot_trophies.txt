@@ -148,3 +148,4 @@
 148	ilovewesley	Prime Directive Director	Solve all Far Future scenarios without bloodshed
 149	oh_the_horror	Tentacle Tickler	Defeat 666 Eldritch Tentacles (current ascension)
 150	all_you_need_is_it	LOVE, LOVE, LOVE	Solve the L.O.V. Exit puzzle
+151	i_had_to_drink_from_the_liquid_cup	Gelatinous Hubris	Acquire all Passive Gelatinous Noob skills

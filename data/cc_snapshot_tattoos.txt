@@ -224,3 +224,5 @@
 225	Aeroutfit	aerotat	aerogel akubra	aerogel accordion	aerogel attache case	aerogel anvil	aerogel apron	aerogel ascot
 226	Wrought Wrappings	wroughttat	wrought-iron wig	wrought-iron whisk	wrought-iron waders	wrought-iron winch crank	wrought-iron widget	wrought-iron walker
 227	I Love Gingerbread City	gingercitytat	none	none	none	none	none	none
+228	Gelatinous Noob	class23	none	none	none	none	none	none
+229	Gelatinous Noob	HC	class23hc	none	none	none	none	none	none
