@@ -616,3 +616,5 @@
 616	vodka barracuda
 617	vodka stinger
 618	whiskey squeeze
+619	Centauri fish wine
+620	primitive alien booze

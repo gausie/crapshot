@@ -804,3 +804,9 @@
 805	wax pancake
 806	eldritch mushroom
 807	eldritch mushroom pizza
+808	Affirmation Cookie
+809	Aldebaran sardines
+810	alien meat
+811	alien sandwich
+812	edible alien plant bit
+813	primitive alien salad

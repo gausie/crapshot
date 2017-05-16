@@ -226,3 +226,4 @@
 227	I Love Gingerbread City	gingercitytat	none	none	none	none	none	none
 228	Gelatinous Noob	class23	none	none	none	none	none	none
 229	Gelatinous Noob HC	class23hc	none	none	none	none	none	none
+230	Spant Armor	spantat	spant backplate	spant spear	spant shield	spants	spant shoudlerpads	none
