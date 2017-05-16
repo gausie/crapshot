@@ -367,3 +367,4 @@
 367	Quantum Movement	none	none	none	none	none
 368	5-D Earning Potential	none	none	none	none	none
 369	Object Quasi-Permanence	none	none	none	none	none
+370	Disintegrate	none	none	none	none	none	none
