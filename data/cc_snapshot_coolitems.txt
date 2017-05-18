@@ -359,3 +359,4 @@
 359	Diamond HP-35 Calculator	longcalc
 360	Thwaitgold amoeba statuette	thwaitamoeba
 361	recovered cufflinks	cufflinks
+362	Thwaitgold bug statue	thwaitbug
