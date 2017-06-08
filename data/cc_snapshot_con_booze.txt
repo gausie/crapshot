@@ -618,3 +618,6 @@
 618	whiskey squeeze
 619	Centauri fish wine
 620	primitive alien booze
+621	basic martini
+622	improved martini
+623	splendid martini

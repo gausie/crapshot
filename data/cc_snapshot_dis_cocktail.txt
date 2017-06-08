@@ -231,30 +231,3 @@
 231	Siberian sunrise	none	none	none	none	none	none	none
 232	elemental caipiroska	none	none	none	none	none	none	none
 233	mentholated wine	none	none	none	none	none	none	none
-234	Feliz Navidad	none	none	none	none	none	none	none
-235	low tide martini	none	none	none	none	none	none	none
-236	Bloody Nora	none	none	none	none	none	none	none
-237	shroomtini	none	none	none	none	none	none	none
-238	moreltini	none	none	none	none	none	none	none
-239	morning dew	none	none	none	none	none	none	none
-240	hell in a bucket	none	none	none	none	none	none	none
-241	whiskey squeeze	none	none	none	none	none	none	none
-242	Newark	none	none	none	none	none	none	none
-243	great old fashioned	none	none	none	none	none	none	none
-244	R'lyeh	none	none	none	none	none	none	none
-245	Gnomish sagngria	none	none	none	none	none	none	none
-246	Gnollish sangria	none	none	none	none	none	none	none
-247	vodka stinger	none	none	none	none	none	none	none
-248	vodka barracuda	none	none	none	none	none	none	none
-249	extremely slippery nipple	none	none	none	none	none	none	none
-250	Mysterious Island iced tea	none	none	none	none	none	none	none
-251	piscatini	none	none	none	none	none	none	none
-252	drive-by shooting	none	none	none	none	none	none	none
-253	Churchill	none	none	none	none	none	none	none
-254	gunner's daughter	none	none	none	none	none	none	none
-255	soilzerac	none	none	none	none	none	none	none
-256	dirt julep	none	none	none	none	none	none	none
-257	London frog	none	none	none	none	none	none	none
-258	Simepore slime	none	none	none	none	none	none	none
-259	nothingtini	none	none	none	none	none	none	none
-260	Phil Collins	none	none	none	none	none	none	none
