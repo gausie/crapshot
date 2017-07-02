@@ -229,3 +229,4 @@
 230	Spant Armor	spantat	spant backplate	spant spear	spant shield	spants	spant shoudlerpads	none
 231	Spacegate Initiative	sgtat	none	none	none	none	none	none
 232	New-You Tattoo	newyou	none	none	none	none	none	none
+233	KGB Tattoo	kgbtat	none	none	none	none	none	none
