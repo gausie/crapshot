@@ -222,12 +222,3 @@
 222	vodka stinger	none	none	none	none	none	none	none
 223	whiskey squeeze	none	none	none	none	none	none	none
 224	eldritch elixir	none	none	none	none	none	none	none
-225	literal grasshopper	none	none	none	none	none	none	none
-226	eighth plague	none	none	none	none	none	none	none
-227	double entendre	none	none	none	none	none	none	none
-228	single entendre	none	none	none	none	none	none	none
-229	Phlegethon	none	none	none	none	none	none	none
-230	reverse Tantalus	none	none	none	none	none	none	none
-231	Siberian sunrise	none	none	none	none	none	none	none
-232	elemental caipiroska	none	none	none	none	none	none	none
-233	mentholated wine	none	none	none	none	none	none	none
