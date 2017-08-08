@@ -350,7 +350,7 @@
 350	gingerbread mask	gingermask
 351	gingerservo	gingerservo
 352	gingerbread pistol	gingergun
-353	recovered cufflinks	cufflinks
+353	
 354	eldritch hammer	eldritchhammer
 355	HP-35 Calculator	longcalc
 356	Silver HP-35 Calculator	longcalc
@@ -360,3 +360,4 @@
 360	Thwaitgold amoeba statuette	thwaitamoeba
 361	recovered cufflinks	cufflinks
 362	Thwaitgold bug statue	thwaitbug
+363	License to Chill	licensetochill

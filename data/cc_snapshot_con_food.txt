@@ -810,3 +810,4 @@
 811	alien sandwich
 812	edible alien plant bit
 813	primitive alien salad
+814	meteoreo

@@ -621,3 +621,4 @@
 621	basic martini
 622	improved martini
 623	splendid martini
+624	meadeorite

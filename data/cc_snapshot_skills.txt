@@ -369,3 +369,4 @@
 369	Object Quasi-Permanence	none	none	none	none	none
 370	Disintegrate	none	none	none	none	none	none
 371	Eternal Flame	none	none	none	none	none	none
+372	Meteor Lore	none	none	none	none	none	none
