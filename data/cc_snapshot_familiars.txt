@@ -195,3 +195,5 @@
 195	Space Jellyfish	spacejelly	space planula
 196	Optimistic Candle	opticandle	hopeful candle
 197	Robortender	robotender	unpowered Robortender
+198	Cute Meteor	cutemeteor	cute meteoroid
+199	XO Skeleton	xoskeleton	xo-skeleton-in-a-box

@@ -811,3 +811,4 @@
 812	edible alien plant bit
 813	primitive alien salad
 814	meteoreo
+815	Hide-rox&trade; cookie

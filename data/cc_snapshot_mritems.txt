@@ -183,3 +183,4 @@
 183	o	Pocket Meteor Guide	Pocket Meteor Guide (well-thumbed)
 184	s	Horsery contract	horseryAvailable
 185	o	corked genie bottle	genie bottle
+186	f	xo-skeleton-in-a-box	XO Skeleton	xoskeleton

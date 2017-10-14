@@ -150,3 +150,4 @@
 150	all_you_need_is_it	LOVE, LOVE, LOVE	Solve the L.O.V. Exit puzzle
 151	i_had_to_drink_from_the_liquid_cup	Gelatinous Hubris	Acquire all Passive Gelatinous Noob skills
 152	eleven_inch_flautist	Ultimate Cosmic Power	Defeat a Genie in Physical and Intellectual Trials
+153	cross_about_naught	Commemorative Replica Blob	Defeat an Amorphous Blob

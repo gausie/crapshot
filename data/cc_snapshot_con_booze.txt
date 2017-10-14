@@ -622,3 +622,6 @@
 622	improved martini
 623	splendid martini
 624	meadeorite
+625	DUFRESNE Suds
+626	flask of port
+627	jug of booze
