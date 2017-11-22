@@ -184,4 +184,4 @@
 184	s	Horsery contract	horseryAvailable
 185	o	corked genie bottle	genie bottle
 186	f	xo-skeleton-in-a-box	XO Skeleton	xoskeleton
-187	o	pantogram	pantogram pants
+187	o	pantogram	portable pantogram
