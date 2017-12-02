@@ -185,3 +185,4 @@
 185	o	corked genie bottle	genie bottle
 186	f	xo-skeleton-in-a-box	XO Skeleton	xoskeleton
 187	o	pantogram	portable pantogram
+188	o	locked mumming trunk	mumming trunk

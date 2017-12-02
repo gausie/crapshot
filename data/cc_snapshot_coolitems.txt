@@ -361,3 +361,4 @@
 361	recovered cufflinks	cufflinks
 362	Thwaitgold bug statue	thwaitbug
 363	License to Chill	licensetochill
+364	Jeppson's Malort	blackrum

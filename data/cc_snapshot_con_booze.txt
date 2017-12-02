@@ -625,3 +625,4 @@
 625	DUFRESNE Suds
 626	flask of port
 627	jug of booze
+628	Racisto Ruidoso
