@@ -813,3 +813,12 @@
 814	meteoreo
 815	Hide-rox&trade; cookie
 816	temperance whiskey
+817	Cheer-E-Os
+818	half double fruitcake
+819	hushed puppy
+820	mime army rations
+821	muffled muffuletta
+822	nega-mushroom
+823	shushed potatoes
+824	transparent nog
+825	unfinished fruitcake

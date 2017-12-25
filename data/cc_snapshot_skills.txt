@@ -371,3 +371,9 @@
 371	Eternal Flame	none	none	none	none	none	none
 372	Meteor Lore	none	none	none	none	none	none
 373	Gemelli's March of Testery	none	none	none	none	none
+374	Silent Hunter	none	none	none	none	none	none
+375	Quiet Determination	none	none	none	none	none	none
+376	Quiet Judgement	none	none	none	none	none	none
+377	Silent Treatment	none	none	none	none	none	none
+378	Silent Knife	none	none	none	none	none	none
+379	Quiet Desperation	none	none	none	none	none	none

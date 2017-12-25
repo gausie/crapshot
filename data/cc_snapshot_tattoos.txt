@@ -231,3 +231,5 @@
 232	New-You Tattoo	newyou	none	none	none	none	none	none
 233	KGB Tattoo	kgbtat	none	none	none	none	none	none
 234	Meteor Masquerade	meteortat	meteortarboard	shooting morning star	meteorb	asteroid belt	meteorthopedic shoes	meteorite guard
+235	Cheerful Reindeer Tattoo	reintat	cheerful antler hat	cheerful Crimbo sweater	cheerful pajama pants	none	none	none
+236	Mime Tattoo	mimetat	miming beret	miming shirt	miming corduroys	miming gloves	miming boots	none
