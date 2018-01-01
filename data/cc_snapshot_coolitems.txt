@@ -371,5 +371,5 @@
 371	mime army insignia (espionage)	marmy3
 372	mime army insignia (infantry)	marmy1
 373	mime army infiltration glove	glove
-374	mime army challenge coin	marmyshotglass
-375	mime army shotglass	marmycoin
+374	mime army challenge coin	marmycoin
+375	mime army shotglass	marmyshotglass
