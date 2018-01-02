@@ -233,3 +233,4 @@
 234	Meteor Masquerade	meteortat	meteortarboard	shooting morning star	meteorb	asteroid belt	meteorthopedic shoes	meteorite guard
 235	Cheerful Reindeer Tattoo	reintat	cheerful antler hat	cheerful Crimbo sweater	cheerful pajama pants	none	none	none
 236	Mime Tattoo	mimetat	miming beret	miming shirt	miming corduroys	miming gloves	miming boots	none
+237	Pyrotechnic Paper Paraphernalia Tattoo	fpmtat	burning paper hat	burning cape	burning paper slippers	burning paper jorts	none	none

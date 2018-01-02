@@ -631,3 +631,4 @@
 631	mime army wine
 632	neg grog
 633	nega-mushroom wine
+634	mulled hobo wine

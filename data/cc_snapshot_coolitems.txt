@@ -350,7 +350,7 @@
 350	gingerbread mask	gingermask
 351	gingerservo	gingerservo
 352	gingerbread pistol	gingergun
-353	
+353	Thwaitgold time fly statuette	thwaittimefly
 354	eldritch hammer	eldritchhammer
 355	HP-35 Calculator	longcalc
 356	Silver HP-35 Calculator	longcalc
@@ -373,3 +373,8 @@
 373	mime army infiltration glove	glove
 374	mime army challenge coin	marmycoin
 375	mime army shotglass	marmyshotglass
+376	primitive alien blowgun	blowgun
+377	primitive alien loincloth	wumploincloth
+378	primitive alien necklace	aliennecklace
+379	primitive alien spear	cavespear
+380	primitive alien totem	alientotem

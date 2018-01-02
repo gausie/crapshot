@@ -822,3 +822,4 @@
 823	shushed potatoes
 824	transparent nog
 825	unfinished fruitcake
+826	extra-toasted half sandwich

@@ -186,3 +186,5 @@
 186	f	xo-skeleton-in-a-box	XO Skeleton	xoskeleton
 187	o	pantogram	portable pantogram
 188	o	locked mumming trunk	mumming trunk
+189	o	January's Garbage Tote (unopened)	January's Garbage Tote
+190	f	kerosene-soaked ship	Garbage Fire	dumpsterfire
