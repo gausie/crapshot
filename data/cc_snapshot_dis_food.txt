@@ -336,3 +336,4 @@
 352	eldritch distillate	none	none	none	none	none	none
 353	eldritch essence	none	none	none	none	none	none
 354	alien sandwich	none	none	none	none	none
+355	half double fruitcake	none	none	none	none	none	none
