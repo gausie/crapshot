@@ -197,4 +197,4 @@
 197	Robortender	robotender	unpowered Robortender
 198	Cute Meteor	cutemeteor	cute meteoroid
 199	XO Skeleton	xoskeleton	xo-skeleton-in-a-box
-200 Garbage Fire	dumpsterfire	kerosene-soaked skip
+200	Garbage Fire	dumpsterfire	kerosene-soaked skip
