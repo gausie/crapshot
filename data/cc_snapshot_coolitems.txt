@@ -378,3 +378,5 @@
 378	primitive alien necklace	aliennecklace
 379	primitive alien spear	cavespear
 380	primitive alien totem	alientotem
+381	Mysterious Green Box	dreadbox
+382	thwaitgold metabug statuette	thwaitmetabug

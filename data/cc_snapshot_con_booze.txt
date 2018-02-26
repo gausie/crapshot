@@ -632,3 +632,5 @@
 632	neg grog
 633	nega-mushroom wine
 634	mulled hobo wine
+635	Bustle Hustler
+636	Third Base

@@ -377,3 +377,9 @@
 377	Silent Treatment	none	none	none	none	none	none
 378	Silent Knife	none	none	none	none	none	none
 379	Quiet Desperation	none	none	none	none	none	none
+380	Get Big	none	none	none	none	none	none
+381	Gallapagosian Mating Call	none	none	none	none	none	none
+382	Inscrutable Gaze	none	none	none	none	none	none
+383	Love Mixology	none	none	none	none	none	none
+384	Acquire Rhinestones	none	none	none	none	none	none
+385	Paul's Passionate Pop Song	none	none	none	none	none	none
