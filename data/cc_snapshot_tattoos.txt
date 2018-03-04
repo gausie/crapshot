@@ -232,7 +232,7 @@
 233	KGB Tattoo	kgbtat	none	none	none	none	none	none
 234	Meteor Masquerade	meteortat	meteortarboard	shooting morning star	meteorb	asteroid belt	meteorthopedic shoes	meteorite guard
 235	Cheerful Reindeer Suit	reintat	cheerful antler hat	cheerful Crimbo sweater	cheerful pajama pants	none	none	none
-236	Mimong Paraphernalia	mimetat	miming beret	miming shirt	miming corduroys	miming gloves	miming boots	none
+236	Miming Regalia	mimetat	miming beret	miming shirt	miming corduroys	miming gloves	miming boots	none
 237	Pyrotechnic Paper Paraphernalia	fpmtat	burning paper hat	burning cape	burning paper slippers	burning paper jorts	none	none
 238	Gabardine Guise	gabtat	gabardine garibaldi	gabardine gunnysack	gabardine gaiters	gabardine garland	gabardine girdle	gabardine gloves
 239	Fiberglass Finery	fibertat	fiberglass fedora	fiberglass foil	fiberglass fetish	fiberglass frock	fiberglass fannypack	fiberglass fingerguard

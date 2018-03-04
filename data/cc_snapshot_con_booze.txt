@@ -626,7 +626,7 @@
 626	flask of port
 627	jug of booze
 628	Racisto Ruidoso
-629	cheer wine
+629	stale cheer wine
 630	executive mime flask
 631	mime army wine
 632	neg grog
