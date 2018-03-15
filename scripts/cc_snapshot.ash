@@ -1,6 +1,6 @@
 script "snapshot.ash";
 notify cheesecookie;
-since r18475;
+since r18514;
 
 #	This is a fork of bumcheekcity's snapshot script.
 #	Code comes straight from that. Website layout is copied from it.
@@ -233,7 +233,7 @@ void isInManuel(string monstername, string html, string firstFact)
 void famCheck(string name, string gifname, string hatchling)
 {
 	debug("Looking for familiar: " + name);
-	if(index_of(html, "the " + name) > 0)
+	if(index_of(html, "the " + name + "</td>") > 0)
 	{
 		matcher m = create_matcher("alt=\"" + name + " .([0-9.]+)..", htmlkoldb);
 		float percent = 0.0;
