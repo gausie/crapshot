@@ -382,3 +382,4 @@
 382	thwaitgold metabug statuette	thwaitmetabug
 383	outrageous sombrero	hat2
 384	tin star	tinstar
+385	&quot;Humorous&quot; T-shirt	wtee2
