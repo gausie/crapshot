@@ -380,3 +380,5 @@
 380	primitive alien totem	alientotem
 381	Mysterious Green Box	dreadbox
 382	thwaitgold metabug statuette	thwaitmetabug
+383	outrageous sombrero	hat2
+384	tin star	tinstar
