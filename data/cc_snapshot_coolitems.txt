@@ -379,7 +379,7 @@
 379	primitive alien spear	cavespear
 380	primitive alien totem	alientotem
 381	Mysterious Green Box	dreadbox
-382	thwaitgold metabug statuette	thwaitmetabug
+382	Thwaitgold metabug statuette	thwaitmetabug
 383	outrageous sombrero	hat2
 384	tin star	tinstar
 385	&quot;Humorous&quot; T-shirt	wtee2
