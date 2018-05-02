@@ -189,3 +189,5 @@
 189	o	January's Garbage Tote (unopened)	January's Garbage Tote
 190	f	kerosene-soaked skip	Garbage Fire	dumpsterfire
 191	g	Pokéfam Guide to Capturing All of Them	packet of tall grass seeds	Tall Grass
+192	s	FantasyRealm membership packet	frAlways
+193	f	God Lobster Egg	God Lobster	godlob

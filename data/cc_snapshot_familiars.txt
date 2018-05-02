@@ -249,3 +249,4 @@
 249	Bowlet	pokefam49	Bowlet
 250	Cornbeefadon	pokefam50	Cornbeefadon
 251	Mu	pokefam8675309	Mu
+252	God Lobster	godlob	God Lobster Egg

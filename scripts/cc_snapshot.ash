@@ -1,6 +1,6 @@
 script "snapshot.ash";
 notify cheesecookie;
-since r18514;
+since r18598;
 
 #	This is a fork of bumcheekcity's snapshot script.
 #	Code comes straight from that. Website layout is copied from it.
