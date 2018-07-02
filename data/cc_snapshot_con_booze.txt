@@ -638,3 +638,5 @@
 638	bad rum and good cola
 639	mourning wine
 640	two meat muck
+641	gin and ginger
+642	hipster cocktail

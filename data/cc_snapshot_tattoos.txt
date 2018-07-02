@@ -242,3 +242,4 @@
 243	Warrior's Tattoo	frtat1	FantasyRealm Warrior's Helm	Dragonscale breastplate	The Ghoul King's ghoulottes	belt of Ogrekind	none	none
 244	Wizard's Tattoo	frtat2	FantasyRealm Mage's Hat	nozzle of the Phoenix	the Archwizard's briefs	the Ley Incursion's waist	none	none
 245	Thief's Tattoo	frtat3	FantasyRealm Rogue's Mask	Duke Vampire's regal cloak	leggings of the Spider Queen	Master Thief's utility belt	none	none
+246	gattoo	gtat
