@@ -387,4 +387,4 @@
 387	shield of the Skeleton Lord	skeletonshield
 388	ring of the Skeleton Lord	skeletonring
 389	scepter of the Skeleton Lord	skeletonscepter
-390	Thwaitgold chiger statuette	thwaitchigger
+390	Thwaitgold chigger statuette	thwaitchigger
