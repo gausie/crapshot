@@ -250,3 +250,4 @@
 250	Cornbeefadon	pokefam50	Cornbeefadon
 251	Mu	pokefam8675309	Mu
 252	God Lobster	godlob	God Lobster Egg
+253	Cat Burglar	catburglar	kitten burglar

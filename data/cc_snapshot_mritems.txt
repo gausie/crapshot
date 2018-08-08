@@ -192,3 +192,5 @@
 192	s	FantasyRealm membership packet	frAlways
 193	f	God Lobster Egg	God Lobster	godlob
 194	o	SongBoom&trade; BoomBox Box	SongBoom&trade; BoomBox
+195	f	kitten burglar	Cat Burglar	catburglar
+196	o	Bastille Battalion control rig crate	Bastille Battalion control rig

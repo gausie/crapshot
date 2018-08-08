@@ -829,3 +829,6 @@
 830	denastified haunch
 831	druidic s'more
 832	good guava
+833	chocolate &quot;Phoenix&quot;
+834	chocolate Ogre Chieftain
+835	chocolate Spider Queen
