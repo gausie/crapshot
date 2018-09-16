@@ -384,3 +384,6 @@
 384	Acquire Rhinestones	none	none	none	none	none	none
 385	Paul's Passionate Pop Song	none	none	none	none	none	none
 386	Expert Corner-Cutter	none	none	none	none	none
+387	Budget Conscious	none	none	none	none	none
+388	Drinking to Drink	none	none	none	none	none
+

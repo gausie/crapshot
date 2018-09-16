@@ -388,3 +388,13 @@
 388	ring of the Skeleton Lord	skeletonring
 389	scepter of the Skeleton Lord	skeletonscepter
 390	Thwaitgold chigger statuette	thwaitchigger
+391	Thwaitgold masked hunter statuette	thwaitmasked
+392	tiny plastic sword	plasword
+393	everfull glass	endlessglass
+394	fancy party pants	partypants
+395	gold skull ring	goldskullring
+396	paint palette	nicepalette
+397	PARTY HARD T-shirt	npartyshirt
+398	party crasher	partycrasher
+399	party whip	partywhip
+400	pump-up high-tops	hightops

@@ -1,6 +1,6 @@
 script "snapshot.ash";
 notify cheesecookie;
-since r18743;
+since r18892;
 
 #	This is a fork of bumcheekcity's snapshot script.
 #	Code comes straight from that. Website layout is copied from it.
@@ -625,6 +625,11 @@ void main()
 				}
 				else if(contains_text(visit_url(mritems[x].a), mritems[x].b))
 				{
+					itemAmount = itemAmount + 1;
+				}
+				else if(get_campground() contains to_item(mritems[x].c))
+				{
+					//For bind-on-use workshed items
 					itemAmount = itemAmount + 1;
 				}
 			break;

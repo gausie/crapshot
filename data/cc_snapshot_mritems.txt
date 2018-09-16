@@ -48,7 +48,7 @@
 48	f	cotton candy cocoon	Cotton Candy Carnie	none	none	none	none	none
 49	i	haiku katana	none	none	none	none	none	none
 50	f	spooky rattling cigar box	Disembodied Hand	none	none	none	none	none
-51	t	Tome of Sticker Summoning	Tome of Sticker Summoning	none	none	none	none	none
+51	t	Scratch 'n' Sniff Sticker Tome	Tome of Sticker Summoning	none	none	none	none	none
 52	f	candy cornucopia	Sugar Fruit Fairy	none	none	none	none	none
 53	o	container of Spooky Putty	Spooky Putty mitre	Spooky Putty leotard	Spooky Putty ball	Spooky Putty sheet	Spooky Putty snake	Spooky Putty monster
 54	t	Libram of Love Songs	Libram of Love Songs	none	none	none	none	none
@@ -159,7 +159,7 @@
 159	f	machine elf capsule	Machine Elf	machelf
 160	s	X-32-F snowman crate	snojoAvailable
 161	f	basking robin	Rockin' Robin	rockinrobin
-162	s	LT&T telegraph office dead	telegraphOfficeAvailable
+162	s	LT&T telegraph office deed	telegraphOfficeAvailable
 163	e	Witchess Set	campground.php?action=witchess	Witchess Set
 164	f	disconnected intergnat	Intergnat	discognat
 165	e	Source terminal	campground.php?action=terminal	Source Terminal
@@ -179,7 +179,7 @@
 179	s	Spacegate access badge	spacegateAlways
 180	p	New-You Club Membership Form	New-You Club	New-You Club
 181	o	suspicious package	Kremlin's Greatest Briefcase
-182	e	Asdon Martin keyfob	campground.php?action=workshed	Your Asdon Martin
+182	e	LI-11 Motor Pool voucher	campground.php?action=workshed	Your Asdon Martin	Asdon Martin keyfob
 183	o	Pocket Meteor Guide	Pocket Meteor Guide (well-thumbed)
 184	s	Horsery contract	horseryAvailable
 185	o	corked genie bottle	genie bottle
@@ -194,3 +194,4 @@
 194	o	SongBoom&trade; BoomBox Box	SongBoom&trade; BoomBox
 195	f	kitten burglar	Cat Burglar	catburglar
 196	o	Bastille Battalion control rig crate	Bastille Battalion control rig
+197	s	Neverending Party invitation envelope	neverendingPartyAlways
