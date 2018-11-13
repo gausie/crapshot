@@ -8,3 +8,8 @@
 8	Toggle Optimality	bigredbutton	skillLevel7254	11
 9	Essence of Bear	stench	skillLevel134	2
 10	Calculate the Universe	abacus	skillLevel144	3
+11	Boris Points	trusty	borisPoints	30
+12	Ed Skills	scarab	edPoints	21
+14	Jarlsberg Skills	path12icon	jarlsbergPoints	32
+15	Sneaky Pete Skills	bigglasses	sneakyPetePoints	30
+16	Zombie Skills	tombstone2	zombiePoints	30

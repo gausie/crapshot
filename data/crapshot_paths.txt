@@ -1,6 +1,6 @@
-borisPoints
-edPoints
-heavyRainsPoints
-jarlsbergPoints
-sneakyPetePoints
-zombiePoints
+1	borisPoints
+2	edPoints
+3	heavyRainsPoints
+4	jarlsbergPoints
+5	sneakyPetePoints
+6	zombiePoints

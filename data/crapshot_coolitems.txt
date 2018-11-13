@@ -46,11 +46,11 @@
 46	Talisman of Baio	baiotal
 47	Talisman of Bakula	bakutal
 48	consolation ribbon	ribbon
-49	Staff of the November Jack-O-Lantern
-50	The Necbromancer's Hat	necrocap	none	none	none	none	none
-51	The Necbromancer's Stein	necrostein	none	none	none	none	none
-52	The Necbromancer's Shorts	necroshorts	none	none	none	none	none
-53	The Necbromancer's Wizard Staff	necrostaff	none	none	none	none	none
+49	Staff of the November Jack-O-Lantern	pumpkinstaff
+50	The Necbromancer's Hat	necrocap
+51	The Necbromancer's Stein	necrostein
+52	The Necbromancer's Shorts	necroshorts
+53	The Necbromancer's Wizard Staff	necrostaff
 54	Thwaitgold bee statuette	thwaitbee
 55	Thwaitgold grasshopper statuette	thwaitgrass
 56	Thwaitgold butterfly statuette	thwaitbutt
@@ -209,9 +209,9 @@
 209	cursed microwave	microwave
 210	cursed pony keg	ponykeg
 211	hairshirt	hairshirt
-212	bagged stuffed "L"	baggedl
+212	"bagged stuffed ""L"""	baggedl
 213	stuffed club	stuffedclub
-214	stuffed "L"	stuffedl
+214	"stuffed ""L"""	stuffedl
 215	The Cocktail Shaker	theshaker
 216	Hand-carved bokken	carvedsword
 217	Hand-carved bow	carvedbow
@@ -301,7 +301,7 @@
 301	burnt snowpants	burntpants
 302	Carpathian longsword	carpsword
 303	fleshy lump	skinshield
-304	frigid derringer	derringer	
+304	frigid derringer	derringer
 305	haunted bindle	bindle
 306	Liam's mail	liammail
 307	Mr. Screege's spectacles	spectacles
@@ -398,3 +398,160 @@
 398	party crasher	partycrasher
 399	party whip	partywhip
 400	pump-up high-tops	hightops
+401	hardened slime belt	hardslimebelt
+402	hardened slime hat	hardslimehat
+403	hardened slime pants	hardslimepants
+404	chamoisole	chamoisole
+405	pernicious cudgel	mlcudgel
+406	diabolical crossbow	mlcrossbow
+407	villainous scythe	mlscythe
+408	grisly shield	mlshield
+409	corrosive cowl	mlcowl
+410	corroded breeches	mlpants
+411	malevolent medallion	mlmedal
+412	baneful bandolier	mlbando
+413	slime-covered club	slimeclub
+414	slime-covered speargun	slimespeargun
+415	slime-covered helmet	slimehelm
+416	slime-covered necklace	slimenecklace
+417	slime-covered lantern	slimelantern
+418	slime-covered shovel	slimeshovel
+419	slime-covered compass	slimecompass
+420	slime-covered greaves	slimegreaves
+421	Slime-covered staff	slimestaff
+422	Red Balloon of Valor	hmedballoon
+423	Purple Horseshoe of Honor	hmedhshoe
+424	Blue Diamond of Honesty	hmeddiamond
+425	Green Clover of Justice	hmedclub
+426	Yellow Moon of Compassion	hmedmoon
+427	Orange Star of Sacrifice	hmedstar
+428	Pink Heart of Spirit	hmedheart
+429	Uranium Omega of Temperance	fmedomega
+430	Lead Zeta of Chastity	fmedzeta
+431	Aluminum Epsilon of Humility	fmedepsilon
+432	Zinc Delta of Tranquility	fmeddelta
+433	Nickel Gamma of Frugality	fmedgamma
+434	Iron Beta of Industry	fmedbeta
+435	Copper Alpha of Sincerity	fmedalpha
+436	Order of the Silver Wossname	wossname
+437	Frosty's old silk hat	frostyhat
+438	Frosty's carrot	frostycarrot
+439	Frosty's nailbat	frostynailbat
+440	Frosty's iceball	styore
+441	Frosty's snowball sack	knobsack
+442	Frosty's arm	frostyarm
+443	Zombo's skullcap	skullcap
+444	Zombo's shield	zomboshield
+445	Zombo's grievous greaves	bonepants
+446	Zombo's empty eye	zomboeye
+447	Zombo's shoulder blade	skullsword
+448	Zombo's skull ring	skullring
+449	Chester's bag of candy	candybag
+450	Chester's cutoffs	cutoffs
+451	Chester's moustache	chestache
+452	Chester's Aquarius medallion	aquamedal
+453	Chester's muscle shirt	wifebeater
+454	Chester's sunglasses	chestershades
+455	Ol' Scratch's stovepipe hat	stovehat
+456	Ol' Scratch's ash can	handcan
+457	Ol' Scratch's ol' britches	ninjapants
+458	Ol' Scratch's infernal pitchfork	pitchfork2
+459	Ol' Scratch's manacles	cuffs
+460	Ol' Scratch's stove door	stovedoor
+461	Wand of Oscus	oscuswand
+462	Oscus's dumpster waders	yakpants
+463	Oscus's pelt	ratskin
+464	Oscus's flypaper pants	flypants
+465	Oscus's garbage can lid	trashield
+466	Oscus's neverending soda	soda
+467	Hodgman's porkpie hat	porkpiehat
+468	Hodgman's lobsterskin pants	bpcords
+469	Hodgman's bow tie	hobowtie
+470	Hodgman's lucky sock	tubesock
+471	Hodgman's almanac	book3
+472	Hodgman's metal detector	mdetector
+473	Hodgman's varcolac paw	varcolacpaw
+474	Hodgman's harmonica	harmonica
+475	Hodgman's garbage sticker	picker
+476	Hodgman's cane	cane
+477	Hodgman's whackin' stick	whackstick
+478	Hodgman's disgusting technicolor overcoat	hobovercoat
+479	Hodgman's imaginary hamster	blank
+480	Uncle Hobo's gift baggy pants	giftbagpants
+481	Uncle Hobo's epic beard	epicbeard
+482	Uncle Hobo's stocking cap	stockinghat
+483	Uncle Hobo's fingerless tinsel gloves	tinselglove
+484	Uncle Hobo's highest bough	highestbough
+485	Uncle Hobo's belt	crimbobelt
+486	stainless steel shillelagh	ssshil
+487	stainless steel skullcap	sscap
+488	stainless steel solitaire	ssnecklace
+489	stainless steel scarf	ssscarf
+490	stainless steel slacks	ssslacks
+491	stainless steel suspenders	sssus
+492	plexiglass pikestaff	plexpike
+493	plexiglass pith helmet	plexpith
+494	plexiglass pocketwatch	plexpock
+495	plexiglass pinky ring	plexpink
+496	plexiglass pants	plexpant
+497	plexiglass pendant	plexpend
+498	Brimstone Bludgeon	brimbludgeon
+499	Brimstone Bunker	brimbunker
+500	Brimstone Brooch	brimbrooch
+501	Brimstone Bracelet	brimbracelet
+502	Brimstone Boxers	brimboxers
+503	Brimstone Beret	brimberet
+504	polyester parachute	polyparachute
+505	polyester pad	polypad
+506	polyester peeler	polypeeler
+507	polyester pettipants	polypants
+508	polyester panama hat	polyhat
+509	polyester pulsera	polypulsera
+510	porcelain police baton	porcbaton
+511	porcelain plus-fours	porcpants
+512	porcelain porkpie	porchat
+513	porcelain pepper mill	porcshaker
+514	porcelain pelerine	porcpelegrine
+515	porcelain phantom mask	porcmask
+516	dice ring	dicering
+517	dice belt buckle	dicebuckle
+518	dice-shaped backpack	dicepack
+519	dice-print pajama pants	dicepants
+520	dice-print do-rag	dicerag
+521	dice sunglasses	diceglasses
+522	wicker kickers	wickerkickers
+523	wicker slicker	wickerslicker
+524	wicker knickers	wickerknickers
+525	wicker ticker	wickerticker
+526	wicker sticker	wickersticker
+527	wicker clicker	wickerclicker
+528	bakelite belt	bakebelt
+529	bakelite badge	bakebadge
+530	bakelite bowl	bakebowl
+531	bakelite brooch	bakebrooch
+532	bakelite breeches	bakebreeches
+533	bakelite backpack	bakepack
+534	aerogel anvil	aeroanvil
+535	aerogel akubra	aeroakubra
+536	aerogel apron	aeroapron
+537	aerogel ascot	aeroascot
+538	aerogel attache case	aeroattache
+539	aerogel accordion	aeroaccordion
+540	wrought-iron wig	wroughtwig
+541	wrought-iron winch crank	wroughtcrank
+542	wrought-iron widget	wroughtwidget
+543	wrought-iron whisk	wroughtwhisk
+544	wrought-iron walker	wroughtwalker
+545	wrought-iron waders	wroughtpants
+546	gabardine gaiters	gabgaiters
+547	gabardine garland	gabgarland
+548	gabardine gunnysack	gabgunny
+549	gabardine garibaldi	gabgaribaldi
+550	gabardine girdle	gabgirdle
+551	gabardine gloves	gabgloves
+552	fiberglass fetish	fiberfetish
+553	fiberglass foil	fiberfoil
+554	fiberglass fannypack	fiberfanny
+555	fiberglass frock	fiberfrock
+556	fiberglass fingerguard	fiberfinger
+557	fiberglass fedora	fiberfedora
