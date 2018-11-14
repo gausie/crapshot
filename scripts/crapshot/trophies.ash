@@ -1,15 +1,16 @@
-import <_types>
-import <_utils>
+import "crapshot/_types";
+import "crapshot/_utils";
 
-boolean [string] generateTrophiesSnapshot() {
-  boolean [string] r;
-  ItemImage [int] trophies;
+string generateTrophiesSnapshot() {
+  string r = "";
+  Trophy [int] trophies;
   file_to_map("crapshot_trophies.txt", trophies);
   string html = visit_url("trophies.php");
 
-  foreach x in trophies {
-    r[trophies[x].itemname] = isIn(html, "/" + trophies[x].itemname);
+  foreach x, trophy in trophies {
+    boolean answer = isIn(html, "/" + trophy.image);
+    r += (answer ? "1" : "") + "|";
   }
 
-  return r;
+  return "trophies=" + r;
 }

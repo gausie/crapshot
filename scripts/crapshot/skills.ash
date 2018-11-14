@@ -1,56 +1,35 @@
 import <_types>
 import <_utils>
 
-string skillCheck(string html, ItemImage sk) {
-	string overwrite = sk.a;
+/**
+ *  0: not permed
+ *  1: permed
+ *  2: hardcore permed
+ */
+int skillCheck(string html, string name, string overwrite) {
 	if(overwrite == "none") overwrite = "";
 
-	if(index_of(html, ">"+sk.itemname+"</a> (<b>HP</b>)") != -1) {
-		if(sk.itemname == "Slimy Shoulders") {
-			return "hp-" + (get_property("skillLevel48").to_int() / 2);
-		}
-		if(sk.itemname == "Slimy Sinews") {
-			return "hp-" + (get_property("skillLevel46").to_int() / 2);
-		}
-		if(sk.itemname == "Slimy Synapses") {
-			return "hp-" + get_property("skillLevel47");
-		}
-		return "hp";
-	}
+	if(html.index_of(">" + name + "</a> (<b>HP</b>)") != -1) return 2;
 
-	if((length(overwrite) > 0) && (index_of(html, overwrite) > 0)) {
-		return "hp";
-	}
+	if((overwrite.length() > 0) && (html.index_of(overwrite) > 0)) return 2;
 
-	if(index_of(html, ">"+sk.itemname+"</a> (P)") != -1) {
-		if(sk.itemname == "Slimy Shoulders") {
-			return "p-" + (get_property("skillLevel48").to_int() / 2);
-		}
-		if(sk.itemname == "Slimy Sinews") {
-			return "p-" + (get_property("skillLevel46").to_int() / 2);
-		}
-		if(sk.itemname == "Slimy Synapses") {
-			return "p-" + get_property("skillLevel47");
-		}
-		return "p";
-	}
+	if(html.index_of(">" + name + "</a> (P)") != -1) return 1;
 
-	if((sk.itemname == "Toggle Optimality") && to_skill("Calculate the Universe").have_skill()) {
-		return "hp";
-	}
+	if((name == "Toggle Optimality") && name.to_skill().have_skill()) return 2;
 
-	return "";
+	return 0;
 }
 
-string [string] generateSkillsSnapshot() {
-  string [string] r;
+string generateSkillsSnapshot() {
+  string r = "";
   ItemImage [int] skills;
   file_to_map("crapshot_skills.txt", skills);
 
   string html = visit_url("charsheet.php") + visit_url("campground.php?action=bookshelf");
   foreach x in skills {
-    r[skills[x].itemname] = skillCheck(html, skills[x]);
+		int answer = skillCheck(html, skills[x].itemname, skills[x].a);
+		r += (answer > 0 ? answer.to_string() : "") + "|";
   }
 
-  return r;
+  return "skills=" + r;
 }

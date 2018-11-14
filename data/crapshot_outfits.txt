@@ -1,0 +1,140 @@
+8-Bit Finery	swordtat
+Aeroutfit	aerotat
+Animelf Apparel	animelftat
+Antique Arms and Armor	armortat
+Arboreal Raiment	wreathtat
+Arrrbor Day Apparrrrrel	arbortat
+BRICKOfig Outfit	minifigtat
+Bakelite Brigandine	baketat
+Bits o' Honey	honeytat
+Black Armaments	blacktat
+Blasphemous Bedizenment	brimtat
+Bounty-Hunting Rig	meattat
+Bow Tux	bowtat
+Brogre Brouture	brogretat
+Bugbear Costume	bugbear
+Ceramic Suit	porctat
+Cheerful Reindeer Suit	reintat
+Cloaca-Cola Uniform	cola1tat
+Clockwork Apparatus	clocktat
+Clothing of Loathing	loathetat
+Cold Comforts	doubicetat
+Cool Irons	dvotat8
+Cooper's Couture	barreltat
+Crappy Mer-kin Disguise	merkintat
+Crimbo Duds	pressietat
+Crimborg Assault Armor	halotat
+Crimbot Crimboutfit	zaptat
+Cursed Zombie Pirate Costume	zompirtat
+Dark Bro's Vestments	necbrotat
+Dinsey's Exoskeleton	wdbraintat
+Dire Drifter Duds	spohobotat
+Dreadful Bugbear Suit	dvotat2
+Dreadful Ghost Suit	dvotat5
+Dreadful Pajamas	dvotat1
+Dreadful Skeleton Suit	dvotat6
+Dreadful Vampire Suit	dvotat7
+Dreadful Werewolf Suit	dvotat3
+Dreadful Zombie Suit	dvotat4
+Dwarvish War Uniform	dwarvish
+Dyspepsi-Cola Uniform	cola2tat
+El Vibrato Relics	elvtat
+Eldritch Equipage	elditchtat
+Encephalic Ensemble	jfishtat
+Fancy Tux	blacktie
+FantasyRealm Thief's Outfit	frtat3
+FantasyRealm Warrior's Outfit	frtat1
+FantasyRealm Wizard's Outfit	frtat2
+Fiberglass Finery	fibertat
+Filthy Hippy Disguise	hippy
+Floaty Fatigues	rock_tat
+Frat Boy Ensemble	fratboy
+Frat Warrior Fatigues	warfrattat
+Frigid Northlands Garb	nosealtat
+Furry Suit	losertat
+Gabardine Guise	gabtat
+Genie Garments	genietat
+Ghast Iron Gear	hotghosttat
+Gingerbread Best	gingertat
+Glad Bag Glad Rags	recyctat
+Gladiatorial Glad Rags	spqktat
+Gnauga Hides	gnaugatat
+Government-Issued Garb	vwgovttat
+Grass Guise	eggtat
+Grimy Reaper's Vestments	reapertat
+Hateful Habiliment	yogtat
+High-Radiation Mining Gear	radminetat
+Hodgman's Regal Frippery	hodgmantat
+Hot Daub Ensemble	claytat
+Hot and Cold Running Ninja Suit	ninja
+Hyperborean Hobo Habiliments	colhobotat
+Knight's Armor	bknight
+Knob Goblin Elite Guard Uniform	eliteguard
+Knob Goblin Harem Girl Disguise	haremgirl
+Legendary Regalia of the Chelonian Overlord	revclass2
+Legendary Regalia of the Groovelord	revclass5
+Legendary Regalia of the Master Squeezeboxer	revclass6
+Legendary Regalia of the Pasta Master	revclass3
+Legendary Regalia of the Saucemaestro	revclass4
+Legendary Regalia of the Seal Crusher	revclass1
+Luniform	lunartat
+Mer-kin Gladiatorial Gear	merkgtat
+Mer-kin Scholar's Vestments	merkstat
+Meteor Masquerade	meteortat
+Miming Paraphernalia	mimetat
+Mining Gear	miner
+Mutant Couture	dnatat
+OK Lumberjack Outfit	canadiatat
+Oil Rig	oiltat
+Palmist Paraphernalia	palmtat
+Paperclippery	cliptat
+Pinata Provisions	rad_tat
+Pork Elf Prizes	pigirontat
+Primitive Radio Duds	vol_tat
+Psychic Enpsemble	psychictat
+Pyretic Panhandler Paraphernalia	hothobotat
+Pyrotechnic Paper Paraphernalia	fpmtat
+Radio Free Regalia	radiotat
+Raiments of the Final Boss	bosstat
+Roy Orbison Disguise	orbisontat
+SMOOCH Army Uniform	smoochtat
+Seafaring Suit	sailortat
+Slime Enslamble	vwslimetat
+Slimesuit	slimetat
+Smoked Pottery	potterytat
+Snakeskin Suit	vwsnaketat
+Snowman Suit	snowmantat
+Space Beast Furs	sbeasttat
+Spant Armor	spantat
+Spelunker's Gear	spelunktat
+Star Garb	startat
+Sucker Samurai Suit	lollitat
+Swashbuckling Getup	pirate
+Synthetic Suit	polytat
+Tapered Threads	ducttat
+Tawdry Tramp Togs	slehobotat
+Terrifying Clown Suit	clown
+Terrycloth Tackle	toweltat
+The Emperor's New Clothes	emperortat
+The Jokester's Costume	jokestertat
+Thousandth Birthday Suit	skeletat
+Time Trappings	hourtat
+Topiaria	topitat
+Toxic Togs	toxictat
+Transparent Trappings	plexitat
+Tropical Crimbo Duds	tropictat
+Unblemished Uniform	staintat
+Uncle Hobo's Rags	crimbeard
+Vestments of the Treeslayer	arborween
+Vile Vagrant Vestments	stehobotat
+Violent Vestments	shubtat
+War Hippy Fatigues	warhiptat
+Warbear Dress Armor	bearclawta
+Wax Wardrobe	crayontat
+Wicker Wear	wickertat
+Workoutfit	workouttat
+Wrought Wrappings	wroughttat
+Wumpus-Hair Wardrobe	wumpustat
+Xiblaxian Stealth Suit	xiblaxtat
+Yendorian Finery	elbereth
+eXtreme Cold-Weather Gear	coldgear

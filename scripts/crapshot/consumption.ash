@@ -10,8 +10,8 @@ boolean consumptionCheck(string html, string name) {
 	return find(m);
 }
 
-boolean [string][string] generateConsumptionSnapshot() {
-  boolean [string][string] r;
+string generateConsumptionSnapshot() {
+  string r;
   ItemImage [int] map;
 
 	string html = visit_url("showconsumption.php");
@@ -19,10 +19,15 @@ boolean [string][string] generateConsumptionSnapshot() {
 	foreach y in consumptionTypes {
     string c = consumptionTypes[y];
 		file_to_map("crapshot_con_" + c + ".txt", map);
+		string rc = "";
+
 		foreach x in map {
-			r[c][map[x].itemname] = consumptionCheck(html, map[x].itemname);
+			boolean answer = consumptionCheck(html, map[x].itemname);
+			rc += (answer ? "1" : "") + "|";
 		}
+
+		r += "&consumption[" + c + "]=" + rc;
 	}
 
-  return r;
+  return r.substring(1);
 }

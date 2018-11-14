@@ -18,13 +18,10 @@ int mrItemCheck(string html, ItemImage it) {
 			return i_a(to_item(it.gifname));
 
 		case "o":				//Foldable
-			amount = i_a(to_item(it.gifname));
-			if (it.a != "none") amount += i_a(to_item(it.a));
-			if (it.b != "none") amount += i_a(to_item(it.b));
-			if (it.c != "none") amount += i_a(to_item(it.c));
-			if (it.d != "none") amount += i_a(to_item(it.d));
-			if (it.e != "none") amount += i_a(to_item(it.e));
-			if (it.f != "none") amount += i_a(to_item(it.f));
+			int [item] group = it.gifname.to_item().get_related("fold");
+			foreach doodad in group {
+				amount += i_a(doodad);
+			}
 			return amount;
 
 		case "p":				//Correspondences (Pen Pal, Game Magazine, etc)
@@ -32,7 +29,6 @@ int mrItemCheck(string html, ItemImage it) {
 
 		case "e":				// get campground, otherwise visit page, check for matching text
 			amount = i_a(to_item(it.gifname));
-			if(get_campground() contains to_item(it.gifname)) return amount + 1;
 			if(contains_text(visit_url(it.a), it.b)) return amount + 1;
 			//For bind-on-use workshed items
 			if(get_campground() contains to_item(it.c)) return amount + 1;
@@ -48,15 +44,16 @@ int mrItemCheck(string html, ItemImage it) {
 	return 0;
 }
 
-int [string] generateMrItemsSnapshot() {
-  int [string] r;
+string generateMrItemsSnapshot() {
+  string r = "";
   ItemImage [int] mritems;
   file_to_map("crapshot_mritems.txt", mritems);
 
   string html = visit_url("familiarnames.php") + visit_url("campground.php?action=bookshelf");
   foreach x in mritems {
-    r[mritems[x].itemname] = mrItemCheck(html, mritems[x]);
+		int answer = mrItemCheck(html, mritems[x]);
+    r += (answer > 0 ? answer.to_string() : "") + "|";
   }
 
-  return r;
+  return "mritems=" + r;
 }

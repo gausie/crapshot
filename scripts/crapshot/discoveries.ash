@@ -28,19 +28,24 @@ string visit_discoveries(string url) {
 	return replace_all(reg, "");
 }
 
-boolean [string][string] generateDiscoveriesSnapshot() {
-  boolean [string][string] r;
+string generateDiscoveriesSnapshot() {
+  string r = "";
   ItemImage [int] map;
 
 	foreach y in discoveryTypes {
 		string d = discoveryTypes[y];
+		string rd = "";
+
 		string html = visit_discoveries("craft.php?mode=discoveries&what=" + d);
 		file_to_map("crapshot_dis_" + d + ".txt", map);
 
 		foreach x in map {
-			r[d][map[x].itemname] = discoveryCheck(html, map[x]);
+			boolean answer = discoveryCheck(html, map[x]);
+			rd += (answer ? "1" : "") + "|";
 		}
+
+		r += "&discoveries[" + d + "]=" + rd;
 	}
 
-  return r;
+  return r.substring(1);
 }

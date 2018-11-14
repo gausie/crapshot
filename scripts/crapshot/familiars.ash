@@ -1,34 +1,34 @@
 import <_types>
 import <_utils>
 
-string familiarCheck(string familiarsHtml, string ascensionsHtml, ItemImage fam) {
+int familiarCheck(string familiarsHtml, string ascensionsHtml, ItemImage fam) {
 	debug("Looking for familiar: " + fam.itemname);
-	if(index_of(familiarsHtml, "the " + fam.itemname + "</td>") > 0) {
+	if(familiarsHtml.index_of("the " + fam.itemname + "</td>") > 0) {
 		matcher m = create_matcher("alt=\"" + fam.itemname + " .([0-9.]+)..", ascensionsHtml);
-		float percent = 0.0;
+		int percent = 0;
 		while(find(m)) {
 			string percentMatch = group(m, 1);
-			percent = max(percent, to_float(percentMatch));
+			percent = max(percent, percentMatch.to_int());
 		}
-
-		return percent.to_string();
+		return percent;
 	}
 
-	if(i_a(fam.a) > 0) return "hatchling";
+	if(i_a(fam.a) > 0) return -1;
 
-	return "";
+	return -2;
 }
 
-string [string] generateFamiliarsSnapshot() {
-  string [string] r;
+string generateFamiliarsSnapshot() {
+  string r = "";
   ItemImage [int] familiars;
   file_to_map("crapshot_familiars.txt", familiars);
 
 	string familiarsHtml = visit_url("familiarnames.php");
-	string ascensionsHtml = visit_url("ascensionhistory.php?back=self&who=" +my_id(), false) + visit_url("ascensionhistory.php?back=self&prens13=1&who=" +my_id(), false);
+	string ascensionsHtml = visit_url("ascensionhistory.php?back=self&who=" + my_id(), false) + visit_url("ascensionhistory.php?back=self&prens13=1&who=" + my_id(), false);
 	foreach x in familiars {
-		r[familiars[x].itemname] = familiarCheck(familiarsHtml, ascensionsHtml, familiars[x]);
+		int answer = familiarCheck(familiarsHtml, ascensionsHtml, familiars[x]);
+		r += (answer > -2 ? answer.to_string() : "") + "|";
 	}
 
-  return r;
+  return "familiars=" + r;
 }

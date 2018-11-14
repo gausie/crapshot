@@ -5,8 +5,8 @@ manuelTypes[0] = "casually";
 manuelTypes[1] = "thoroughly";
 manuelTypes[2] = "exhaustively";
 
-int [string] generateManuelSnapshot() {
-  int [string] r;
+string generateManuelSnapshot() {
+  string r = "";
 
   string html = visit_url("questlog.php?which=6&vl=a");
 	if(!contains_text(html, "Monster Manuel")) return r;
@@ -14,8 +14,9 @@ int [string] generateManuelSnapshot() {
   foreach y in manuelTypes {
     string t = manuelTypes[y];
 		matcher m = create_matcher(t + "(?:.*?)([0-9]+) creature(s?)[.]", html);
-		if(find(m)) r[t] = group(m,1).to_int();
+		if(find(m)) r+= group(m,1);
+    r += "";
 	}
 
-  return r;
+  return "manuel=" + r;
 }

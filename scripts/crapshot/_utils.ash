@@ -3,26 +3,26 @@ void debug(string s) {
 	if (debug) { print(s, "blue"); }
 }
 
-int i_a(string name) {
-	if(name == "none" || name == "") return 0;
+int i_a(item i) {
+	if (i == $item[none]) return 0;
 
-	item i = to_item(name);
-	int amt = item_amount(i) + closet_amount(i) + equipped_amount(i) + storage_amount(i);
-	amt += display_amount(i) + shop_amount(i);
+	int amt = item_amount(i) + closet_amount(i) + equipped_amount(i) + storage_amount(i) + display_amount(i) + shop_amount(i);
 
 	//Make a check for familiar equipment NOT equipped on the current familiar.
 	foreach fam in $familiars[] {
-		if(have_familiar(fam) && fam != my_familiar()) {
-			if(name == to_string(familiar_equipped_equipment(fam)) && name != "none") {
-				amt += 1;
-			}
-		}
+		if(have_familiar(fam) && (fam != my_familiar()) && (familiar_equipped_equipment(fam) == i)) amt += 1;
 	}
 
 	//Thanks, Bale!
 	if(get_campground() contains i) amt += 1;
 
 	return amt;
+}
+
+int i_a(string name) {
+	if(name == "none" || name == "") return 0;
+	item i = to_item(name);
+	return i_a(i);
 }
 
 boolean isIn(string html, string name) {
